@@ -18,7 +18,7 @@ Bonds are tradable debt securities. Essentially they are standardized loans whic
 
 # Equities
 # Commodities
-# Foreign Exchange
+
 # Real Estate
 # Infrastructure
 
