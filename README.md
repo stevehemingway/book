@@ -11,3 +11,6 @@ I have worked in and around securities markets for a long time. For the last twe
 I had no intention of writing a book which is a comprehensive overview of how financial markets work. I include in the bibliography a range of my favourites, but this is a very incomplete list. My goal is to tell you the least you need to know to have a reasonable chance of losing your shirt when you start trading.
 
 
+# What this book does not cover
+
+Investing is spending money on any asset that is not immediately consumed. It is perfectly possible to invest in a car or a house. This book does not cover these sorts of investment decisions. It restricts itself entirely to investments in tradable securitie.
