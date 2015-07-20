@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Asset Classes](asset_classes.md)
+* [Real Assets](asset_classes.md)
 * [Bibliography](bibliography.md)
 
