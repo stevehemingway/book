@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Asset Classes](asset_classes.md)
-* Bibliography
+* [Bibliography](bibliography.md)
 
