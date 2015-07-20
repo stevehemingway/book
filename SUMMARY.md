@@ -1,4 +1,4 @@
 # Summary
 
-* [Chapter 1](chapter-1md.md)
+* [Chapter 1](chapter-1.md)
 
