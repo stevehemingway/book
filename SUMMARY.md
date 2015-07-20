@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Asset Classes
+* [Asset Classes](asset_classes.md)
 
