@@ -4,9 +4,10 @@ I think of an asset as something that generates a cashflow at some point in the 
 
 In this chapter I will restrict myself to 'cash' or 'spot' or 'real' assets: ones which, if you can travel to them, you can kick, or at least handle.
 
-# Equities
 # Bonds
+
 # Credit
+# Equities
 # Commodities
 # Foreign Exchange
 
