@@ -4,6 +4,10 @@
 
 Ross Goobey, 50's
 
+## Open Interest
+
+The number of derivatives contract that have not been closed. E.g. a new futures contract starts trading, you buy 1 contract ('lot'), by entering into a trade with a counterparty who sells you the lot. At this point, if no other trades have taken place, you the open interest for this contract is exactly one.  Open Interest is a _stock_, Volume is a _flow_.
+
 ## REITS
 
 Real Estate Investment Trust. Tax-privileged corporate structure that gives a relatively pure exposure to developed (completed) commercial and residential real estate.  Residential REITs have various problems to do with tax.
@@ -12,6 +16,6 @@ Real Estate Investment Trust. Tax-privileged corporate structure that gives a re
 
 Trading volume, amount of stuff changing hands. 
 
-## Open Interest
+## Credit Risk
 
-The number of derivatives contract that have not been closed. E.g. a new futures contract starts trading, you buy 1 contract ('lot'), by entering into a trade with a counterparty who sells you the lot. At this point, if no other trades have taken place, you the open interest for this contract is exactly one.  Open Interest is a _stock_, Volume is a _flow_.
+non performance of contract.
