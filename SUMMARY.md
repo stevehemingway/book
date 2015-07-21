@@ -7,5 +7,4 @@
 * [Derivatives](derivatives.md)
 * [Risk Measures](risk_measures.md)
 * [Introduction](introduction.md)
-* Glossary
 
