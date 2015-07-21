@@ -1,5 +1,10 @@
 # Audience
 
+{{ book.author_name }}
+
+{{ book.host }}
+
+
 # Assumed prior knowledge
 
 <!---
