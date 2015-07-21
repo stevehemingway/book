@@ -8,6 +8,6 @@
 * [Equities](asset_classes/equitiesmd.md)
 * [Derivatives](derivatives.md)
 * [Risk Measures](risk_measures.md)
-* [Where to Trade](where_to_trade.md)
+* [Trading](where_to_trade.md)
 * [Current Issues](current_issues.md)
 
