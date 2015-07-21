@@ -1,5 +1,9 @@
 # Glossary
 
+## Credit Risk
+
+non performance of contract.
+
 ## Cult of Equity
 
 Ross Goobey, 50's
@@ -16,6 +20,6 @@ Real Estate Investment Trust. Tax-privileged corporate structure that gives a re
 
 Trading volume, amount of stuff changing hands. 
 
-## Credit Risk
+## Market Risk
 
-non performance of contract.
+Risk arising from the fact that the price of securities in the future is a random variable.
