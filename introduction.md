@@ -10,8 +10,11 @@ For the last twenty years I've been investing my own money (and that of some clo
 
 # Goals
 
-
 I had no intention of writing a book which is a comprehensive overview of how financial markets work. My goal is to tell you the least you need to know to have a reasonable chance of losing your shirt when you start trading.
+
+This book is for people who are prepared to be moderately active in their investing: doing a few trades a week, on average. There definitely comes a point, quite quickly, when frequency of trading erodes returns, but to ignore macro changes can also be expensive.
+
+If you want a portfolio that you can just check once a year, you need to get a very broad exposure to assets on as many dimensions as possible. This book will help you understand why this is important, and how to execute this strategy, but you can afford to ignore the sections on futures and options.
 
 # Further Reading
 
