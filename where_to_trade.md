@@ -14,8 +14,11 @@ How do you know the price is low if you don't have a view on what it should be?
 
 # The importance of securities exchanges
 
+The nexus where buyers and sellers meet and prices are most easily discovered.
+
 # Stock Exchanges
 
+Deliver price visibility, and, sometimes, settlement services.
 
 # Futures Exchanges
 
