@@ -2,6 +2,14 @@
 
 # Assumed prior knowledge
 
+<!---
+Maths, at least some basic algebra, for the derivatives and bonds chapters.
+
+Probability: basic concept of a probability distribution.
+
+Basic economics: consumption vs saving?
+--->
+
 # Background
 
 I have worked in and around securities markets for a long time. I have had an interest in them for even longer. I first came across tradable investment markets when I was working for Psion, then a computer games company, in the 80's. I wrote a trading simulator to help train FX traders (and others). 
