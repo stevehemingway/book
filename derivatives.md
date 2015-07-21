@@ -8,6 +8,11 @@ Include forwards.
 
 # Options
 
+Underlying, expiry, exercise style, strike price, call or put.
+
+## Greeks
+
+
 # CFDs
 
 Highlight difference between synthetic and physical ETFs.
