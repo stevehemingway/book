@@ -1,50 +1,9 @@
 # Glossary
 
-## REIT
+## REITS
 
 Real Estate Investment Trust. Tax-privileged corporate structure that gives a relatively pure exposure to developed (completed) commercial and residential real estate.  Residential REITs have various problems to do with tax.
 
-## Sharpe Ratio
+## Cult of Equity
 
-## Sortini Ratio
-
-## Drawdown
-
-## Value at Risk
-
-## Greeks
-
-## Delta
-
-## Futures
-
-## Options
-
-## Stop Order
-
-## Limit Order
-
-## Market Order
-
-## Short
-
-## Long
-
-## Contango
-
-## Backwardation
-
-## Yield
-
-## Gross Redemption Yield
-
-## IRR
-
-## NPV
-
-## Expectation
-
-## Risk Neutral Valuation
-
-
-
+Ross Goobey, 50's
