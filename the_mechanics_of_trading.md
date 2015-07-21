@@ -1,12 +1,18 @@
-# The importance of securities exchanges
+# Asset Classes
 
-# Stock Exchanges
+## Equities
 
+## Bonds
 
-# Futures Exchanges
+### Corporate Bonds
 
-# Options Exchanges
+### Sovereign Bonds
 
-# Brokers
+## FX
+
+## Commodities
+
+## Real Estate
+
 
 
