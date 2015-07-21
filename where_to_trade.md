@@ -2,7 +2,7 @@
 
 All investors worry about their exit: converting their paper gains to real assets. For the trader, the exit is the closing of his position, which converts his unrealized profit to a realized profit.
 
- <---
+ <!---
  this is a note.
  --->
 
