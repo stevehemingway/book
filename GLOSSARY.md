@@ -34,3 +34,17 @@ Real Estate Investment Trust. Tax-privileged corporate structure that gives a re
 
 ## Backwardation
 
+## Yield
+
+## Gross Redemption Yield
+
+## IRR
+
+## NPV
+
+## Expectation
+
+## Risk Neutral Valuation
+
+
+
