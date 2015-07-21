@@ -7,7 +7,7 @@
 * [Asset Classes](the_mechanics_of_trading.md)
 * [Equities](asset_classes/equitiesmd.md)
 * [Derivatives](derivatives.md)
-* [Risk Measures](risk_measures.md)
+* [Risk ](risk_measures.md)
 * [Trading](where_to_trade.md)
 * [Current Issues](current_issues.md)
 
