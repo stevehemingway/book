@@ -16,5 +16,7 @@ Highlight difference between synthetic and physical ETFs.
 
 # Foreign Exchange
 
+# Stock Market Index 
+
 
 
