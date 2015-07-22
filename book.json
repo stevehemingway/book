@@ -2,10 +2,7 @@
     "plugins": [
         "katex"
     ],
-    "pluginsConfig": {}
-}
-
-{
+    "pluginsConfig": {},
     "variables": {
         "host": "mybook.com",
         "author_name": "Steve Hemingway"
