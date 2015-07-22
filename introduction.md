@@ -1,4 +1,8 @@
+
+
 # Audience
+
+I wrote this book as a primer for  trading securities markets. The aim is to cover 'stocks and shares' (bonds and equities), but also derivatives markets. 
 
 {{ book.author_name }}
 
@@ -6,6 +10,7 @@
 
 
 # Assumed prior knowledge
+
 
 <!---
 Maths, at least some basic algebra, for the derivatives and bonds chapters.
@@ -38,3 +43,5 @@ I include in the bibliography a range of my favourites, but this is a very incom
 Investing is spending money on any asset that is not immediately consumed. It is perfectly possible to invest in a car or a house. This book does not cover these sorts of investment decisions. It restricts itself entirely to investments in tradable securities. 
 
 The biggest class of all, in terms of investable assets is real estate. Although I discuss investing in this via REITs, I do not propose to write anything about direct investment. There is a book to be written about making money from investing directly in real estate, but this isn't it.
+
+I also do not cover very short term 'day' trading, or have anything much to say about technical analysis. I am quite prepared to believe that it is possible to make money from this sort of trading, but I have no idea how it is done. 
