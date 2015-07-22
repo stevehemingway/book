@@ -24,10 +24,14 @@ Real Estate Investment Trust. Tax-privileged corporate structure that gives a re
 
 Trading volume, amount of stuff changing hands. 
 
+## holdings
+
+The stock of securities held by an investor.
+
 ## market price
 
 The price at which the supply and demand schedules for a security are in balance. See also bid price, last price, offer price and NBBO.
 
-## holdings
+## position
 
-The stock of securities held by an investor.
+The amount of quantity of a particular security available to buy or sell. 
