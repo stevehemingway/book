@@ -27,3 +27,7 @@ Trading volume, amount of stuff changing hands.
 ## market price
 
 The price at which the supply and demand schedules for a security are in balance. See also bid price, last price, offer price and NBBO.
+
+## holdings
+
+The stock of securities held by an investor.
