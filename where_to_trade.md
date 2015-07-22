@@ -10,7 +10,7 @@ This rule works whether you buy first, or sell first.  If you sell first, this i
  --->
  
  
-## The importance of valuation
+## Valuation
 
 How do you know the price is low if you don't have a view on what it should be? The sorts of  securities we will be selling will be widely held. Presumably most holders are very happy to hold on to their stock of securities (their holdings or position)
  
@@ -32,7 +32,16 @@ The nexus where buyers and sellers meet and prices are most easily discovered.
 
 # Stock Exchanges
 
-Deliver price visibility, and, sometimes, settlement services.
+Deliver price visibility, and, sometimes, settlement services. 
+
+A marketplace, where buyers and sellers come together to assist price discovery. These days usually coming together in a strictly electronic sense. 
+
+Will usually collect bids and offers from participants. Sometimes with specialists, who enjoy certain privileges in exchange for providing liquidity. 
+
+Securities exchanges often work to reduce the delivery risk to buyers and sellers by providing some structured settlement system by ensuring transfer of title against payment. They will always attempt to standardize securities. Without standardizing contracts selling and buying become enormously more expensive. God gave us wheat, but the Chicago Board of Trade gave us _No. 2 Soft Red Winter Wheat_ .
+
+
+
 
 # Futures Exchanges
 
@@ -47,9 +56,11 @@ The most basic derivative. Has existed for hundreds of years to meet the demand 
 
 Some people make a keen distinction between speculating and investing. I do not. [expand]
 
-## Value
-
 ## Momentum 
+
+## Growth
+
+## Value 
 
 ## Sector rotation
 
