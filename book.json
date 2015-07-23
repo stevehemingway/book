@@ -15,8 +15,7 @@
     },
     "gitbook": ">=2.0.0",
     "plugins": [
-        "katex",
-        "autocover"
+        "katex"
     ],
     "pluginsConfig": {},
     "variables": {
