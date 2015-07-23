@@ -16,7 +16,7 @@ How do you know the price is low if you don't have a view on what it should be? 
  
 Each investor will have a value to him of 
 
-$$\[\sum_{i} Exp(pv_i ) \]$$
+$$\sum_{i} Exp(pv_i ) $$
 
 where $$pv_i = c_i d_i$$ and $$d_i = d(t_i)$$ and the expectation is formed over the probability distribution for receiving $$c_i$$ at time $$t_i$$. 
 
@@ -51,6 +51,15 @@ The most basic derivative. Has existed for hundreds of years to meet the demand 
 # Options Exchanges
 
 # Brokers
+
+Exchanges have systems that cannot be accessed directly by end investors. Diversification is important, and having good access to as many exchanges is necessary to get good diversification. Most brokers concentrate in one geographical area (e.g. UK or USA), or in one product area (like futures and options). Many struggle to develop systems which are truly multi-currency. Brokers are supposed to have protocols in place to minimize credit risk: you, as a trader, do not trade with them as a counterparty: they are your agent.
+
+In the area of futures traders, there have been some spectacular failures: MF Global, and Saxo Spreads. Brokers tend to fail at a time of maximum market volatility: the very last time you want to try to change brokers, and take the risk of liquidating and re-establishing a position.
+
+I have found that a good place to start is [Barron's Survey of Online Brokerages](http://online.barrons.com/articles/SB51367578116875004693704580500193983582362). I personally use Interactive Brokers. They are fairly sophisticated, and are the best that I've come across. Previously I was with Options Xpress, a very good brokerage, owned by Charles Schwab, but one that now focuses almost exclusively on clients based in the USA. My experience is that US-based brokerages are many years ahead of UK or European providers in terms of technology and breadth of product coverage.
+
+
+
 
 # Styles of Investing
 
