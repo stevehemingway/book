@@ -1,13 +1,11 @@
 {
-    "version": "2.1.0",
+    "gitbook": ">=2.0.0",
     "plugins": [
         "katex"
     ],
     "pluginsConfig": {},
-    
     "variables": {
         "host": "mybook.com",
         "author_name": "Steve Hemingway"
-        
     }
 }
