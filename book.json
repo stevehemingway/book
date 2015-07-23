@@ -1,4 +1,18 @@
 {
+       "title": "Investing 101 (working title)",
+    "author": "Steve Hemingway",
+    "font": {
+        "size": null,
+        "family": "Impact",
+        "color": "#FFF"
+    },
+    "size": {
+        "w": 1800,
+        "h": 2360
+    },
+    "background": {
+        "color": "#09F"
+    }
     "gitbook": ">=2.0.0",
     "plugins": [
         "katex",
