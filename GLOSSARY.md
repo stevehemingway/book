@@ -1,5 +1,11 @@
 # Glossary
 
+## Miller Mogdiliani Theorem
+The 'no magic in gearing' theorem. States that, in a slightly idealized world in which there are no taxes on dividends, profits or bond interest. Most practitioners probably think that this is total rubbish, but I rather admire it.
+
+## Effecient Market Hypothesis
+The idea that the price of a security reflects all publically available information about it at all times.
+
 ## Credit Risk
 
 non performance of contract.
@@ -34,4 +40,4 @@ The price at which the supply and demand schedules for a security are in balance
 
 ## position
 
-The amount of quantity of a particular security available to buy or sell. 
+The amount of quantity of a particular security available to buy or sell. 	

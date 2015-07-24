@@ -10,11 +10,16 @@ I think of an asset as something that generates a cash-flow at some point in the
 
 In this chapter I will restrict myself to *cash* or "spot" or "real"  assets: ones which, if you can travel to them, you can kick, or at least handle them, in contrast to derivative assets, which are contracts the price of which depends, in some very general way, on the price 
 
+# Seniority of obligations
+As a basic distinction, a loan, whether a bond or not, is a promise to pay a sum of money in the future, a share is the promise to pay what is left over when the bondholders have been paid off. Of course, as with all promises, things can go wrong, so from the point of view of the bondholder, the nominal amount is the maximum amount of money that the investor can expect to receive. The risk that the investor bears is that the borrower fails to repay. [reasons: list]
+
 # Bonds
 
-Bonds are tradable debt securities. Essentially they are standardized loans which can be traded on an exchange.
+Bonds are tradable debt securities. Essentially they are standardized loans which can be traded on an exchange. 
 
 # Credit
+
+Credit is a general term for tradeable and non-tradeable 
 
 # Equities
 # Commodities
@@ -25,3 +30,4 @@ Bonds are tradable debt securities. Essentially they are standardized loans whic
 
 
 [^storage-cost]: Commodities will generate a negative stream of income, as generally there will be a warehousing cost.
+[^EMH]: The Efficient Market Hypothesis, associated mainly with Eugene Fama.
