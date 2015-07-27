@@ -10,6 +10,7 @@
 * [Risk](risk_measures.md)
 * [Trading](where_to_trade.md)
 * [Current Issues](current_issues.md)
+* [Trading Diary](trading_diary.md)
 * [Bibliography](bibliography.md)
 * [Glossary](GLOSSARY.md)
 * [Copyright Notice](copyright.md)

@@ -1,7 +1,6 @@
 {
     "title": "Investing 101 (working title)",
     "author": "Steve Hemingway",
-    "author_email": "steve.hemingway@gmail.com"
     "font": {
         "size": null,
         "family": "Impact",
@@ -19,9 +18,12 @@
         "katex"
     ],
     "pluginsConfig": {},
+	
     "variables": {
-        "host": "mybook.com",
+        "host": "gitbook.com",
         "author_name": "Steve Hemingway",
-		"best_brokerage": "Interactive Brokers",
+		"author_email": "steve.hemingway@gmail.com",
+		"best_brokerage": "Interactive Brokers"
+		
     }
 }
