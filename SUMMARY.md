@@ -11,5 +11,5 @@
 * [Current Issues](current_issues.md)
 * [Bibliography](bibliography.md)
 * [Glossary](GLOSSARY.md)
-* [copyright.md](copyright.md)
+* [Copyright Notice](copyright.md)
 
