@@ -18,7 +18,7 @@ References:
 * 	[John Authers](http://www.ft.com/cms/s/0/70d10010-2628-11e5-9c4e-a775d2b173ca.html)
 *	[Strengthening US economy bolsters case for rate rise](http://www.ft.com/cms/s/0/2c0e9116-330e-11e5-bdbb-35e55cbae175.html)
 *	[Global Markets Overview](http://www.ft.com/global-market-overview)
-
+*	[GMO for 24 July 2015](http://www.ft.com/cms/s/0/ae2e9730-31b1-11e5-8873-775ba7c2ea3d.html)
 
 ---
 
