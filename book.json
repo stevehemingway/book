@@ -20,6 +20,7 @@
     "pluginsConfig": {},
     "variables": {
         "host": "mybook.com",
-        "author_name": "Steve Hemingway"
+        "author_name": "Steve Hemingway",
+		"best_brokerage": "Interactive Brokers",
     }
 }
