@@ -31,3 +31,5 @@ Credit is a general term for tradeable and non-tradeable
 
 [^storage-cost]: Commodities will generate a negative stream of income, as generally there will be a warehousing cost.
 [^EMH]: The Efficient Market Hypothesis, associated mainly with Eugene Fama.
+
+{% include "./copyright.md" %}
