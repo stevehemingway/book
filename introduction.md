@@ -1,4 +1,6 @@
-
+<title>
+Preface
+</title>
 
 # Audience
 
@@ -22,7 +24,7 @@ Basic economics: consumption vs saving?
 
 # Background
 
-I have worked in and around securities markets for a long time. I have had an interest in them for even longer. I first came across tradable investment markets when I was working for Psion, then a computer games company, in the 80's. I wrote a trading simulator to help train FX traders (and others). 
+I have worked in and around securities markets for a long time. I have had an interest in them for even longer. I first came across tradable investment markets when I was working a computer games company, in the 80's. I wrote a trading simulator to help train FX traders (and others). 
 
 For the last twenty years I've been investing my own money (and that of some close associates). I have made a lot of mistakes. I have learned a lot of things in the process. My goal in writing this book is to help you avoid these mistakes, and maybe to make some new ones of your own. With any luck they'll be less costly than mine, at least in percentage terms.
 

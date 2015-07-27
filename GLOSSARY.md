@@ -32,7 +32,8 @@ Trading volume, amount of stuff changing hands.
 
 ## holdings
 
-The stock of securities held by an investor.
+The stock of securities held by an investor. I.e. your portfolio: the set of things you own. Ownership is used in a legal, but otherwise vague sense.
+
 
 ## market price
 
@@ -41,3 +42,15 @@ The price at which the supply and demand schedules for a security are in balance
 ## position
 
 The amount of quantity of a particular security available to buy or sell. 	
+
+## Carry Cost
+
+To understand the net return on a portfolio it is best to imagine creating it ex-nihilo. To acquire assets it is then necessary to borrow, typically by borrowing (shorting) your home currency, or some other funding source. Although people do not always think about equity porfolios this way, it is actually a useful way to think about whether or not an investment really is worth making. It might sound good to hold a share portfolio for a year and show a total return of 10%, but if short-term interest rates are running at 12% it suddenly doesn't sound so smart any more. 
+
+Because the Yen was, for so long, the currency with the cheapest carry cost, it became very common, and profitable, to put on a 'Yen carry trade', which involves selling the Yen against (for example) the dollar. Because the long asset has the higher yield, this was a profitable trade. Clearly the danger is that the Yen goes up before the redemption date. This is exactly what simple arbitrage considerations would leave us to believe. 
+
+## Mean Reversion
+
+Certain prices have mean reverting behaviour. Yields cannot go up, or down, forever. Reversing a trend, though, can take a long, and variable, time. Example: price (or yield) of a bond, over time. 
+
+## Secular Stagnation
