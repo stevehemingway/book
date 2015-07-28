@@ -68,5 +68,3 @@ Real Estate
 [[infrastructure]]
 Infrastructure
 --------------
-
-\{% include ``./copyright.md'' %}

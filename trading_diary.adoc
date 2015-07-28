@@ -109,5 +109,3 @@ gets panicky. I need to reduce the US equity element, I think, as I’m
 getting nervous about the dominance of growth stocks in the SP500.
 
 '''''
-
-\{% include ``./copyright.md'' %}

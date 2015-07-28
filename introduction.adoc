@@ -84,4 +84,4 @@ to say about technical analysis. I am quite prepared to believe that it
 is possible to make money from this sort of trading, but I have no idea
 how it is done.
 
-\{% include ``./copyright.md'' %}
+{% include "./copyright.adoc" %}
