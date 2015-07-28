@@ -3,7 +3,11 @@
 
 I wrote this book as a primer for  trading securities markets. The aim is to cover 'stocks and shares' (bonds and equities), but also derivatives markets. 
 
-# Assumed prior knowledge
+# To get the most out of this book
+
+It is worth reading one of the  background books, listed in the bibliography. 
+
+[Rutterford, "An Introduction to Stock Exchange Investment"], 
 
 
 <!---
@@ -42,4 +46,4 @@ I also do not cover very short term 'day' trading, or have anything much to say 
 
 
 
-{% include "copyright.md" %}
+{% include "./copyright.md" %}

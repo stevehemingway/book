@@ -30,9 +30,9 @@ Real Estate Investment Trust. Tax-privileged corporate structure that gives a re
 
 Trading volume, amount of stuff changing hands. 
 
-## holdings
+## Position
 
-The stock of securities held by an investor. I.e. your portfolio: the set of things you own. Ownership is used in a legal, but otherwise vague sense.
+The stock of securities held by an investor. I.e. your portfolio: the set of things you own. Ownership is used in a legal, but otherwise vague sense. Your position is also known as your holdings: the stuff you own!
 
 
 ## market price
