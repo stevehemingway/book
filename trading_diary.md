@@ -12,6 +12,18 @@ The exposure is tipped to Europe, in the hope that we'd finally escape from the 
 *	Marginally less than perfect results form Apple,
 *	Collapses of the price of commodities and mining companies as the full realization of how much malinvestment has been sunk into mines lately sinks in.
 
+# Monday 27 July
+
+The market seems fixated on the weakness of the Chinese economy, and, by extension that of the rest of the planet. Many Chinese stocks have gone limit down. I have tentatively bought one lot of XINA50, since  a 9.3% decline in a day is surely excessive. I have also purchased 1000 ACWI. The only stocks that have withstood the onslaught are CIU and VNQ. I am showing losses on my short positions in GBL and ZN (and, to a lesser extent, R), but, interestingly BTP is showing a small decline, offering me minuscule gains on my short BTP position. 
+
+The BTP effect shows that credit concerns for Italy slighly overwhelms the effect of inflation expectations.
+
+
+HG and HSI are being slaughtered, both on Chinese weakness. Transports (DTX) is not doing so badly. This seems a very odd market reaction given the relatively strong employment numbers at the end of last week.
+
+
+
+* [China Has Biggest One-Day Stock Crash Since 2007](http://www.bloomberg.com/news/articles/2015-07-27/chinese-stock-index-futures-drop-before-industrial-profits, "Crashing Indexes")
 
 References:
 
@@ -19,6 +31,9 @@ References:
 *	[Strengthening US economy bolsters case for rate rise](http://www.ft.com/cms/s/0/2c0e9116-330e-11e5-bdbb-35e55cbae175.html)
 *	[Global Markets Overview](http://www.ft.com/global-market-overview)
 *	[GMO for 24 July 2015](http://www.ft.com/cms/s/0/ae2e9730-31b1-11e5-8873-775ba7c2ea3d.html)
+
+
+
 
 ---
 
