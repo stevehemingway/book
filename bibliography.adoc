@@ -1,0 +1,24 @@
+[[introductory-books]]
+Introductory Books
+------------------
+
+* http://books.google.com/books?vid=ISBN9780140289329[Penguin Guide to
+Finance]
+* http://books.google.com/books?vid=ISBN0712662596[How to Read the
+Financial Pages]
+
+[[more-advanced]]
+More Advanced
+-------------
+
+* http://books.google.com/books?vid=ISBN9780273781349[Investing
+Demystified: How to Invest Without Speculation and Sleepless Nights]
+* http://books.google.com/books?vid=ISBN9780988679924[Global Asset
+Allocation, Meb Faber]
+* John Hull Futures and Options
+* Brearley and Myers
+* Finnish guy’s book on investment returns
+* [
++
++
+](http://books.google.com/books?vid=ISBN<13-digit ISBN>)

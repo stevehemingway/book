@@ -51,6 +51,9 @@ The euro has been very strong lately, but I feel that this is just mean reversio
 ![Chart for the day: S&P500 since 2007](http://www.advisorperspectives.com/dshort/charts/markets/SPX-snapshot.png)
 
 
+At 16:30 UK time the portfolio is up 0.5%. This is a modest bounce from the lows of yesterday, but it does not feel like the start of a bull market. The modest short bond element of the portfolio (about 20%) doesn't help very much as it is amplifying the swings when the market gets panicky. I need to reduce the US equity element, I think, as I'm getting nervous about the dominance of growth stocks in the SP500.
+
+
 ---
 
 {% include "./copyright.md" %}
