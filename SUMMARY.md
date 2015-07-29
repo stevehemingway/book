@@ -10,7 +10,5 @@
 * [Current Issues](current_issues.adoc)
 * [Trading Diary](trading_diary.adoc)
 * [Bibliography](bibliography.adoc)
-* [Introduction](README.md)
-   * fred
 * [Glossary](GLOSSARY.adoc)
 
