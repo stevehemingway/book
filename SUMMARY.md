@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
 * [README](README.adoc)
 * [Introduction](introduction.adoc)
 * [Real Assets](asset_classes.adoc)
