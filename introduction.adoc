@@ -88,7 +88,7 @@ how it is done.
 How to read this book
 ---------------------
 
-Probably it is best to start with <<how-to-value-stuff, How to value stuff>>.
+Probably it is best to start with <<the_mechanics_of_trading.adoc#how-to-value-stuff, How to value stuff>>.
 
 
 
