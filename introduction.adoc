@@ -84,4 +84,12 @@ to say about technical analysis. I am quite prepared to believe that it
 is possible to make money from this sort of trading, but I have no idea
 how it is done.
 
+[[how-to-read-this-book]]
+How to read this book
+---------------------
+
+Probably it is best to start with <<how-to-value-stuff, How to value stuff>>.
+
+
+
  {% include "copyright.adoc" %}
