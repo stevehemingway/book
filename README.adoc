@@ -16,4 +16,4 @@ Non-Commercial, No-Derivatives Licence]. This means that you’re free to
 download and share, but you must not sell it or change it and pass it
 off as your own. You must attribute me as the author if you share.
 
-\{% include "copyright.adoc" %}
+{% include "copyright.adoc" %}
