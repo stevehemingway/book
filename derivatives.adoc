@@ -22,15 +22,10 @@ Derivatives have a role in amateur investing in the following ways:
 
 1.  obtaining cheap exposure to securities that otherwise would be very
 difficult for amateurs to trade, such as copper or pork bellies,
-2.  -------------------------------------------------------------------------------------------------------------------------------------------------------
-converting income to capital gains, and otherwise to take advantage of differential tax  treatment for different types of profits or gains, (e.g. CFDs)
--------------------------------------------------------------------------------------------------------------------------------------------------------
-3.  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-allowing trading at convenient times for an investor based away from the timezone where the underlying is trading (e.g. the XINA50 future, that trades during European and US timezones, on a Chinese equity index underlying),
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-4.  -------------------------------------------------------------------------------------------------------------------------------------------------------------
-standardizing exposure to a class of assets, such as government bonds, e.g. T Bill futures, where the underlyings have a range of coupons and maturity dates.
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+2.  converting income to capital gains, and otherwise to take advantage of differential tax  treatment for different types of profits or gains, (e.g. CFDs)
+3. allowing trading at convenient times for an investor based away from the timezone where the underlying is trading (e.g. the XINA50 future, that trades during European and US timezones, on a Chinese equity index underlying),
+4. standardizing exposure to a class of assets, such as government bonds, e.g. T Bill futures, where the underlyings have a range of coupons and maturity dates.
+
 
 [[otc-and-exchange-traded-derivatives]]
 OTC and Exchange-Traded Derivatives
