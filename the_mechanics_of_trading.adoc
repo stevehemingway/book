@@ -1,3 +1,9 @@
+[[how-to-value-stuff]]
+How to value stuff
+==================
+
+This is a good chapter to start with.
+
 [[valuation]]
 Valuation
 ---------
