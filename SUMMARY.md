@@ -2,7 +2,6 @@
 
 * [README](README.adoc)
 * [Introduction](introduction.adoc)
-
 * [Real Assets](asset_classes.adoc)
 * [Asset Classes](the_mechanics_of_trading.adoc)
 * [Derivatives](derivatives.adoc)
