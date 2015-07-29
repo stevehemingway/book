@@ -1,7 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
-   * fred
 * [README](README.adoc)
 * [Introduction](introduction.adoc)
 * [Real Assets](asset_classes.adoc)
@@ -12,5 +10,7 @@
 * [Current Issues](current_issues.adoc)
 * [Trading Diary](trading_diary.adoc)
 * [Bibliography](bibliography.adoc)
+* [Introduction](README.md)
+   * fred
 * [Glossary](GLOSSARY.adoc)
 
