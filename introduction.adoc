@@ -3,7 +3,7 @@ Audience
 --------
 
 I wrote this book as a primer for trading securities markets. The aim is
-to cover `stocks and shares' (bonds and equities), but also derivatives
+to cover "stocks and shares" (bonds and equities), but also derivatives
 markets.
 
 [[to-get-the-most-out-of-this-book]]
@@ -13,7 +13,7 @@ To get the most out of this book
 It is worth reading one of the background books, listed in the
 bibliography.
 
-[Rutterford, ``An Introduction to Stock Exchange Investment''],
+[Rutterford, `'An Introduction to Stock Exchange Investment'`],
 
 [[background]]
 Background
@@ -79,9 +79,9 @@ write anything about direct investment. There is a book to be written
 about making money from investing directly in real estate, but this
 isn’t it.
 
-I also do not cover very short term `day' trading, or have anything much
+I also do not cover very short term `'day' `  trading, or have anything much
 to say about technical analysis. I am quite prepared to believe that it
 is possible to make money from this sort of trading, but I have no idea
 how it is done.
 
-{% include "./copyright.adoc" %}
+ {% include "copyright.adoc" %}
