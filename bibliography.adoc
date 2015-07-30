@@ -18,7 +18,18 @@ Allocation, Meb Faber]
 * John Hull Futures and Options
 * Brearley and Myers
 * Finnish guy’s book on investment returns
-* [
-+
-+
-](http://books.google.com/books?vid=ISBN<13-digit ISBN>)
+* [](http://books.google.com/books?vid=ISBN<13-digit ISBN>)
+
+
+
+[bibliography]
+.Books
+- [[[taoup]]] Eric Steven Raymond. 'The Art of Unix
+  Programming'. Addison-Wesley. ISBN 0-13-142901-9.
+- [[[walsh-muellner]]] Norman Walsh & Leonard Muellner.
+  'DocBook - The Definitive Guide'. O'Reilly & Associates. 1999.
+  ISBN 1-56592-580-7.
+
+[bibliography]
+.Articles
+- [[[abc2003]]] Gall Anonim. 'An article', Whatever. 2003.

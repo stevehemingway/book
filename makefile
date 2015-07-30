@@ -7,11 +7,9 @@ adocs = GLOSSARY.adoc README.adoc   asset_classes.adoc bibliography.adoc copyrig
 
 mdocs=SUMMARY.md
 
+all:  _book/index.html
 
-
-all:  _book
-
-_book: $(adocs) $(mdocs)
+_book/index.html: $(adocs) $(mdocs)
 	gitbook build
 	echo "now run gitbook serve from command line"
 	

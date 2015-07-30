@@ -66,6 +66,7 @@ broad sell-off in equities. Equities have sold off around 3% over the
 last week. I am holding on for a bounce tomorrow!
 
 '''''
+12345
 
 [[tuesday-28-july]]
 Tuesday 28 July
@@ -112,7 +113,7 @@ getting nervous about the dominance of growth stocks in the SP500.
 
 [[Wednesday-29-July]]
 Wednesday 29 July
----------------------------
+-----------------
 
 Things are settling down nicely. Portfolio up 0.5% at 18:40. Fed statement on rates today. I don't know what was said, but it seems to have gone down well: SPX up 0.46%. 
 
@@ -124,11 +125,19 @@ AMLP has been
 
 Seems that Fed announcement was not much of a shock, since DX barely moved.
 
-[[30-july]]
-Thursday, 30 July
+'''''
+
+
+[[thursday-30-july]]
+Thursday 30 July
 ----------------
 
 
+At 11:20, Major indexes up, AAA bonds up. Dollar flat. 
+
+Testing referencing of bibliography <<bibliography.adoc#taoup, Art of Unix Programming>>
+
+'''''
 
 
 
