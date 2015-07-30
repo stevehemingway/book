@@ -139,7 +139,7 @@ At 17:14, most equity indexes down, ACWI down 0.32%. Portfolio showing a decline
 
 VaR now sitting at 6.2%. Acceptable, but would like to get it to 5% of portfolio value. The ACWI position now accounts for one third of the VaR. 
 
-Decided to close the IBB position. This strategy needs to be examined later, in more details.
+Decided to close the IBB position. This strategy needs to be examined later, in more detail.
 
 
 
