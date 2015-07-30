@@ -10,5 +10,5 @@
 * [Current Issues](current_issues.adoc)
 * [Trading Diary](trading_diary.adoc)
 * [Bibliography](bibliography.adoc)
-* [Glossary](GLOSSARY.adoc)
+* [Glossary](GLOSSARY.md)
 
