@@ -10,6 +10,9 @@ This rule works whether you buy first, or sell first. If you sell first,
 this is called __short selling__. It is particularly easy to do this
 with futures.
 
+Short selling.
+
+
 [[valuation]]
 Valuation
 ~~~~~~~~~
