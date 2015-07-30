@@ -135,7 +135,15 @@ Thursday 30 July
 
 At 11:20, Major indexes up, AAA bonds up. Dollar flat. 
 
-Testing referencing of bibliography <<bibliography.adoc#taoup, Art of Unix Programming>>
+At 17:14, most equity indexes down, ACWI down 0.32%. Portfolio showing a decline of 2.3bp (0.023%). Basically a flat day. ESTX up .3%, so I'm glad a I bought one extra lot.
+
+VaR now sitting at 6.2%. Acceptable, but would like to get it to 5% of portfolio value. The ACWI position now accounts for one third of the VaR. 
+
+Decided to close the IBB position. This strategy needs to be examined later, in more details.
+
+
+
+// for bibliography test: Testing referencing of bibliography <<bibliography.adoc#taoup, Art of Unix Programming>>
 
 '''''
 
