@@ -29,7 +29,7 @@ market-risk::
 
 open-interest:: 
 	The number of derivatives contract that have not been closed. E.g. a new
-	futures contract starts trading, you buy 1 contract ('`lot`' `lot`), by entering
+	futures contract starts trading, you buy 1 contract ('`lot`' ), by entering
 into a trade with a [.term]counterparty who sells you the lot. At this point,
 	if no other trades have taken place, you the open interest for this
 	contract is exactly one. Open Interest is a __stock__, Volume is a
@@ -63,8 +63,7 @@ carry-cost::
 	or not an investment really is worth making. It might sound good to hold
 	a share portfolio for a year and show a total return of 10%, but if
 	short-term interest rates are running at 12% it suddenly doesn’t sound
-	so smart any more.
-
+	so smart any more. 
 	Because the Yen was, for so long, the currency with the cheapest carry
 	cost, it became very common, and profitable, to put on a '`Yen carry
 	trade`', which involves selling the Yen against (for example) the dollar.
