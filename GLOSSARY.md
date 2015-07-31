@@ -74,5 +74,11 @@ into a trade with a [.term]counterparty who sells you the lot. At this point,
 
 # secular stagnation
 	The explanation of why gdp growth is so slow.
+
+# MXEA
+	EAFE index (Europe Australia and Far East) future. Basically the developed world stocks that are outside the US and Canada. To get a whole-world 
+	exposure to developed markets, 
+	mix with SPX.
+	
 	
 	

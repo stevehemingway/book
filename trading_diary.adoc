@@ -147,6 +147,26 @@ Decided to close the IBB position. This strategy needs to be examined later, in 
 
 '''''
 
+[[thursday-30-july]]
+Thursday 30 July
+----------------
+
+'''''
+
+[[xxxxday-99-mmmm]]
+Friday 31 July
+----------------
+
+Finally my limit order to sell MXEA at 1872 was triggered. Unfortunately I'd sold one lot earlier, so I ended up with a one-lot short position. Not a lot of 
+damage was done, bit I should have adjused the limit order.
+This released margin of about 0.5% of the portfolio value (and about 12.5% of the previous margin). I then extended the position by buying some ETFs. Mainly VTI, 
+which has a wonderfully low expense ratio, but also EFA, which is the ETF equivalent of MXEA.
+
+I have now pushed the VaR expected maximum loss to 5% of the portfolio value, which is a comfortable level that could be increased to take advantage of a rebound from a major market
+movement.
 
 
+
+
+'''''
 
