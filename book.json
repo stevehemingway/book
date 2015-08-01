@@ -23,7 +23,12 @@
         "host": "gitbook.com",
         "author_name": "Steve Hemingway",
 		"author_email": "steve.hemingway@gmail.com",
-		"best_brokerage": "Interactive Brokers"
+		"best_brokerage": "Interactive Brokers",
+		"bibliography":"bibliography.adoc"
 		
+    },
+	"structure": {
+        "readme": "README.adoc",
+		"summary": "SUMMARY.adoc"
     }
 }
