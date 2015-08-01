@@ -142,20 +142,18 @@ VaR now sitting at 6.2%. Acceptable, but would like to get it to 5% of portfolio
 Decided to close the IBB position. This strategy needs to be examined later, in more detail.
 
 
-
-// for bibliography test: Testing referencing of bibliography <<bibliography.adoc#taoup, Art of Unix Programming>>
-
 '''''
 
 [[thursday-30-july]]
 Thursday 30 July
 ----------------
+Not sure what I wrote on this day
 
 '''''
 
-[[xxxxday-99-mmmm]]
+[[Friday-31-july]]
 Friday 31 July
-----------------
+--------------
 
 Finally my limit order to sell MXEA at 1872 was triggered. Unfortunately I'd sold one lot earlier, so I ended up with a one-lot short position. Not a lot of 
 damage was done, bit I should have adjused the limit order.
@@ -164,9 +162,6 @@ which has a wonderfully low expense ratio, but also EFA, which is the ETF equiva
 
 I have now pushed the VaR expected maximum loss to 5% of the portfolio value, which is a comfortable level that could be increased to take advantage of a rebound from a major market
 movement.
-
-
-
 
 '''''
 

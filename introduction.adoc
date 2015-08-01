@@ -64,6 +64,13 @@ articles. As for daily papers, Financial Times and the Wall St Journal
 are both good, but there are also many free Internet resources. I
 recommend Seeking Alpha, and Bloomberg Business.
 
+
+To get a good understanding of the principles of corporate finance it 
+is well worth reading <<{{book.bibliography}}#brealey-and-myers, Brealey and Myers>> .
+
+To get started on understanding derivatives look at <<{{book.bibliography}}#Hull, Hull>>.
+
+
 [[exclusions]]
 Exclusions
 ----------

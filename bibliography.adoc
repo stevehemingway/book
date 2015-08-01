@@ -1,37 +1,17 @@
-[[introductory-books]]
-Introductory Books
-------------------
-
-* http://books.google.com/books?vid=ISBN9780140289329[Penguin Guide to
-Finance]
-* http://books.google.com/books?vid=ISBN0712662596[How to Read the
-Financial Pages]
-
-[[more-advanced]]
-More Advanced
--------------
-
-* http://books.google.com/books?vid=ISBN9780273781349[Investing
-Demystified: How to Invest Without Speculation and Sleepless Nights]
-* http://books.google.com/books?vid=ISBN9780988679924[Global Asset
-Allocation, Meb Faber]
-* John Hull Futures and Options
-* Brearley and Myers
-* Finnish guy’s book on investment returns
-* [](http://books.google.com/books?vid=ISBN<13-digit ISBN>)
-
-
-
 [bibliography]
+= Bibliography
+
 .Books
-- [[[taoup]]] Eric Steven Raymond. 'The Art of Unix
-  Programming'. Addison-Wesley. ISBN 0-13-142901-9.
-- [[[walsh-muellner]]] Norman Walsh & Leonard Muellner.
-  'DocBook - The Definitive Guide'. O'Reilly & Associates. 1999.
-  ISBN 1-56592-580-7.
-- [[[ilmanen]]]  Expected Returns: An Investor's Guide to Harvesting Market Rewards (The Wiley Finance Series) Hardcover – 4 Feb 2011 
-  
+-	[[[ilmanen]]]  Expected Returns: An Investor's Guide to Harvesting Market Rewards
+-	[[[brealey-and-myers]]] Brearley and Myers, Principles of Corporate Finance  http://www.amazon.co.uk/Principles-Corporate-Finance-Richard-Brealey/dp/1259009513
+-	[[[Hull]]] John Hull,  "`Options, Futures and Other Derivatives`"
+-	[[[Elton]]] Modern Portfolio Theory and Investment Analysis, Elton.
+-	[[[Faber]]] Global Asset Allocation, Faber, http://books.google.com/books?vid=ISBN9780988679924
+-	[[[Kroijer]]] Investing Demystified: How to Invest Without Speculation and Sleepless Nights, http://books.google.com/books?vid=ISBN9780273781349
+-	[[[Dixon]]] Penguin Guide to Finance,  http://books.google.com/books?vid=ISBN9780140289329
+-	[[[Brett]] How to Read the Financial Pages, https://books.google.com/books?vid=ISBN0712662596
 
-[bibliography]
-.Articles
-- [[[abc2003]]] Gall Anonim. 'An article', Whatever. 2003.
+.Internet Resources
+-	[[[The-Money-Illusion]]] http://www.themoneyillusion.com/
+-	[[[Zero-Hedge]]] http://zerohedge.com
+-	[[[Seeking-Alpha]] http://seekingalpha.com
