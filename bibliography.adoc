@@ -13,6 +13,6 @@
 
 .Internet Resources
 -	[[[The-Money-Illusion]]] http://www.themoneyillusion.com/
--	[[[Zero-Hedge]]] http://zerohedge.com
+-	[[[Zero-Hedge]]] http://zerohedge.com[Zero Hedge] the antidote to the market cheerleaders employed by the banks on the sell side, and basically the whole of Wall Street.
 -	[[[Seeking-Alpha]]] http://seekingalpha.com[The Seeking Alpha website.]
--   [[[Bogle-Heads]]] https://www.bogleheads.org/[The Bogle Heads Forum]
+-   [[[Bogle-Heads]]] https://www.bogleheads.org/[The Bogle Heads Forum] All about the importance of fees as a determinant of successful investing.
