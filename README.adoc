@@ -2,18 +2,24 @@
 Investing-101
 -------------
 
-This is a book I’m creating on gitbook.com. This uses github as storage.
-You can view the book on GitHub or on GitBook. If you are on GitHub
-you’d be better off going to GitBook where the book can be accessed in
-all sorts of useful ways. The url to access the book there is:
-https://github.com/stevehemingway/Investing-101 (note that if you’re
-reading this on GitBook, then this link is probably to the page where
-you’re reading this.
+I have read many books on investing, but none of them really fully prepared me to trade securities and avoid losing money.
+I am writing the book that I wish I had read when I started seriously investing in the mid 1990s.
+This is a very early draft of the book. 
 
-I have provided this book under a
+I have decided to write it on  http://www.gitbook.com[gitbook.com]. 
+This is a very neat website that uses [http://www.github.com]github as storage.
+At the moment I've decided to use the free GitHub service, which means that I must share my 
+work with the world. You can view the book both on GitHub and GitBook. 
+If you are on GitHub you'll have a better experience by going to GitBook where the book can be accessed in
+all sorts of useful ways. 
+https://github.com/stevehemingway/Investing-101[Here is my book on gitbook].
+
+I have provided this book under a 
 https://creativecommons.org/licenses/by-nc-nd/4.0/[Creative Commons
 Non-Commercial, No-Derivatives Licence]. This means that you’re free to
 download and share, but you must not sell it or change it and pass it
 off as your own. You must attribute me as the author if you share.
 
-{% include "copyright.adoc" %}
+// {% include "copyright.adoc" %}
+
+include::copyright.adoc
