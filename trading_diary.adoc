@@ -164,4 +164,27 @@ I have now pushed the VaR expected maximum loss to 5% of the portfolio value, wh
 movement.
 
 '''''
+//
+//// 
+[[Friday-31-july]]
+Friday 31 July
+--------------
 
+
+'''''
+ ////
+[[Monday-3-aug]]
+Monday 3 Aug
+--------------
+Europe was up a lot earlier this morning, and I just wondered whether I should get exposure via DJ600 (the full 600 stock future) rather than the STOXX 50. 
+In general my attitude is always '`the bigger the number of stocks in the index the better`', as long as I don't have to pay much for the privilege.
+
+I also felt that having 100% GBP currency exposure was possibly bad. I therefore bought some USD. This reduced by margin exposure.
+
+The market moved against me in the afternoon: ACWI down .18%, but I managed to reshuffle my exposure without realizing any losses. 
+Not sure what is driving the market down: EEM seems very weak, so maybe its yet more bad news coming out of China.
+
+'''''
+
+ 
+ 
