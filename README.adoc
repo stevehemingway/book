@@ -12,7 +12,7 @@ At the moment I've decided to use the free GitHub service, which means that I mu
 work with the world. You can view the book both on GitHub and GitBook. 
 If you are on GitHub you'll have a better experience by going to GitBook where the book can be accessed in
 all sorts of useful ways. 
-https://github.com/stevehemingway/Investing-101[Here is my book on gitbook].
+http://stevehem.gitbooks.io/investing-101/[Here is my book on gitbook].
 
 I have provided this book under a 
 https://creativecommons.org/licenses/by-nc-nd/4.0/[Creative Commons
@@ -20,6 +20,6 @@ Non-Commercial, No-Derivatives Licence]. This means that you’re free to
 download and share, but you must not sell it or change it and pass it
 off as your own. You must attribute me as the author if you share.
 
-// {% include "copyright.adoc" %}
+{% include "copyright.adoc" %}
 
-include::copyright.adoc[]
+// doesn't work! include::copyright.adoc[]
