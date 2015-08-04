@@ -21,6 +21,8 @@ commit:
 			git commit
 remote:
 	git commit -a
+	git push origin
+	git push bitbucket
 
 local:
 	_book/index.html
