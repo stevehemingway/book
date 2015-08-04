@@ -185,6 +185,22 @@ The market moved against me in the afternoon: ACWI down .18%, but I managed to r
 Not sure what is driving the market down: EEM seems very weak, so maybe its yet more bad news coming out of China.
 
 '''''
+[[tuesday-4-aug]]
+Tuesday 4 August
+----------------
+Got cold feet yesterday and transmitted a couple of sell orders to reign back the position. 
+Because of the early rally in European equities I'd bought some MXEA, but this slumped later in the day.
+To reduce the overall risk of the position I put in a sell order which was triggered this morning. 
+I also decided to undo my newly increased exposure to USD. 
+It's really not good practice to get cold feet within a day of trading, but fortunately I was able to reverse these trades at no cost.
+
+Current max loss (VaR) standing at less than 4% of portfolio equity, which is as low as it has been for a long time. 
+The summer, and the general uncertainty around China, Greece, US employment, UK recovery, Abenomics and the Fed raising rates all make me want to reduce my exposure.
+Current daily movements trending to around the 10bp level, which is really just noise. 
+To be fair, though, the markets are quite quiet too.
+
+
+'''''
 
  
  

@@ -48,6 +48,15 @@ http://www.advisorperspectives.com/dshort/updates/Market-Cap-to-GDP.php,[This
 article] gives some recent figures. Currently this indicator is
 `flashing red' for long positions in equities.
 
+The problem with a lot of equities valuation is the noise caused by the business cycle. 
+The well-known Shiller CAPE attempts to do this by looking back over ten years of earnings,
+to average out some of the noise.
+A more sophisticated attempt is http://www.advisorperspectives.com/dshort/guest/Easterling-So-Many-Choices-Part-1.php[the Crestmont P/E]. 
+This produces a less noisy signal, but this is at the cost of bringing in more difficult-to-measure parameters.
+In a situation where its impossible to be completely sure that the noise is at an acceptable level, it is best to use as wide a range of indicators, ideally ones which use totally independent statistics. 
+// Ali, can you have a look a this?
+
+
 [[equities-as-a-call-option]]
 Equities as a call option
 ^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -10,10 +10,15 @@ markets.
 To get the most out of this book
 --------------------------------
 
-It is worth reading one of the background books, listed in the
-bibliography.
+It is worth reading some of the background books, listed in the
+bibliography if you are not familiar with direct investment in securities markets.
+You should try to get an idea of what investing strategy you wish to pursue, and,
+having decided that, how to execute it at minimum cost. 
+A big theme of this book is how to get a chosen exposure to a market at the cheapest possible cost.
+Most amateur investors loose much more money by incurring excessive fees than by bad stock picking.
 
-[Rutterford, `'An Introduction to Stock Exchange Investment'`],
+
+ 
 
 [[background]]
 Background
@@ -51,6 +56,10 @@ This book will help you understand why this is important, and how to
 execute this strategy, but you can afford to ignore the sections on
 futures and options.
 
+I will try to explain why it is important to understand the drivers of risk, 
+and, having understood them, how to get compensated to the fullest possible extent for bearing risk.
+
+
 [[further-reading]]
 Further Reading
 ---------------
@@ -64,11 +73,14 @@ articles. As for daily papers, Financial Times and the Wall St Journal
 are both good, but there are also many free Internet resources. I
 recommend Seeking Alpha, and Bloomberg Business.
 
-
 To get a good understanding of the principles of corporate finance it 
 is well worth reading <<{{book.bibliography}}#brealey-and-myers, Brealey and Myers>> .
 
 To get started on understanding derivatives look at <<{{book.bibliography}}#Hull, Hull>>.
+
+I am a huge fan of Warren Buffett, and his very long term approach to investing. 
+However I do not recommend getting exposure to individual companies as I believe that it is practically impossible to find seriously under- (or over-) valued companies with enough liquidity to make Buffett's value investment style practical for the individual investor. This is not to say that he cannot execute this to produce superior returns. 
+If you are a fan of Buffett, I would suggest that it is much more cost effective for you to get exposure to Berkshire Hathaway by buying its shares (or via various means involving derivatives that I discuss in [Chapter on Derivatives]) than by trying to out-analyse his team.
 
 
 [[exclusions]]
@@ -86,17 +98,24 @@ write anything about direct investment. There is a book to be written
 about making money from investing directly in real estate, but this
 isn’t it.
 
-I also do not cover very short term `'day' `  trading, or have anything much
+I also do not cover very short term `'day  trading' `, or have anything much
 to say about technical analysis. I am quite prepared to believe that it
 is possible to make money from this sort of trading, but I have no idea
-how it is done.
+how it is done. 
+It certainly feels as though there is definitely some kind of short term mean reversion in markets, 
+and I have bought after a steep dip, and sold after a large rise (ideally with limit orders), 
+but I cannot recommend this as a way to make systematic and steady profits.
+It is also the sort of trading that would be very time consuming, and I try to avoid
+spending more than an hour or so a day on my investing, ideally a lot less. 
+And this will include reading the market reports in the FT or similar.
+
 
 [[how-to-read-this-book]]
 How to read this book
 ---------------------
 
-Probably it is best to start with <<the_mechanics_of_trading.adoc#how-to-value-stuff, How to value stuff>>.
+// Suggested order of chapters to read with notes on what can be skipped, linked to readers' experience  and interest.
 
 
 
- {% include "copyright.adoc" %}
+
