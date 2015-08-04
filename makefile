@@ -7,7 +7,7 @@ adocs =  README.adoc   asset_classes.adoc bibliography.adoc copyright.adoc curre
 
 mdocs=SUMMARY.md GLOSSARY.md
 
-all:  _book/index.html
+all:  remote
 
 _book/index.html: $(adocs) $(mdocs)
 	gitbook build
@@ -19,4 +19,8 @@ serve:
 commit: 
 			git add .
 			git commit
-	
+remote:
+	git commit -a
+
+local:
+	_book/index.html
