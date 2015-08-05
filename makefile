@@ -26,3 +26,10 @@ remote:
 
 local:
 	_book/index.html
+
+
+build:	_book/index.html
+
+caxtonvilla:
+	gitbook build
+

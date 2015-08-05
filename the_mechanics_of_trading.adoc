@@ -23,6 +23,13 @@ Asset Classes
 Equities
 ~~~~~~~~
 
+A limited liability company is a wonderful invention, one of the many dreamt up by the Victorians.
+I think that they did exist earlier, but because of the catastrophe of the South Sea Bubble, limited liability companies 
+were effectively banned in the UK for a long time. 
+// Need to check this!
+Setting up a company allows creditors to take more or less risk, in exchange for more or less return. 
+
+
 [[valuation-comparables]]
 Valuation Comparables
 ^^^^^^^^^^^^^^^^^^^^^

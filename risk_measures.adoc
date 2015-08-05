@@ -26,6 +26,8 @@ Eugene Fama and the Efficient Market Hypothesis
 [[value-at-risk]]
 Value at Risk
 -------------
+latexmath:[\[\operatorname{Var}\left(\sum_{i}^n a_iX_i\right) = \sum_{i=1}^na_i^2 \operatorname{Var}(X_i) + 2\sum_{1\le i}\sum_{<j\le n}a_ia_j\operatorname{Cov}(X_i,X_j)\]]
+
 
 [[broker-and-exchange-margins]]
 Broker and Exchange Margins

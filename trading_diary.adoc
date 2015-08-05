@@ -201,6 +201,20 @@ To be fair, though, the markets are quite quiet too.
 
 
 '''''
+[[Wednesday-5-aug]]
+Wednesday 5 Aug
+---------------
+Equity markets rose strongly early, for reasons which seem to be connected with a light private payrolls number.  
+This is supposed to delay the point when the Fed will raise rates.
+Bonds (GBL, R, ZN and BTP) were all down between about a half a percent and one percent.
+
+Equities fell back later in the day. 
+
+I took the advantage to take profits on a couple of positions, lowering my VaR to the lowest it has been for months. The only equity futures position I have now is OBX, which I probably should never have bought: it seems to trade only ever couple of days.
+
+
+
+'''''
 
  
  
