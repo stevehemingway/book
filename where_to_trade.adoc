@@ -66,15 +66,15 @@ of securities (their holdings or position)
 
 Each investor will have a value to him of
 
-latexmath:[\[\sum_{i} Exp(pv_i ) \]]
+$$\sum_{i} Exp(pv_i ) $$
 
-where latexmath:[\[pv_i = c_i d_i\]] and latexmath:[\[d_i = d(t_i)\]]
+where $$ pv_i = c_i d_i $$ and $$ d_i = d(t_i) $$
 and the expectation is formed over the probability distribution for
-receiving latexmath:[\[c_i\]] at time latexmath:[\[t_i\]].
+receiving $$ c_i $$ at time latexmath:$$ t_i $$.
 
 The problem therefore boils down to finding the distribution,
-latexmath:[\[p_i\]], and, to a lesser extend, the risk-free discount
-factor latexmath:[\[d(t)\]]. Because it is so difficult to estimate the
+$$ p_i $$, and, to a lesser extend, the risk-free discount
+factor $$ d(t) $$. Because it is so difficult to estimate the
 distribution, an approximation is often made to just discount the
 cashflows at a larger discount factor that incorporates both a time
 element, and risk element, perhaps derived from the cashflows of
@@ -93,10 +93,12 @@ this really affect valuations?]
 [[math-test]]
 Math Test
 ---------
+//// 
+ \operatorname{Var}(X) = \operatorname{E}\left[(X - \mu)^2 \right]   
 
-latexmath:[\[\operatorname{Var}(X) = \operatorname{E}\left[(X - \mu)^2 \right]. \]] 
+ //// 
 
-[[the-importance-of-securities-exchanges]]
+ [[the-importance-of-securities-exchanges]]
 The importance of securities exchanges
 --------------------------------------
 
