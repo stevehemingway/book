@@ -18,3 +18,4 @@
 -	[[[Seeking-Alpha]]] http://seekingalpha.com[The Seeking Alpha website.] Huge website largely aimed at spotting mispriced shares, but with articles on wider topics too, including good coverage of ETFs.
 -   [[[Bogle-Heads]]] https://www.bogleheads.org/[The Bogle Heads Forum] All about the importance of fees as a determinant of successful investing.
 -	[[[D Short]]] http://www.advisorperspectives.com/[Advisor Perspectives] Articles on investment strategy sponsored by D Short. Aimed at advisors but free and though provoking.
+-	[[[Dividend Disco]]] http://seekingalpha.com/author/dividend-disco[Seeking Alpha author Dividend Disco]. A funny, jokey, honest look at one man's search for yield in what has become a desert for those seeking income.
