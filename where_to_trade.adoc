@@ -43,6 +43,8 @@ then a redemption yield can be calculated, which is the internal rate of
 return on the cashflows. This redemption yield can be calculated, only
 under the assumption of the absence of credit risk.
 
+$$x=2$$
+
 Shares produce dividends, and so a dividend yield can be calculated for
 a company, which is comparable to the yield on a bond. However, for most
 companies, for tax and other reasons, only part of the earnings are paid
