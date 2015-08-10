@@ -212,7 +212,30 @@ Equities fell back later in the day.
 
 I took the advantage to take profits on a couple of positions, lowering my VaR to the lowest it has been for months. The only equity futures position I have now is OBX, which I probably should never have bought: it seems to trade only ever couple of days.
 
+'''''
 
+[[weekending-8-Aug]]
+Weekending-8-Aug
+----------------
+The end of the week was pretty disappointing. The payroll numbers were pretty much as expected: 215K, but the market didn't like them. 
+It's not really clear whether the problem is that 'the market expects' interest rates to increase because of the strength of the economy, or the stock market to decline, because of the weakness of the economy.
+
+Commodities are going through a 'nuclear winter' as Dividend Disco says. At some point, things will have to improve, and with that in mind I've opened up a small position in VDE.
+As usual when the market is drifting lower, I could not resist picking up some favourite stocks at a cheap(er) price.
+My main splurge was on ten contracts of ES, which is, in the new cautious trading regime, a big postion for me. 
+// Must adjust to express in pc of portfolio terms 
+
+I was tempted to punt on TSLA, which I regard as a faintly ridiculous company. I shorted 6.2% of my position, which is, in retrospect, quite brave. 
+The position was closed out via a saved limit order at the open on Monday at a modest profit, but I really must stick to my guns and avoid individual stocks.
+'''''
+
+[[monday-10-aug]]
+Monday 10 Aug
+-------------
+On Monday the market rallied. 
+I yielded to temptation again to put on some extra exposure to the equities market 'now that the bearish phase is finally over'.  Purchases of VNQ, AMLP, DJ600 Sept, REM, VDE and BRK B. 
+
+Currently I'm getting away with it. Total VaR loss still only 222K, so I haven't gone mad.
 
 '''''
 
