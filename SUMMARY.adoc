@@ -3,7 +3,7 @@
 . link:README.adoc[Read Me]
 . link:introduction.adoc[Introduction]
 . link:asset_classes.adoc[Asset Classes]
-. link:the_mechanics_of_trading.adoc[The Mechanics of Trading]
+. link:valuation.adoc[Valuation]
 . link:derivatives.adoc[Derivatives]
 . link:risk_measures.adoc[Risk]
 . link:where_to_trade.adoc[Trading]
