@@ -238,6 +238,24 @@ I yielded to temptation again to put on some extra exposure to the equities mark
 Currently I'm getting away with it. Total VaR loss still only 222K, so I haven't gone mad.
 
 '''''
+[[wednesday-12-aug]]
+Wednesday 12 Aug
+----------------
+The last few days have been desperately volatile. 
+The grownups have left the kiddies in charge in the dealing rooms and hedge funds of the planet, with the result that some quite minor news updates have produced large swings in most equity markets.
+
+The PBOC devalued the renminbi yesterday, with the result that markets sagged like a badly-baked souffle. I increased my exposure, modestly, in the hope and expectation that the markets would come to their senses today. 
+Unfortunately the opposite happens, as so often is the case when I try to time the markets, but since my exposure was quite low I decided to double down. There seemed to be a tiny hint of a rally late this evening where all markets had closed except for ES futures. 
+
+My contrain positions, VNQ, PFF, REM and VNQ all did OK.
+
+My hedging position, CIU, did surprisingly well.
+
+Unfortunately my short risk-free fixed income positions in ZN, GBL, and R wer not so happy. BTP, which still carries significant credit risk wa better behaved.
+
+{BRK B} has not proved such a wonderful investment, as yet, even though it must have considerable FI exposure.
+
+'''''
 
  
  
