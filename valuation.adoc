@@ -2,32 +2,102 @@
 How to value stuff
 ==================
 
-This is a good chapter to start with.
+Making money by trading is a piece of cake: buy undervalued securities and sell overvalued ones.
+This reduces all trading to an exercise in valuation.
+There is a flaw however: this is a sure-fire way to get rich only over an extremely long time frame.
+As Keynes memorably put it: "`The market can stay irrational longer than you can stay solvent.`" 
+In other words, you have not only to spot mis-valued securities, but also have some confidence that the marginal buyer and seller are going to come around to your way of thinking in a bearable timescale.
+
+In this chapter I will present a number of approaches to valuation that I have found useful.
+Unfortunately, it is extremely difficult to identify mis-valued securities. 
+The market is a crowd, and as Francis Galton spotted, a long time a go, under some reasonable constraints, crowds are remarkably good at estimating things like the correct value of a security. <<bibliography.adoc#Surowiecki>>.
+
 
 [[valuation]]
 Valuation
 ---------
 
-If you buy an asset that is under priced you will make money when it
-becomes correctly priced. There are two problems with this: arriving at
-the _correct_ price, and knowing when the market price will revert to
-it. The assumption that the clearing price is not _correct_ which is
-problematic. What is even more problematic, is that the demand and
-supply schedule will adjust itself in some finite timescale. Somehow.
+Academic approach
+~~~~~~~~~~~~~~~~~
+The simplest securities to value are those which are risk free. 
+This simply requires one to know the right discount factor.
+These discount factors can be inferred from the prices of securites which have 
+risk free cash flows.
+In practice the securities used are notes and bonds issued by the government, 
+sometimes enhanced with swaps and futures prices (to extend out the curve to long maturities).
+Of course, there is some risk associated with these securities, but for practical purposes 
+this is not a problem for valuing a security now, in terms of the prices of securities also trading now.
+The problem comes when one wants to know what the price of a security will be tomorrow, when the the securities it will be priced off have all changed their prices too.
+
+When trading government bonds with a time horizon measured in years, it is
+critical to know the likely changes in the yield curve. 
+This can come from changes to government or central bank policy, as well as usual factors of supply and demand.
+
+From a practical point of view, if the market has underestimated the extent to which 
+the yield curve will move up then you should be short, and vice versa. 
+
+
+// Need to write a little summary of finance theory. The following references are 
+// unnecessarily tough.
+	
+
+For more information check out https://en.wikipedia.org/wiki/Fundamental_theorem_of_asset_pricing[The Fundamental Theorem of Asset Pricing].
+https://en.wikipedia.org/wiki/Arrow%E2%80%93Debreu_model[Arrow Debreu Model]
+https://en.wikipedia.org/wiki/Net_present_value[Present Value]
+
+// some test out of whether embedded latex works here.
+
+$$ \operatorname{E}[X] = \int_{-\infty}^\infty x f(x)\, \mathrm{d}x  $$
+$$ p_{t}d_{t} $$ where $$ p_{t} $$ is the cashflow at time $$ {t} $$ and $$ d_{t} $$ is the discount factor.
 
 [[asset-classes]]
 Asset Classes
 -------------
 
+A lot of rubbish is written about asset classes. 
+The general idea is to increase diversification.
+Bond prices are driven by interest rates, equity prices by various factors, such as the 
+partition of company income amongst the various factors of production, real economic growth,
+and many factors specific to certain sectors, or indeed companies. 
+Because the drivers of price across these two asset classes (bonds are different) is
+is a reasonable expectation that price moves in the two classes will be uncorrelated 
+and hence a portfolio composed of a  mixture of the two will have a lower mean variance.
+
+To my mind the most important asset classes are:
+
+.	equities,
+.	fixed income, 
+.	foreign exchange, and 
+.	commodities.
+
+I do not accept that:
+.	private equity,
+.	hedge funds,
+.	convertible bonds,
+.	catastrophe bonds,
+constitute separate asset classes, although I do not know enough about the last to be
+completely confident footnote:[Why Buffett is steering clear of catastrophe bonds, Gillian Tett, FT, 9 May 2014].
+// not sure the footnote: macro works: see http://www.methods.co.nz/asciidoc/chunked/ch18.html
+
+
 [[equities]]
 Equities
 ~~~~~~~~
 
-A limited liability company is a wonderful invention, one of the many dreamt up by the Victorians.
-I think that they did exist earlier, but because of the catastrophe of the South Sea Bubble, limited liability companies 
-were effectively banned in the UK for a long time. 
-// Need to check this!
-Setting up a company allows creditors to take more or less risk, in exchange for more or less return. 
+The limited liability company was a wonderful invention. 
+The existence of shares arises from a set of contractual relationships between principal and agent. The principal is the provider of capital, the agent is the board.  
+Equity is simply the last security in the queue for receiving the cash from sales made
+by the company, so it is odd, in some sense, to treat it as a completely separate class.
+Some securities, preferred shares, have some characteristics of bond, and some of a share.
+Even corporate bonds, which are, as their name implies, a bond, are, compared to government bonds, equity like. 
+For this reason they are sometimes considered a separate asset class.
+Clearly, the boundaries between the various classes are somewhat blurred and arbitrary.
+
+The key thing about equities is that they are the most risky of securities issued by any particular company. They pay a dividend only if there are surplus retained earnings.
+Even if there are retained earnings, a dividend may not be paid: an investor who purchased a 
+Berkshire Hathaway share fifty years ago is still waiting to receive his first dividend cheque. 
+He is not too worried though: the retained earnings are largely reflected in the price of his security, so if he needs the cash he can sell his share, or use it as collateral for a loan.
+This is why valuation of shares generally focusses more on earnings: the surplus of income over costs, than dividends: cash paid to shareholders.
 
 
 [[valuation-comparables]]

@@ -81,8 +81,8 @@ prices which is inhibiting investment in production and exploration.
 
 There is
 http://www.ft.com/cms/s/0/d35822a0-324d-11e5-8873-775ba7c2ea3d.html[an
-interesing article] that says that biotech is seriously overvalued.
 Certainly there is a possibility of a rotation from growth to value
+interesing article] that says that biotech is seriously overvalued.
 stocks as we (hopefully) emerge from stagnation. Shorting IBB is
 certainly a way to hedge the overall long equity exposure. Growth stocks
 have been so strong since 2008 I am reluctant to go too far.
@@ -235,26 +235,9 @@ Monday 10 Aug
 On Monday the market rallied. 
 I yielded to temptation again to put on some extra exposure to the equities market 'now that the bearish phase is finally over'.  Purchases of VNQ, AMLP, DJ600 Sept, REM, VDE and BRK B. 
 
+As the (US) morning wore on the day got better and better. 
+
 Currently I'm getting away with it. Total VaR loss still only 222K, so I haven't gone mad.
-
-'''''
-[[wednesday-12-aug]]
-Wednesday 12 Aug
-----------------
-The last few days have been desperately volatile. 
-The grownups have left the kiddies in charge in the dealing rooms and hedge funds of the planet, with the result that some quite minor news updates have produced large swings in most equity markets.
-
-The PBOC devalued the renminbi yesterday, with the result that markets sagged like a badly-baked souffle. I increased my exposure, modestly, in the hope and expectation that the markets would come to their senses today. 
-Unfortunately the opposite happens, as so often is the case when I try to time the markets, but since my exposure was quite low I decided to double down. There seemed to be a tiny hint of a rally late this evening where all markets had closed except for ES futures. 
-
-My contrain positions, VNQ, PFF, REM and VNQ all did OK.
-
-My hedging position, CIU, did surprisingly well.
-
-Unfortunately my short risk-free fixed income positions in ZN, GBL, and R wer not so happy. BTP, which still carries significant credit risk wa better behaved.
-
-{BRK B} has not proved such a wonderful investment, as yet, even though it must have considerable FI exposure.
-
 '''''
 
  

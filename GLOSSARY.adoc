@@ -85,4 +85,6 @@ mix with SPX.
 == Global Financial Crisis
 The events of 2007 which caused such a dislocation to growth in most countries on the globe. 
 Probably still the dominant policy headache for governments even today, eight years later.
+== Mean Variance
 
+This is the square of the standard deviation. It is the best simple single measure of risk of a security or of a portfolio. The variance of a portfolio is simply related to the variance of each component and all the covariances of the components.

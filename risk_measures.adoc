@@ -29,17 +29,64 @@ Value at Risk
 latexmath:[\[\operatorname{Var}\left(\sum_{i}^n a_iX_i\right) = \sum_{i=1}^na_i^2 \operatorname{Var}(X_i) + 2\sum_{1\le i}\sum_{<j\le n}a_ia_j\operatorname{Cov}(X_i,X_j)\]]
 
 
+
+
 [[broker-and-exchange-margins]]
 Broker and Exchange Margins
 ---------------------------
+Most books on investing strongly advise against trading on margin. 
+Essentially this involves buying securities using borrowed money.
+The typical setup is that a broker will allow buying securities up to ten or fifteen times the value of the investor's equity.
+It is highly inadvisible to go to this limit. 
+No market move is certain, and you will frequently find that the market will do the opposite of what you are expecting.
+
+My view is that it is probably best to keep the total exposure to less than the account equity. 
+However when the market has gone down very sharply it is acceptable to increase exposure, temporarily.
+Equivalently, if the market has gone up steeply, it would be appropriate to anticipate
+a fall back, and sell, or go more short.
+
+The ability to go short is usually available only in an account that offers trading on margin.
+
+I am very reluctant to to advocate the casual investor takes a highly geared position via a margin account.
+An equity index can have a drawdown of greater than thirty percent. 
+The collateral required by the broker is not designed to protect the investor from remaining solvent.
+It is there purely to give the broker time to liquidate the position in time to protect the clearing house.
+The broker's margin requirements are usually stricter than those of the clearing house. 
+In practice a large brokerage will have offsetting positions that gives the brokerage 
+access to costless funds. This is how they can sometimes offer a very attractive service.
 
 [[capm-and-hedging]]
 CAPM and Hedging
 ----------------
 
+Investing is like successful gambling. 
+The key to investing is to find shares which are mis-priced.
+However, just to buy underpriced shares, or sell overpriced ones, 
+is to become exposed to market risk, without having a view.
+Alfred Winslow Jones, the inventor of the hedge fund, understood this,
+and came up with an ingenious solution.
+He balanced long positions in undervalued stocks, with short positions of overvalued stocks.
+Stocks now are much more correctly priced A W Jones' hey day [check!] and this stragegy is
+much more difficult to pull off. 
+
+If you do wish to attempt this strategy, CAPM will allow you to construct a market neutral
+portfolio.
+
+[not sure this should be here: you don't say anything about trading individual stocks anywhere else]
+
 [[risk-and-gearing]]
 Risk and Gearing
 ----------------
+For a given composition of a portfolio, risk is proportional to its total value.
+By gearing up this risk can be increased. 
+Gearing can be achieved by using a margin account, by using CFDs and by using futures.
+The cheapest way to gear up is to buy futures. 
+A future is equivalent to a bundle of the underlying cash equity, with a  matching quantity of risk free
+debt.
+
+Gearing allows one to increase exposure cheaply, but at the cost of an increased downside.
+[talk about stop loss orders].
+
 
 [[all-trades-are-carry-trades]]
 All Trades are Carry Trades

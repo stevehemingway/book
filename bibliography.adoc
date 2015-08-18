@@ -11,6 +11,7 @@
 -	[[[Dixon]]] Penguin Guide to Finance,  http://books.google.com/books?vid=ISBN9780140289329
 -	[[[Brett]] How to Read the Financial Pages, https://books.google.com/books?vid=ISBN0712662596
 -	[[[Lack]]] http://www.sl-advisors.com/the-hedge-fund-mirage/[The Hedge Fund Mirage] Essential reading if you are ever seized with the desire to hand over your hard-earned savings to a hedge fund manager. Unfortunately, for many savers, including badly-paid public sector employees, they have no choice, because their pension savings are entrusted, in part, to these modern-day racketeers.
+-	[[[Surowiecki]]] http://www.amazon.co.uk/Wisdom-Crowds-James-Surowiecki/dp/0385721706/ref=sr_1_1?ie=UTF8&qid=1439233968&sr=8-1&keywords=9780385721707[The Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations, ISBN 9780385721707].
 
 .Internet Resources
 -	[[[The-Money-Illusion]]] http://www.themoneyillusion.com/
