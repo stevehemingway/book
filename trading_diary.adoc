@@ -240,5 +240,46 @@ As the (US) morning wore on the day got better and better.
 Currently I'm getting away with it. Total VaR loss still only 222K, so I haven't gone mad.
 '''''
 
+
+[[tuesday-18-aug]]
+Tuesday 18 Aug
+--------------
+Well, the market has resolutely drifted sideways.
+
+I am up on the week, but only by 0.5%, so I probably should have stayed out of the market.
+
+I did the accounts for the pension fund, of which my brokerage account forms the bulk of the assets, and was pleased to find
+that I'd made an (unrepeatable) 75% return (annualized, continuously compounded) over first half of the calendar year. 
+Although this information should have no influence on my investment decisions, it did tell me that a lot is possible to make
+seriously strong returns when the market, globally is going sideways.
+
+Ironically I cannot really remember how I did it. Checking the market every day, seeing a significant number of days when the 
+portfolio is down significantly means that you end up losing track of the performance overall. 
+For Q1 and Q2 this was particularly a problem as I was transferring all my holdings from Options Xpress to Interactive Brokers.
+After using USD as a base currency for a while (because that was what I was used to with Options Xpress, where you don't
+have a choice about what base currency to use) I switched to pounds, which is, after all, what all my costs are denominated in.
+Because the numbers were similar I really missed the fact that I was up a lot, in USD. 
+I believe my main gains were obtained by having faith in Europe and using options a lot.
+
+I am not running any options positions now because this requires more day-to-day monitoring of my positions than I have time for, and anyway, volatility is too low. 
+I was mainly shorting puts in order to express a bullish view and receive option premium.
+
+I do feel that USD is the place to be at  the moment. 
+The consensus seems to be building that the Fed will indeed raise rates next month, which, presumably will at least ensure that the dollar is supported. 
+
+EEM has been a terrible investment. Even though it's only 2.2% of the portfolio I deeply regret opening it.
+
+Trading ideas (not implemented): short MYR, short anything to do with China, short anything to do with Russia and Brazil. The BRICS have become the fragile five (or ten, or fifteen!).
+
+I decided to short the RUB and CNH. Emerging market currencies have had a rough time recently, because of weakness in commodity prices. The yuan is a rigged market, so anything could happen, but now the PBOC have allowed it to devalue once, and claimed the reason is to let its level be more determined by market forces, it seems logicall that for all sorts of reasons it will sink. 
+China is a semi kleptocracy, and although it has made great economic gains recently as it adopts western
+technology I do no think that it will ever transition to a first world country unless it becomes a democracy, which seems as unlikely an event as ever now.
+
+Russia is rapidly becoming a failed state. It went straight from communist dictatorship to kleptocrat dictatorship, and will not exit that state without a major crisis.
+
+
+
+
+'''''
  
  
