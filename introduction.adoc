@@ -2,9 +2,47 @@
 Audience
 --------
 
-I wrote this book as a primer for trading securities markets. The aim is
-to cover "stocks and shares" (bonds and equities), but also derivatives
-markets.
+I wrote this book to help people make money. 
+I believe that for many people, it's possible to get returns good enough to justify spending some time researching and thinking about their own trading.
+I believe that this is not only profitable, but also is an interesting hobby.
+
+I cover how to trade, i.e. the mechanics of chosing a trading account, and how to select the right stocks to buy and sell. 
+ 
+[[how-to-invest]]
+How to Invest
+-------------
+
+Investing means forgoing consumption today, to enjoy consumption in the future.
+This tradeoff is something each person must decide about for himself.
+The one thing that everyone can agree on is that, for a given amount of saving (non-consumption) today,
+the more it delivers in terms of consumption tomorrow, the better.
+The exact date of '`tomorrow`' will vary, but the inequality holds.
+This book is about maximizing the return on the investment: i.e. the amount of consumption in the future.
+The point of having a return is to dispose of it, however, either by spending it or giving it away.
+Keynes was almost right when he wrote 'The sole purpose of economic activity is to consume.'
+
+
+The biggest class of all, in terms of investable assets is real estate. 
+For most people, their most valuable asset is their house. 
+In the UK, and, I suspect that in many places, there are various tax breaks which make it highly advantageous to own one's own home. It is likely, but not certain, that investment in one's own home should be preferred 
+over putting money into the stockmarket.
+
+Although I discuss investing in this via REITs, I do not propose to
+write anything about direct investment. There is a book to be written
+about making money from investing directly in real estate, but this
+isn’t it.
+
+I also do not cover very short term '`day  trading`', or have anything much
+to say about technical analysis. I am quite prepared to believe that it
+is possible to make money from this sort of trading, but I have no idea
+how it is done. 
+It certainly feels as though there is definitely some kind of short term mean reversion in markets, 
+and I have bought after a steep dip, and sold after a large rise (ideally with limit orders), 
+but I cannot recommend this as a way to make systematic and steady profits.
+It is also the sort of trading that would be very time consuming, and I try to avoid
+spending more than an hour or so a day on my investing, ideally a lot less. 
+And this will include reading the market reports in the FT or similar.
+
 
 [[to-get-the-most-out-of-this-book]]
 To get the most out of this book
@@ -18,11 +56,9 @@ A big theme of this book is how to get a chosen exposure to a market at the chea
 Most amateur investors loose much more money by incurring excessive fees than by bad stock picking.
 
 
- 
-
-[[background]]
-Background
-----------
+[[about-me]]
+About Me
+--------
 
 I have worked in and around securities markets for a long time. I have
 had an interest in them for even longer. I first came across tradable
@@ -86,28 +122,6 @@ If you are a fan of Buffett, I would suggest that it is much more cost effective
 [[exclusions]]
 Exclusions
 ----------
-
-Investing is spending money on any asset that is not immediately
-consumed. It is perfectly possible to invest in a car or a house. This
-book does not cover these sorts of investment decisions. It restricts
-itself entirely to investments in tradable securities.
-
-The biggest class of all, in terms of investable assets is real estate.
-Although I discuss investing in this via REITs, I do not propose to
-write anything about direct investment. There is a book to be written
-about making money from investing directly in real estate, but this
-isn’t it.
-
-I also do not cover very short term `'day  trading' `, or have anything much
-to say about technical analysis. I am quite prepared to believe that it
-is possible to make money from this sort of trading, but I have no idea
-how it is done. 
-It certainly feels as though there is definitely some kind of short term mean reversion in markets, 
-and I have bought after a steep dip, and sold after a large rise (ideally with limit orders), 
-but I cannot recommend this as a way to make systematic and steady profits.
-It is also the sort of trading that would be very time consuming, and I try to avoid
-spending more than an hour or so a day on my investing, ideally a lot less. 
-And this will include reading the market reports in the FT or similar.
 
 
 [[how-to-read-this-book]]
