@@ -2,58 +2,79 @@
 Audience
 --------
 
-I wrote this book to help people make money. 
-I believe that for many people, it's possible to get returns good enough to justify spending some time researching and thinking about their own trading.
-I believe that this is not only profitable, but also is an interesting hobby.
+The objective of this book is to tell you about how I invest, to tell you about a few of the successes and failure that I've had, so that you end up knowing a bit more about managing your own savings. 
+It will not turn you into George Soros, or equip you to start your own hedge fund, but it should enlighten you about some of the options available to those with modest savings to get a bit better return on their savings.
 
-I cover how to trade, i.e. the mechanics of chosing a trading account, and how to select the right stocks to buy and sell. 
- 
-[[how-to-invest]]
-How to Invest
--------------
+You have to have a reasonable amount of capital to make it worth reading this book, if you measure the benefits in purely financial terms. If you have only a hundred pounds to invest, the extra return you make is simply not going to cover the opportunity cost of reading this book, let alone the cost of buying it. However, you never know when you might come into money, and you can at least sound financially well-informed to your friends, even if you are broke.
 
-Investing means forgoing consumption today, to enjoy consumption in the future.
-This tradeoff is something each person must decide about for himself.
-The one thing that everyone can agree on is that, for a given amount of saving (non-consumption) today,
-the more it delivers in terms of consumption tomorrow, the better.
-The exact date of '`tomorrow`' will vary, but the inequality holds.
-This book is about maximizing the return on the investment: i.e. the amount of consumption in the future.
-The point of having a return is to dispose of it, however, either by spending it or giving it away.
-Keynes was almost right when he wrote 'The sole purpose of economic activity is to consume.'
 
+[[why-invest]]
+Why Invest?
+-----------
+
+We all produce and consume. 
+The timings of our consumption and production may not synchronize well. 
+This leads us to save, and sometimes to borrow, to allow our pattern of consumption to be better suited to our needs.
+We may wish to consume more education or durable goods early in our lives, to enjoy benefits later.
+We may wish to save some of what we produce in our prime for our old age.
+We may wish to save for some specific future event: having children, going on holiday, buying a house.
+
+All these give rise to different time horizons for our savings, and to different tolerances for risk.
+Quantifying risk is a big subject in the context of investment: possibly the biggest of all, and I shall come back to it. This book focusses mainly on savings over the longer term, by which I mean around ten years or longer. Sometimes a short term requirement for funds can be met by borrowing, but for most individuals there is a big spread between the rate at which they can borrow, and the rate at which they can lend, which means that it's rarely possible to substitute borrowing for liquidation of an investment.
+
+From a strict economic perspective, consumption is what matters, but I think that it's possible to derive a considerable benefit from having savings that are big enough to cover the cost of any 'rainy day' that fortune may throw at us. 
+On the other hand, there is no point in saving so much out of one's income that life is a miserable struggle.
+
+Finally, try to avoid being both a saver and a borrower at the same time. Although this is hard to avoid entirely, this is usually a bad choice because of the asymmetrical behaviour of the tax system (often you will pay tax in the returns from saving, but not save tax on the cost of borrowing). Also, the 'spread' between saving and borrowing rates usually means that it very hard to beat the return you get by reducing your borrowing.
+
+
+[[investable-assets]]
+Investable Assets
+-----------------
 
 The biggest class of all, in terms of investable assets is real estate. 
 For most people, their most valuable asset is their house. 
-In the UK, and, I suspect that in many places, there are various tax breaks which make it highly advantageous to own one's own home. It is likely, but not certain, that investment in one's own home should be preferred 
-over putting money into the stockmarket.
+In the UK, and in many countries, there are various tax breaks which make home ownership 
+highly privileged in the tax system. 
+This is something to do with the idea that property owners make better citizens: a proposition that
+has not, to my knowledge, have any empirical backing.
 
-Although I discuss investing in this via REITs, I do not propose to
-write anything about direct investment. There is a book to be written
-about making money from investing directly in real estate, but this
-isn’t it.
+Having written this paragraph, I do not have any intention of writing about investing in real 
+property. There are many books to help you with this. 
+One thing I will say is that returns on residential real estate are generally much worse than those on a diversified equity portfolio over long timescales, in contrast to what many people believe.
+[put reference to work of Robert Shiller here].
 
-I also do not cover very short term '`day  trading`', or have anything much
-to say about technical analysis. I am quite prepared to believe that it
-is possible to make money from this sort of trading, but I have no idea
-how it is done. 
-It certainly feels as though there is definitely some kind of short term mean reversion in markets, 
-and I have bought after a steep dip, and sold after a large rise (ideally with limit orders), 
-but I cannot recommend this as a way to make systematic and steady profits.
-It is also the sort of trading that would be very time consuming, and I try to avoid
-spending more than an hour or so a day on my investing, ideally a lot less. 
-And this will include reading the market reports in the FT or similar.
+I will focus mainly on the big asset classes of equities and fixed income securities. I will spend a little time on commodities. However, I do not consider hedge funds, or private equity, or infrastructure, or foreign exchange, or venture capital, or art or wine as distinct asset classes.  These are either weighted averages of more basic asset classes, or just too difficult to value. 
+
+
+I also do not consider the very short term investing. Ordinary investors do not have investment horizons measured in hours. I accept that it is possible to make money, if you are very good, by anticipating very 
+short term fluctuations of supply and demand in markets for very liquid assets such as foreign exchange, or futures, but this is not investment in any sense I use the word.
+
 
 
 [[to-get-the-most-out-of-this-book]]
 To get the most out of this book
 --------------------------------
 
-It is worth reading some of the background books, listed in the
-bibliography if you are not familiar with direct investment in securities markets.
-You should try to get an idea of what investing strategy you wish to pursue, and,
-having decided that, how to execute it at minimum cost. 
-A big theme of this book is how to get a chosen exposure to a market at the cheapest possible cost.
-Most amateur investors loose much more money by incurring excessive fees than by bad stock picking.
+Probably the most important advice I can give you is to not rush into anything. 
+It is very unlikely that your analysis will have revealed a major mispricing of some security that
+the world's hedgefund traders and investment banking analysts have collectively overlooked.
+
+It is worth trading in small size, or even running a paper trading account for a while, to realize what can really happen in a live market. Beware however that markets can behave predictably for decades before suddenly misbehaving. It's easy to be lulled into a false sense of security.
+
+It is also worth reading other authors, and a reputable source of news, such as the FT or the Economist. 
+
+Warren Buffett and Charlie Munger have both written a lot of sense about investing. Although much of what they write relates to assessing individual equities, they write a lot of sense about investing in general.
+Warren Buffett once wrote that we should be given a quota of just twenty investment decisions over our lifetime. Once we'd made these investments, we'd have to live with the consequences. I am not sure I could have lived with this discipline, but it is also the case that my worst investment performance periods have been associated with my losing my nerve and closing out, or reversing, positions I'd lost money on, to see those the price movements that caused those losses reverse as soon as I'd changed my mind.
+
+Bottom line:
+
+* keep fees low,
+* don't follow the crowd,
+* keep transactions to an absolute minimum,
+* recognize that even if the market is not prefectly efficient, it's not far off,
+* build up a position slowly: work with the short term trend to minimize the average cost.
+
 
 
 [[about-me]]
