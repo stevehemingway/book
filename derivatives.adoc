@@ -61,10 +61,31 @@ is traded. Buying a future is like buying the underlying, but giving up
 a few months’ income, and pre-paying a few months’ financing cost.
 Although a future gives an exposure only until its maturity date, it is
 usually very cheap to `roll' the future into the next nearest delivery
-month. This method can be used to give a long-term exposure to the
+month. 
+
+This method can be used to give a long-term exposure to the
 underlying, packaged up with the cheapest possible financing. For a
 small scale investor, it is extremely important to minimize the cost of
-finance.
+finance. 
+CFDs can produce the same exposure, and to a larger range of markets and sectors, but only at a cost of more expensive carry costs.
+
+
+My own preference is to use futures to gain an exposure to an underlying, if a suitable contract is available. *Some* futures have poor liquidity, and short trading hours, but compared to even main market shares, the spreads are very low.  
+It is more easy to get a fine-grained country or region exposure using futures than it is to get sectoral exposure. 
+DTB offers contracts on all the sectors which make up the STOXX 600 index of European equities. 
+An example of the sorts of sectors you can get an exposure to via futures using this method includes:
+* insurance,
+* construction and materials,
+* chemicals,
+* banks,
+* travel and leisure.
+
+Unfortunately, you cannot get within-country sector exposure with futures (banks in the UK) or even the more fine-grained exposure you might want (e.g. non-life insurance only). 
+
+CFD/Spread betting providers will allow you to take a view on within-country sector exposure (certainly within the UK), but this is likely to come at a cost. [quantitative estimate using IG?]
+
+
+
 
 [[swaps]]
 Swaps
