@@ -78,15 +78,28 @@ There are two ways to go about investing in equities. One is to do fundamental a
 Analysts and traders in individual equities perform a very valuable asset allocation function. 
 If they their job probably they divert resourses to where they can produce the biggest return, 
 and make a profit at the same time. 
+The participants in this market also, by arbitraging away the mis-pricing, allow people like me to invest 
+in a macro-driven way, without having to worry too much about valuation of individual equities that make up an index.
 
+Of course analysts and auditors are far from infallible, and sometimes a completely true and fair view of a company's prospects is deliberately concealed in the way it reports its accounts.
 
 [[commodities]]
 Commodities
 -----------
 
+Commodities are basic materials than can be traded in highly standarized lots. 
+They can reveal a lot about the economy, especially the state of health of the world economy. 
+Prices tend to be subject to the effect of long-term global business cycles. In principle, knowing where we are in the cycle can allow traders to identify 'bull' and 'bear' markets, and execute successful long-term momentum trades. In practice it's more difficult than that, with a lot of noise superimposed on the cycle, with both supply and demand being subject to many random shocks.
+
+It is always said that the price of high-grade copper is a good overall barometer of the health of the world economy, from which the future path of stock prices may be (partially) inferred. This leads to 'the red metal' being referred to as 'Dr Copper' on occasions. I have never been able to make any money by looking at price signals from copper or any other commodity, although I do read the commodities markets report most days.
+
+It's not clear that, even if you do want an exposure to one or more commodities, you should buy them in the form of ETFs or futures. Arguably, buying a mining company, or an oil production or exploration company could give you a cheaper exposure.
+
 [[real-estate]]
 Real Estate
 -----------
+
+
 
 [[infrastructure]]
 Infrastructure
