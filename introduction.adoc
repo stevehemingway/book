@@ -25,11 +25,11 @@ Quantifying risk is a big subject in the context of investment: possibly the big
 From a strict economic perspective, consumption is what matters, but I think that it's possible to derive a considerable benefit from having savings that are big enough to cover the cost of any 'rainy day' that fortune may throw at us. 
 On the other hand, there is no point in saving so much out of one's income that life is a miserable struggle.
 
-Finally, try to avoid being both a saver and a borrower at the same time. Although this is hard to avoid entirely, this is usually a bad choice because of the asymmetrical behaviour of the tax system (often you will pay tax in the returns from saving, but not save tax on the cost of borrowing). Also, the 'spread' between saving and borrowing rates usually means that it very hard to beat the return you get by reducing your borrowing.
+Finally, try to avoid being both a saver and a borrower at the same time. Although this is hard to avoid entirely, this is usually a bad choice because of the asymmetrical behaviour of the tax system (often you will pay tax in the returns from saving, but not save tax on the cost of borrowing). Also, the 'spread' between saving and borrowing rates usually means that it is very hard to beat the return you get by reducing your borrowing.
 
 
-[[investable-assets]]
-Investable Assets
+[[financial-assets]]
+Financial Assets
 -----------------
 
 The biggest class of all, in terms of investable assets is real estate. 
