@@ -145,7 +145,7 @@ Exclusions
 ----------
 // Oh, I can put comments in like this! C style comments do not work!
 
-
+$$x = y^2$$
 
 [[how-to-read-this-book]]
 How to read this book
