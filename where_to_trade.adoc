@@ -194,7 +194,7 @@ Brokers
 Exchanges have systems that cannot be accessed directly by end
 investors. Diversification is important, and having good access to as
 many exchanges is necessary to get good diversification. Most brokers
-concentrate in one geographical area (e.g. UK or USA), or in one product
+concentrate in one geographical area (e.g.UK or USA), or in one product
 area (like futures and options). Many struggle to develop systems which
 are truly multi-currency. Brokers are supposed to have protocols in
 place to minimize credit risk: you, as a trader, do not trade with them
@@ -291,6 +291,16 @@ varied topics in finance.]
 [[sector-rotation]]
 Sector rotation
 ~~~~~~~~~~~~~~~
+
+Sectors go in and out of fashion. 
+Multiples theoretically reflect growth prospects, but growth is something that must come to an end.
+It is, in general, impossible to know whether a sector is cheap because it is despairately unfashionable,
+or because there genuinely are a lot of companies in it which are about to fold. 
+It may be that both are applicable.
+
+There is always something being written in Seeking Alpha about which sector is about to come back from the dead, but beware that these are usually written by fans of the sector.
+
+It is generally the case that earnings are much less volatile than a stock price, and that yields are mean-reverting.
 
 [[technical-trading-and-mean-reversion]]
 Technical Trading and Mean Reversion
