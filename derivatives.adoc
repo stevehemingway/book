@@ -74,6 +74,7 @@ My own preference is to use futures to gain an exposure to an underlying, if a s
 It is more easy to get a fine-grained country or region exposure using futures than it is to get sectoral exposure. 
 DTB offers contracts on all the sectors which make up the STOXX 600 index of European equities. 
 An example of the sorts of sectors you can get an exposure to via futures using this method includes:
+
 * insurance,
 * construction and materials,
 * chemicals,
