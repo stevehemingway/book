@@ -38,4 +38,6 @@
 -   [[star-capital]] http://www.starcapital.de/[Star Capital Advisors]. This firms website has an interactive search facility which shows global markets and sectors ranked by various valuation metrics: price-to-book, price-to-sales etc. The page is fully interactive. The focus is on CAPE, but markets can be ranked by any of the measures. I cannot vouch for the accuracy of this data, but if it is accurate, it is all collected together in a very convenient format.
 
 
-- 
+- [[security-analysis]] https://en.wikipedia.org/wiki/Security_Analysis_(book)[Security Analysis], Graham and Dodd. The book that Warren Buffett learned his trade from.
+
+// to put a link to this bibliography, just use the format <<bibliography.html#anchorname>>
