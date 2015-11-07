@@ -102,4 +102,6 @@ and other service. This, in the UK, came to an abrupt halt in 1986, the year of 
 == Black Swan
 This is an event that you would expect 'never' to occur given the probability distribution baked into the models that are conventionally used to value derivatives that depend on knowing this distribution.
 
-
+== Contract for Difference
+Better known as a CFD, this is a straighforward derivative that gives a direct, geared exposure to a stock. 
+See also: spread betting and single stock futures.
