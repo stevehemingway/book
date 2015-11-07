@@ -70,7 +70,9 @@ It is possible to view a bond as having a claim over all the assets of a company
 Credit
 ------
 
-Credit is a general term for tradeable and non-tradeable debt. Economically speaking, credit is a superset of bonds, covered above, but without necessarily being tradeable. 
+Credit is a general term for tradeable and non-tradeable debt. Economically speaking, credit is a superset of bonds, covered above, but without necessarily being tradeable.
+
+Many businesses are credit businesses. Banks, clearly, but also real estate, insurance, and even some businesses that appear, on the surface, to be simply engineering manufacturers. Credit risk is often written about as a distinct category of risk, but really it is strongly linked to economic risk. Recently a lot of high yield debt has suddenly become more risky because oil prices have finally started to drop from their elevated levels, causing the cashflow that underpinned the issuer's ability to service the debt to shrink. 
 
 [[equities]]
 Equities
@@ -86,6 +88,11 @@ The participants in this market also, by arbitraging away the mis-pricing, allow
 in a macro-driven way, without having to worry too much about valuation of individual equities that make up an index.
 
 Of course analysts and auditors are far from infallible, and sometimes a completely true and fair view of a company's prospects is deliberately concealed in the way it reports its accounts.
+
+Although on a company's balance sheet, equity is categorized separately from liabilities, in essence it is a liability, but one that is undated and on which there is no obligation to any particular service cost. A company comes into existence _ex nihilo_ having had all its assets funded from debt or equity investments. It forever remains valueless, once its obligations to its creditors and its shareholders have been finally discharged. This gives rise to the idea of the corporate veil: the idea that a company is just an agreement amongst providers of capital to a business to partition the risk, and reward, amongst themselves.  
+
+Sadly, most governments do not quite see a company in this light, and find the veil somewhat opaque. They impose a tax on profits, at the company level, and then again on income paid out to bondholders and equity holders. For reasons which are far from clear to me, companies are permitted to treat debt service as an expense, but not income paid to shareholders (dividends). This creates considerable distortion, and the existence of very high gearing, especially in financial companies, which in turn leads to high levels of risk associated with investing in their equity.
+
 
 [[commodities]]
 Commodities
