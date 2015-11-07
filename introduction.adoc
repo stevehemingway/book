@@ -132,7 +132,7 @@ recommend Seeking Alpha, and Bloomberg Business.
 To get a good understanding of the principles of corporate finance it 
 is well worth reading <<{{book.bibliography}}#brealey-and-myers, Brealey and Myers>> .
 
-To get started on understanding derivatives look at <<{{book.bibliography}}#Hull, Hull>>.
+To get started on understanding derivatives look at <<{{book.bibliography}}#hull, Hull>>.
 
 I am a huge fan of Warren Buffett, and his very long term approach to investing. 
 However I do not recommend getting exposure to individual companies as I believe that it is practically impossible to find seriously under- (or over-) valued companies with enough liquidity to make Buffett's value investment style practical for the individual investor. This is not to say that he cannot execute this to produce superior returns. 
