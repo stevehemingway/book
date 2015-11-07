@@ -105,9 +105,9 @@ Market Cap to GDP
 +++++++++++++++++
 
 The natural question to ask about whether a market is overpriced is
-'`compared to what?`'. A lot of valuation metrics arise from various
-plausible answers to this question. One answer is '`compared to the
-economy as a whole`'. This is, supposedly, a favourite metric of Warren
+``compared to what?''. A lot of valuation metrics arise from various
+plausible answers to this question. One answer is ``compared to the
+economy as a whole''. This is, supposedly, a favourite metric of Warren
 Buffett. It certainly has the advantage of simplicity. The downside is
 that it does not look at the shift in companies’ preferred financing
 strategies. Over time, and between countries, companies finance their
@@ -115,18 +115,23 @@ capital spending in different ways. Investors’ enthusiasm for equities
 has resulted in substitution of equity for debt. This certainly happened
 in the 60’s, and is, arguably, happening now. In continental Europe,
 even large companies choose bank debt over securities and especially
-over equity, which is regarded as '`Anglo Saxon capitalism`'.
+over equity, which is regarded as ``Anglo Saxon capitalism''.
 
 http://www.advisorperspectives.com/dshort/updates/Market-Cap-to-GDP.php[This
 article] gives some recent figures. Currently this indicator is
-'`flashing red`' for long positions in equities.
+``flashing red'' for long positions in equities.
 
 The problem with a lot of equities valuation is the noise caused by the business cycle. 
 The well-known Shiller CAPE attempts to do this by looking back over ten years of earnings,
 to average out some of the noise.
-A more sophisticated attempt is http://www.advisorperspectives.com/dshort/guest/Easterling-So-Many-Choices-Part-1.php[the Crestmont P/E]. 
+
+A more sophisticated attempt is  http://www.advisorperspectives.com/dshort/guest/Easterling-So-Many-Choices-Part-1.php[the Crestmont P/E]. 
 This produces a less noisy signal, but this is at the cost of bringing in more difficult-to-measure parameters.
+
 In a situation where its impossible to be completely sure that the noise is at an acceptable level, it is best to use as wide a range of indicators, ideally ones which use totally independent statistics. 
+
+Note that this is a dimensionally dubious measure: market cap is a 'stock' whereas GDP is a 'flow', therefore the number has the dimensions of time: the number of years the total income of a country would be needed to purchase the totality of its issued equity.
+
 // Ali, can you have a look a this?
 
 
