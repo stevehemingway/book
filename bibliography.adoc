@@ -31,11 +31,11 @@
 
 -   [[[Bogle-Heads]]] https://www.bogleheads.org/[The Bogle Heads Forum] All about the importance of fees as a determinant of successful investing.
 
--	[[[D-Short]]] http://www.advisorperspectives.com/[Advisor Perspectives] Articles on investment strategy sponsored by D Short. Aimed at advisors but free and though provoking.
+-	[[[d-short]]] http://www.advisorperspectives.com/[Advisor Perspectives] Articles on investment strategy sponsored by D Short. Aimed at advisors but free and though provoking.
 
--	[[Dividend-Disco]] http://seekingalpha.com/author/dividend-disco[Seeking Alpha author Dividend Disco]. A funny, jokey, honest look at one man's search for yield in what has become a desert for those seeking income.
+-	[[dividend-disco]] http://seekingalpha.com/author/dividend-disco[Seeking Alpha author Dividend Disco]. A funny, jokey, honest look at one man's search for yield in what has become a desert for those seeking income.
 -	[[JP Morgan Asset Management Market Views]] http://insights.jpmorgan.co.uk/adviser/commentary-and-analysis/jpmorgan-market-views/[General regular reports from JPM Asset Management].
--   [[[Star-Capital]]] http://www.starcapital.de/[Star Capital Advisors]. This firms website has an interactive search facility which shows global markets and sectors ranked by various valuation metrics: price-to-book, price-to-sales etc. The page is fully interactive. The focus is on CAPE, but markets can be ranked by any of the measures. I cannot vouch for the accuracy of this data, but if it is accurate, it is all collected together in a very convenient format.
+-   [[[star-capital]]] http://www.starcapital.de/[Star Capital Advisors]. This firms website has an interactive search facility which shows global markets and sectors ranked by various valuation metrics: price-to-book, price-to-sales etc. The page is fully interactive. The focus is on CAPE, but markets can be ranked by any of the measures. I cannot vouch for the accuracy of this data, but if it is accurate, it is all collected together in a very convenient format.
 
 
 - 
