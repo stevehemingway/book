@@ -5,7 +5,7 @@ How to value stuff
 Making money by trading is a piece of cake: buy undervalued securities and sell overvalued ones.
 This reduces all trading to an exercise in valuation.
 There is a flaw however: this is a sure-fire way to get rich only over an extremely long time frame.
-As Keynes memorably put it: "`The market can stay irrational longer than you can stay solvent.`" 
+As Keynes memorably put it: "`The market can stay irrational longer than you can stay solvent.'" 
 In other words, you have not only to spot mis-valued securities, but also have some confidence that the marginal buyer and seller are going to come around to your way of thinking in a bearable timescale.
 
 In this chapter I will present a number of approaches to valuation that I have found useful.
@@ -117,7 +117,7 @@ in the 60’s, and is, arguably, happening now. In continental Europe,
 even large companies choose bank debt over securities and especially
 over equity, which is regarded as '`Anglo Saxon capitalism`'.
 
-http://www.advisorperspectives.com/dshort/updates/Market-Cap-to-GDP.php,[This
+http://www.advisorperspectives.com/dshort/updates/Market-Cap-to-GDP.php[This
 article] gives some recent figures. Currently this indicator is
 '`flashing red`' for long positions in equities.
 
