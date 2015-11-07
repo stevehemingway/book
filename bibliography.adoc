@@ -23,13 +23,13 @@
 -   [[[Spitznagel]]] http://www.amazon.com/The-Dao-Capital-Investing-Distorted/dp/111834703X [The Dao of Capital: Austrian Investing in a Distorted World].
 
 .Internet Resources
--	[[[The-Money-Illusion]]] http://www.themoneyillusion.com/
+-	[[[the-money-illusion]]] http://www.themoneyillusion.com/
 
--	[[[Zero-Hedge]]] http://zerohedge.com[Zero Hedge] the antidote to the market cheerleaders employed by the banks on the sell side, and basically the whole of Wall Street.
+-	[[[zero-hedge]]] http://zerohedge.com[Zero Hedge] the antidote to the market cheerleaders employed by the banks on the sell side, and basically the whole of Wall Street.
 
--	[[[Seeking-Alpha]]] http://seekingalpha.com[The Seeking Alpha website.] Huge website largely aimed at spotting mispriced shares, but with articles on wider topics too, including good coverage of ETFs.
+-	[[[seeking-alpha]]] http://seekingalpha.com[The Seeking Alpha website.] Huge website largely aimed at spotting mispriced shares, but with articles on wider topics too, including good coverage of ETFs.
 
--   [[[Bogle-Heads]]] https://www.bogleheads.org/[The Bogle Heads Forum] All about the importance of fees as a determinant of successful investing.
+-   [[[bogle-heads]]] https://www.bogleheads.org/[The Bogle Heads Forum] All about the importance of fees as a determinant of successful investing.
 
 -	[[[d-short]]] http://www.advisorperspectives.com/[Advisor Perspectives] Articles on investment strategy sponsored by D Short. Aimed at advisors but free and though provoking.
 
