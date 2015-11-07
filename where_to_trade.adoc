@@ -91,13 +91,7 @@ individual investor’s time value of money. [In practice we ignore this:
 is this reasonable? If someone had a different time preference, would
 this really affect valuations?]
 
-[[math-test]]
-Math Test
----------
-$$ 
-     Var(X) = E\left[(X - \mu)^2 \right]  
-$$
- 
+
 [[the-importance-of-securities-exchanges]]
 The importance of securities exchanges
 --------------------------------------
