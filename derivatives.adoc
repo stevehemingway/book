@@ -101,7 +101,37 @@ This situation may change. Many products available only to the most sophisticate
 Options
 -------
 
-Underlying, expiry, exercise style, strike price, call or put.
+Options are like insurance policies. They pay out when something (more or less) unlikely happens.
+In the happy world of securities trading you can not only buy the policy, but write it too. 
+It's like having the option to be the bookie or the punter, to draw a parallel with the world of betting.
+
+Basic options are puts and calls. The former pay out if the underlying's price drops below a fixed level. The latter if it exceeds a fixed level. 
+
+[[example]]
+Example
+~~~~~~~
+
+[[call-example]]
+Call Example
+++++++++++++
+If you have an inkling that a bid for Marks and Spencer may be launched in the next month you can buy a put, to allow you to profit if the price shoots up, without committing a lot of capital by buying the underlying, and without being exposed to any downside if the quarterly results are very dissapointing, or the Bank of England unexpectedly hikes interest rates.
+
+If this all sounds too much like a free lunch, it is. You have to pay a premium, not unlike an insurance premium, to get this 'no downside risk' exposure. If the hoped-for bid fails to materialize you've incurred the cost without having anything but an expired policy to show for it.
+
+[[put-example]]
+Put Example
++++++++++++
+You have noticed that there is strong momentum in the S&P 500 index, and you don't want to miss the boat.
+However, you notice that on a lot of fundamental valuation measures (market cap to GDP, price to book) the market is looking distinctly overvalued and you fear a large drawdown.
+
+You decide that you will protect against the worst by buying out of the money puts. 
+You buy puts which are 30% out of the money.
+
+// put an expanded version of this example discussing choosing a strike 2.5SDs away, or with a delta
+// of 0.05, or at a certain cost. Refer to the Dao of Investing
+// (maybe you decide to choose the strike to be 2.5 standard deviations away from market
+
+
 
 [[greeks]]
 Greeks
