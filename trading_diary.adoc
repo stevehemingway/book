@@ -65,8 +65,6 @@ it’s not surprising that my portfolio performed like this, with such a
 broad sell-off in equities. Equities have sold off around 3% over the
 last week. I am holding on for a bounce tomorrow!
 
-'''''
-12345
 
 [[tuesday-28-july]]
 Tuesday 28 July
@@ -213,8 +211,8 @@ I took the advantage to take profits on a couple of positions, lowering my VaR t
 '''''
 
 [[weekending-8-Aug]]
-Weekending-8-Aug
-----------------
+Weekending 8th Aug
+------------------
 The end of the week was pretty disappointing. The payroll numbers were pretty much as expected: 215K, but the market didn't like them. 
 It's not really clear whether the problem is that 'the market expects' interest rates to increase because of the strength of the economy, or the stock market to decline, because of the weakness of the economy.
 
