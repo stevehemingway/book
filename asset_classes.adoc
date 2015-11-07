@@ -109,7 +109,12 @@ It's not clear that, even if you do want an exposure to one or more commodities,
 [[real-estate]]
 Real Estate
 -----------
+Real estate is an asset the supply of which reacts to demand only slowly, and with long lags. Obviously it may be held directly, and many individuals own the property they live in. This allows their house to have a hybrid function of being a store of wealth and a shelter. Usually the tax treatment of gains on houses is very generous, because otherwise this would be a very visible and unpopular tax.
 
+Because borrowing to fund house purchase is common, residential property becomes the only geared investment the average person ever makes. This allows they to enjoy amplified returns when house prices appreciate, but, also, amplified losses when they go the other way. Although this is not the experience of so many British people, a lot of US investors were badly burned in the crash of 2008 and lost their homes, with consequences which are still being felt today.
+ 
+
+Because of the double taxation problem mentioned under <<#commodities, Commodities>> there are problems with real estate companies issuing a lot of equity. Governments in various places have acknowledge this 
 
 
 [[infrastructure]]
