@@ -117,6 +117,19 @@ Because borrowing to fund house purchase is common, residential property becomes
 Because of the double taxation problem mentioned under <<#commodities, Commodities>> there are problems with real estate companies issuing a lot of equity. Governments in various places have acknowledge this 
 
 
-[[infrastructure]]
-Infrastructure
---------------
+[[other-asset-classes]]
+Other Asset Classes
+-------------------
+
+I do not accept that:
+
+.	private equity,
+.	hedge funds,
+.	convertible bonds,
+.	catastrophe bonds footnote:[Why Buffett is steering clear of catastrophe bonds, Gillian Tett, FT, 9 May 2014].  or
+.   infrastructure
+
+constitute separate asset classes, although I do not know enough about the last to be
+completely confident. 
+
+
