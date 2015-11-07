@@ -95,7 +95,7 @@ this really affect valuations?]
 Math Test
 ---------
 $$ 
- \operatorname{Var}(X) = \operatorname{E}\left[(X - \mu)^2 \right]   
+     Var(X) = E\left[(X - \mu)^2 \right]  
 $$
  
 [[the-importance-of-securities-exchanges]]
