@@ -277,9 +277,9 @@ Russia is rapidly becoming a failed state. It went straight from communist dicta
 
 
 '''''
-[[october]]
-October
--------
+[[october-15]]
+October '15
+-----------
 
 There are tentative signs that Europe's economy is starting to take off. Mario Draghi seems to have overcome the opposition from the Bundesbank to buy government bonds. Far from generating hyperinflation, however, interest rates in Europe, both short and long term, have never been lower. Most of the continent has negative short term rates, which, until it happened, was thought to be impossible. 
 
@@ -287,6 +287,14 @@ The way to take advantage of this situation is to enter into a spread trade, sel
 
 The theory worked well for most of a month, before yields in Germany fell even lower. This was pretty painful, and has damaged my recent performance, but I still consider that the strategy is sound, and will not be unwinding my position any time soon.
 
-Unfortunately, margin calculations do not give me full credit for the hedge as Bund futures trade on DTB and US Treasury futures trade on CME (or Globex). 
- 
+Unfortunately, margin calculations do not give me full credit for the hedge as Bund futures trade on DTB and US Treasury futures trade on CME (or Globex). I am nowhere near using all my capital for margin, so that's not a major problem, but it is a bit annoying.
+
+[[november-15]]
+November '15
+------------
+I got cold feet and decided to move towards a more hedged equity position. I decided to short the US and go long Europe (in the form of the DJ600 and EST50). Unfortunately this was sortly after a major correction across the globe. So far the US, to which I am exposed via the S&P 500 index, using mini-futures, symbol ES, has roared back, slightly making a mockery of the idea that I'd be fully hedged against a major move in global equities. 
+
+Altogether, these have not been a terribly happy month or two. One silver lining is that I decided that it'd be better that my cash was held in USD, rather than GBP. Mark Carney's recent caution about the timings of rate rises (week 1 or the month) has resulted in some gains on the FX front. This position was opened up for hedging, so I can't really take credit for it as a brilliant trading decision, but I won't send back the profits.
+
+
  
