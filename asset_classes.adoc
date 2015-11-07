@@ -32,7 +32,7 @@ Accounts have a very binary view of the world. If a company spend money, it is e
 The system works very well, if you know 'exactly' how long the asset will last but in general this is where company accounts start to require some subjective judgement.
 Even an asset is created, it, in general, doesn't last forever, so expense transactions have to be created in subsequent years, which then have to be countered against the asset, in the form of a depreciation account.
 
-To reliably value securities, it's necessary to look at a stream of cashflows. Converting the traditional accounting reports into this is a highly developed art, on which there are many excellent books written. One of the better ones is <<{bibliography}#security-analysis, Security Analysis>>.
+To reliably value securities, it's necessary to look at a stream of cashflows. Converting the traditional accounting reports into this is a highly developed art, on which there are many excellent books written. One of the better ones is <<{{book.bibliography}}#security-analysis, Security Analysis>>.
 
 [[seniority-of-obligations]]
 Seniority of obligations
