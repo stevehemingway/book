@@ -40,4 +40,4 @@
 
 - [[security-analysis]] https://en.wikipedia.org/wiki/Security_Analysis_(book)[Security Analysis], Graham and Dodd. The book that Warren Buffett learned his trade from.
 
-// to put a link to this bibliography, just use the format <<bibliography.html#anchorname>>
+// to put a link to this bibliography, just use the format <<{{book.bibliography}}#anchor, Text to display>>
