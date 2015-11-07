@@ -10,7 +10,7 @@ In other words, you have not only to spot mis-valued securities, but also have s
 
 In this chapter I will present a number of approaches to valuation that I have found useful.
 Unfortunately, it is extremely difficult to identify mis-valued securities. 
-The market is a crowd, and as Francis Galton spotted, a long time a go, under some reasonable constraints, crowds are remarkably good at estimating things like the correct value of a security. <<{{book.bibliography}}#surowiecki>>.
+The market is a crowd, and as Francis Galton spotted, a long time a go, under some reasonable constraints, crowds are remarkably good at estimating things like the correct value of a security. <<{{book.bibliography}}#surowiecki, Surowiecki>>.
 
 
 [[valuation]]
