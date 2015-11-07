@@ -7,7 +7,7 @@ I am writing the book that I wish I had read when I started seriously investing 
 This is a very early draft of the book. 
 
 I have decided to write it on  http://www.gitbook.com[gitbook.com]. 
-This is a very neat website that uses [http://www.github.com]github as storage.
+This is a very neat website that uses http://www.github.com[github] as storage.
 At the moment I've decided to use the free GitHub service, which means that I must share my 
 work with the world. You can view the book both on GitHub and GitBook. 
 If you are on GitHub you'll have a better experience by going to GitBook where the book can be accessed in
