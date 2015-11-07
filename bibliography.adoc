@@ -4,23 +4,23 @@
 .Books
 -	[[[ilmanen]]]  Expected Returns: An Investor's Guide to Harvesting Market Rewards. 
 -	[[[brealey-and-myers]]] Brearley and Myers, Principles of Corporate Finance  http://www.amazon.co.uk/Principles-Corporate-Finance-Richard-Brealey/dp/1259009513
--	[[[Hull]]] John Hull,  "`Options, Futures and Other Derivatives`"
+-	[[[hull]]] "`Options, Futures and Other Derivatives`", John Hull.
 
--	[[[Elton]]] Modern Portfolio Theory and Investment Analysis, Elton.
+-	[[[elton]]] Modern Portfolio Theory and Investment Analysis, Elton.
 
--	[[[Faber]]] Global Asset Allocation, Faber, http://books.google.com/books?vid=ISBN9780988679924. Very interesting book about how to construct an 'all weather' portfolio - i.e. one that will continue to deliver positive returns in all market conditions. Backtesting of a number of recommended strategies.
+-	[[[faber]]] Global Asset Allocation, Faber, http://books.google.com/books?vid=ISBN9780988679924. Very interesting book about how to construct an 'all weather' portfolio - i.e. one that will continue to deliver positive returns in all market conditions. Backtesting of a number of recommended strategies.
 
--	[[[Kroijer]]] Investing Demystified: How to Invest Without Speculation and Sleepless Nights, http://books.google.com/books?vid=ISBN9780273781349
+-	[[[kroijer]]] Investing Demystified: How to Invest Without Speculation and Sleepless Nights, http://books.google.com/books?vid=ISBN9780273781349
 
--	[[[Dixon]]] Penguin Guide to Finance,  http://books.google.com/books?vid=ISBN9780140289329
+-	[[[dixon]]] Penguin Guide to Finance,  http://books.google.com/books?vid=ISBN9780140289329
 
--	[[[Brett]] How to Read the Financial Pages, https://books.google.com/books?vid=ISBN0712662596
+-	[[[brett]] How to Read the Financial Pages, https://books.google.com/books?vid=ISBN0712662596
 
--	[[[Lack]]] http://www.sl-advisors.com/the-hedge-fund-mirage/[The Hedge Fund Mirage] Essential reading if you are ever seized with the desire to hand over your hard-earned savings to a hedge fund manager. Unfortunately, for many savers, including badly-paid public sector employees, they have no choice, because their pension savings are entrusted, in part, to these modern-day racketeers.
+-	[[[lack]]] http://www.sl-advisors.com/the-hedge-fund-mirage/[The Hedge Fund Mirage] Essential reading if you are ever seized with the desire to hand over your hard-earned savings to a hedge fund manager. Unfortunately, for many savers, including badly-paid public sector employees, they have no choice, because their pension savings are entrusted, in part, to these modern-day racketeers.
 
--	[[[Surowiecki]]] http://www.amazon.co.uk/Wisdom-Crowds-James-Surowiecki/dp/0385721706/ref=sr_1_1?ie=UTF8&qid=1439233968&sr=8-1&keywords=9780385721707[The Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations, ISBN 9780385721707].
+-	[[[surowiecki]]] http://www.amazon.co.uk/Wisdom-Crowds-James-Surowiecki/dp/0385721706/ref=sr_1_1?ie=UTF8&qid=1439233968&sr=8-1&keywords=9780385721707[The Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations, ISBN 9780385721707].
 
--   [[[Spitznagel]]] http://www.amazon.com/The-Dao-Capital-Investing-Distorted/dp/111834703X [The Dao of Capital: Austrian Investing in a Distorted World].
+-   [[[spitznagel]]] http://www.amazon.com/The-Dao-Capital-Investing-Distorted/dp/111834703X [The Dao of Capital: Austrian Investing in a Distorted World].
 
 .Internet Resources
 -	[[[the-money-illusion]]] http://www.themoneyillusion.com/
