@@ -10,7 +10,7 @@ In other words, you have not only to spot mis-valued securities, but also have s
 
 In this chapter I will present a number of approaches to valuation that I have found useful.
 Unfortunately, it is extremely difficult to identify mis-valued securities. 
-The market is a crowd, and as Francis Galton spotted, a long time a go, under some reasonable constraints, crowds are remarkably good at estimating things like the correct value of a security. <<{{book.bibliography}}#surowiecki, Surowiecki>>.
+The market is a crowd, and as Francis Galton spotted, a long time a go, under some reasonable constraints, crowds are remarkably good at estimating things like the correct value of a security. <<{{book.bibliography}}#surowiecki, Surowiecki>> has a lot to say about this.
 
 
 [[valuation]]
@@ -127,18 +127,24 @@ Note that this is a dimensionally dubious measure: market cap is a 'stock' where
 
 // Ali, can you have a look a this?
 
-
 [[equities-as-a-call-option]]
 Equities as a call option
 ^^^^^^^^^^^^^^^^^^^^^^^^^
+This is the idea that bondholders own the assets of a company until they have been paid off in full.
+I'm not sure that for practical purposes this helps in day to day investing.
+It does mean, however, that even a company that has zero, or negative asset value in accounting terms may still have a value as a tradeable security. It also explains why shareprices can have a very non-linear response to economic variables, e.g. commodity prices.
 
 [[small-cap]]
 Small Cap
 ^^^^^^^^^
+Small cap stocks undoubtedly offer many opportunities for the investor who is prepared to do his homework.
+Large companies often have many analysts poring over their reported results, and market position, but 
+smaller ones can remain unexamined, leaving them, potentially, as hidden gems. However, the downside is that the shares will be less liquid, so that finding a willing seller may be hard, and, they are likely to be more volatile when they do trade.
 
 [[large-cap]]
 Large Cap
 ^^^^^^^^^
+Hidden value in larger stocks is less likely, but at least it's easier to buy and sell them. It is also more likely that it will be possible to get an exposure to them via derivatives. In the UK or US, Contracts for Difference may be available.
 
 [mega cap?]
 
