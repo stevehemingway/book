@@ -164,8 +164,6 @@ I have now pushed the VaR expected maximum loss to 5% of the portfolio value, wh
 movement.
 
 '''''
-//
-//// 
 [[Friday-31-july]]
 Friday 31 July
 --------------
