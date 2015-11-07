@@ -298,5 +298,6 @@ Altogether, these have not been a terribly happy month or two. One silver lining
 
 I have also been influenced by the research results of <<{{book.bibliography}}#star-capital, Star Capital>>
 
-I have been reading <<{{book.bibliography}}#Hull, Hull>>
+I have been reading <<{{book.bibliography}}#spitznagel, Spitznagel>> and have, as a result, been spending modest amounts of money on out of the money puts. I would have liked to buy puts on the SPX, but to reduce my margin requirements I have been buying them on the STOXX 50 (ESTX50) instead.
+
  
