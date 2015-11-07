@@ -17,6 +17,12 @@ Non-Commercial, No-Derivatives Licence]. This means that you’re free to
 download and share, but you must not sell it or change it and pass it
 off as your own. You must attribute me as the author if you share.
 
+I have written the text of this book in a lightweight markup language called http://asciidoctor.org/docs/what-is-asciidoc/[asciidoc]. 
+I am indebted to the authors of [this cribsheet]http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/ footnote:[I've never actually used or installed asciidoctor - I just use the asciidoc processor that comes with gitbook] and also http://www.methods.co.nz/asciidoc/userguide.html[this one].
+
+I have sprinkled the odd equation through the text. In order to make these look good, even if they do not actually illuminate the message very much, I've used latex, for which I've found http://www.personal.ceu.hu/tex/cookbook.html[this page of examples] very helpful.
+
+
 {% include "copyright.adoc" %}
 
 // doesn't work! include::copyright.adoc[]
