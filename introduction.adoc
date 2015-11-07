@@ -142,9 +142,17 @@ If you are a fan of Buffett, I would suggest that it is much more cost effective
 [[exclusions]]
 Exclusions
 ----------
-// Oh, I can put comments in like this! C style comments do not work!
+////
 
-$$x = y^2$$
+real real estate,
+credit
+cash bonds
+forestry?
+art?
+wine?
+
+////
+
 
 [[how-to-read-this-book]]
 How to read this book
