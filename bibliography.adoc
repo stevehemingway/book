@@ -5,24 +5,25 @@ Bibliography
 Books
 ~~~~~
 -	[[ilmanen]]  Expected Returns: An Investor's Guide to Harvesting Market Rewards, Ilmanen.
--	[[[brealey-and-myers]]] Brearley and Myers, Principles of Corporate Finance  http://www.amazon.co.uk/Principles-Corporate-Finance-Richard-Brealey/dp/1259009513
+-	[[[brealey-and-myers]]]  http://www.amazon.co.uk/Principles-Corporate-Finance-Richard-Brealey/dp/1259009513[Brearley and Myers, Principles of Corporate Finance] 
+
 -	[[hull]] "`Options, Futures and Other Derivatives`", John Hull.
 
 -	[[elton]] Modern Portfolio Theory and Investment Analysis, Elton.
 
--	[[faber]] Global Asset Allocation, Faber, http://books.google.com/books?vid=ISBN9780988679924. Very interesting book about how to construct an 'all weather' portfolio - i.e. one that will continue to deliver positive returns in all market conditions. Backtesting of a number of recommended strategies.
+-	[[faber]] http://books.google.com/books?vid=ISBN9780988679924[Global Asset Allocation, Mel Faber]. Very interesting book about how to construct an 'all weather' portfolio - i.e. one that will continue to deliver positive returns in all market conditions. Backtesting of a number of recommended strategies.
 
--	[[kroijer]] Investing Demystified: How to Invest Without Speculation and Sleepless Nights, http://books.google.com/books?vid=ISBN9780273781349
+-	[[kroijer]] , http://books.google.com/books?vid=ISBN9780273781349[Investing Demystified: How to Invest Without Speculation and Sleepless Nights], Hans Kroijer.
 
--	[[dixon]] Penguin Guide to Finance,  http://books.google.com/books?vid=ISBN9780140289329
+-	[[dixon]] http://books.google.com/books?vid=ISBN9780140289329[Penguin Guide to Finance,  Dixon]
 
--	[[brett]] How to Read the Financial Pages, https://books.google.com/books?vid=ISBN0712662596
+-	[[brett]] https://books.google.com/books?vid=ISBN0712662596[How to Read the Financial Pages, Brett]
 
 -	[[lack]] http://www.sl-advisors.com/the-hedge-fund-mirage/[The Hedge Fund Mirage] Essential reading if you are ever seized with the desire to hand over your hard-earned savings to a hedge fund manager. Unfortunately, for many savers, including badly-paid public sector employees, they have no choice, because their pension savings are entrusted, in part, to these modern-day racketeers.
 
 -	[[surowiecki]] http://www.amazon.co.uk/Wisdom-Crowds-James-Surowiecki/dp/0385721706/ref=sr_1_1?ie=UTF8&qid=1439233968&sr=8-1&keywords=9780385721707[The Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations, ISBN 9780385721707], James Surowiecki.
 
--   [[spitznagel]] http://www.amazon.com/The-Dao-Capital-Investing-Distorted/dp/111834703X [The Dao of Capital: Austrian Investing in a Distorted World].
+-   [[spitznagel]] http://www.amazon.com/The-Dao-Capital-Investing-Distorted/dp/111834703X [The Dao of Capital: Austrian Investing in a Distorted World, Spitznagel].
 
 Internet Resources
 ~~~~~~~~~~~~~~~~~~
@@ -37,10 +38,11 @@ Internet Resources
 -	[[d-short]] http://www.advisorperspectives.com/[Advisor Perspectives] Articles on investment strategy sponsored by D Short. Aimed at advisors but free and though provoking.
 
 -	[[dividend-disco]] http://seekingalpha.com/author/dividend-disco[Seeking Alpha author Dividend Disco]. A funny, jokey, honest look at one man's search for yield in what has become a desert for those seeking income.
+
 -	[[JP Morgan Asset Management Market Views]] http://insights.jpmorgan.co.uk/adviser/commentary-and-analysis/jpmorgan-market-views/[General regular reports from JPM Asset Management].
+
 -   [[star-capital]] http://www.starcapital.de/[Star Capital Advisors]. This firms website has an interactive search facility which shows global markets and sectors ranked by various valuation metrics: price-to-book, price-to-sales etc. The page is fully interactive. The focus is on CAPE, but markets can be ranked by any of the measures. I cannot vouch for the accuracy of this data, but if it is accurate, it is all collected together in a very convenient format.
 
-
-- [[security-analysis]] https://en.wikipedia.org/wiki/Security_Analysis_(book)[Security Analysis], Graham and Dodd. The book that Warren Buffett learned his trade from.
+-   [[security-analysis]] https://en.wikipedia.org/wiki/Security_Analysis_(book)[Security Analysis], Graham and Dodd. The book from which Warren Buffett learned his trade.
 
 // to put a link to this bibliography, just use the format <<{{book.bibliography}}#anchor, Text to display>>
