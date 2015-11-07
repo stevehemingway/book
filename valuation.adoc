@@ -36,14 +36,16 @@ This can come from changes to government or central bank policy, as well as usua
 From a practical point of view, if the market has underestimated the extent to which 
 the yield curve will move up then you should be short, and vice versa. 
 
+////
+ Need to write a little summary of finance theory. The following references are 
+ unnecessarily tough.
+////	
 
-// Need to write a little summary of finance theory. The following references are 
-// unnecessarily tough.
-	
+For more information check out 
 
-For more information check out https://en.wikipedia.org/wiki/Fundamental_theorem_of_asset_pricing[The Fundamental Theorem of Asset Pricing].
-https://en.wikipedia.org/wiki/Arrow%E2%80%93Debreu_model[Arrow Debreu Model]
-https://en.wikipedia.org/wiki/Net_present_value[Present Value]
+* https://en.wikipedia.org/wiki/Fundamental_theorem_of_asset_pricing[The Fundamental Theorem of Asset Pricing], 
+* https://en.wikipedia.org/wiki/Arrow%E2%80%93Debreu_model[the Arrow Debreu Model] and
+* https://en.wikipedia.org/wiki/Net_present_value[Present Value].
 
 
 [[asset-classes]]
@@ -65,15 +67,6 @@ To my mind the most important asset classes are:
 .	fixed income, 
 .	foreign exchange, and 
 .	commodities.
-
-I do not accept that:
-.	private equity,
-.	hedge funds,
-.	convertible bonds,
-.	catastrophe bonds,
-constitute separate asset classes, although I do not know enough about the last to be
-completely confident footnote:[Why Buffett is steering clear of catastrophe bonds, Gillian Tett, FT, 9 May 2014].
-// not sure the footnote: macro works: see http://www.methods.co.nz/asciidoc/chunked/ch18.html
 
 
 [[equities]]
