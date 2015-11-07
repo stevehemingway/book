@@ -43,8 +43,6 @@ then a redemption yield can be calculated, which is the internal rate of
 return on the cashflows. This redemption yield can be calculated, only
 under the assumption of the absence of credit risk.
 
-$$x=2$$
-
 Shares produce dividends, and so a dividend yield can be calculated for
 a company, which is comparable to the yield on a bond. However, for most
 companies, for tax and other reasons, only part of the earnings are paid
@@ -68,10 +66,9 @@ of securities (their holdings or position)
 
 Each investor will have a value to him of
 
-{% math %}
+$$
  \sum_{i} Exp(pv_i ) 
-{% endmath %}
-
+$$
 where $$ pv_i = c_i d_i $$ and $$ d_i = d(t_i) $$
 and the expectation is formed over the probability distribution for
 receiving $$ c_i $$ at time latexmath:$$ t_i $$.
@@ -97,12 +94,11 @@ this really affect valuations?]
 [[math-test]]
 Math Test
 ---------
-//// 
+$$ 
  \operatorname{Var}(X) = \operatorname{E}\left[(X - \mu)^2 \right]   
-
- //// 
-
- [[the-importance-of-securities-exchanges]]
+$$
+ 
+[[the-importance-of-securities-exchanges]]
 The importance of securities exchanges
 --------------------------------------
 
@@ -113,14 +109,15 @@ discovered.
 Stock Exchanges
 ---------------
 
+
 //// Deliver price visibility, and, sometimes, settlement services. 
 I don't discuss trading individual stocks, or bonds, so the main function 
-of the exchange is to generate reliable prices for the components of 
-equity indexes. For various reasons a lot of trading is moving 
+of the exchange is to generate reliable prices for the components of equity indexes. For various reasons a lot of trading is moving 
 away from exchanges, but for main market shares there should still
 be sufficient depth to the market to establish reliable prices. 
 
- Say something about Dark Pools.
+
+// Say something about Dark Pools.
 
 A marketplace, where buyers and sellers come together to assist price
 discovery. These days usually coming together in a strictly electronic
@@ -138,8 +135,8 @@ buying become enormously more expensive. God gave us wheat, but the
 Chicago Board of Trade gave us _No. 2 Soft Red Winter Wheat_ .
  ////
 
- In practice your broker will make all the decisions about where your trades are executed.
- you may be offered some choice about routing, but 
+In practice your broker will make all the decisions about where your trades are executed.
+You may be offered some choice about routing, but 
 
 [[futures]]
 Futures
@@ -184,8 +181,9 @@ market has gone up very rapidly, volatility is likely to be very high,
 for short-dated options. Writing an option to take advantage of a
 reversion can work here because even if the market just stays still,
 you’ll still make money as the option time value decays. Not everyone
-wants to take the risk that writing `naked' options implies. It is also
-expensive, in terms of margin usage.
+wants to take the risk that writing `naked' options implies. It is also expensive, in terms of margin usage.
+
+The great advantage of options is that you can protect yourself against so called Black Swan events.
 
 [[brokers]]
 Brokers
