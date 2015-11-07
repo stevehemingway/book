@@ -99,4 +99,7 @@ it is unlikely that the same brokerage would be the best for pure execution.
 Historically, broker commissions were fixed, so they competed on the quality of their research
 and other service. This, in the UK, came to an abrupt halt in 1986, the year of the 'Big Bang'.
 
+== Black Swan
+This is an event that you would expect 'never' to occur given the probability distribution baked into the models that are conventionally used to value derivatives that depend on knowing this distribution.
+
 
