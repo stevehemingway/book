@@ -1,3 +1,13 @@
+[[what-is-an-asset-class]]
+What is an asset class?
+-----------------------
+
+The key difference between asset classes is the dominant risk factor to which they are exposed.
+Investing is all about managing risk, and if the different drivers of risk can be isolated into different asset classes, managing that risk becomes much easier.
+In practice, it is impossible to find investable securities which have zero exposure to all but one risk driver.
+Bond prices depend on interest rates, but they will be exposed to commodity prices through interactions with the wider economy. Equity options mainly depend on underlying prices, but both directly and indirectly they are exposed to interest rates.
+Controlling risk by chosing a mix of asset from different asset classes cannot be an exact science.
+
 [[commodities-and-tradeable-securities]]
 Commodities and Tradeable Securities
 -----------------------------------
