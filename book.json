@@ -1,7 +1,6 @@
 {
     "plugins": [
-        "katex",
-        "gitbook-asciidoc"
+        "katex"
     ],
     "size": {
         "w": 1800,
