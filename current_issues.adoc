@@ -17,10 +17,11 @@ returns in recent decades, to the extent that the Cult of Equity has
 died, or at is at least in the Intensive Care Unit.
 
 This is all old news, and many people have got rich going long treasury bonds. 
-The question is, are we nearly there (at the end of the cycle) yet? <<{{book.bibliography}}#The-Money-Illusion,Scott Sumner>> thinks
-'`probably not`', on the grounds that US monetary policy is very tight still. He thinks that Eurozone policy may be even tighter. 
+The question is, are we nearly there (at the end of the cycle) yet? <<{{book.bibliography}}#the-money-illusion,Scott Sumner>> thinks
+`probably not', on the grounds that US monetary policy is very tight still. He thinks that Eurozone policy may be even tighter. 
 This is based on the rate of growth of nominal GDP, which has been very slow since the Global Financial Crisis. 
 There is a long, honourable tradition of supporting nominal GDP targeting as the correct policy objective of a central bank.
+
 [[commodities-supercycle]]
 Commodities Supercycle
 ~~~~~~~~~~~~~~~~~~~~~~
