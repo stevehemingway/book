@@ -127,10 +127,11 @@ However, you notice that on a lot of fundamental valuation measures (market cap 
 You decide that you will protect against the worst by buying out of the money puts. 
 You buy puts which are 30% out of the money.
 
-// put an expanded version of this example discussing choosing a strike 2.5SDs away, or with a delta
-// of 0.05, or at a certain cost. Refer to the Dao of Investing
-// (maybe you decide to choose the strike to be 2.5 standard deviations away from market
-
+////
+ put an expanded version of this example discussing choosing a strike 2.5SDs away, or with a delta
+ of 0.05, or at a certain cost. Refer to the Dao of Investing
+ (maybe you decide to choose the strike to be 2.5 standard deviations away from market
+////
 
 
 [[greeks]]
