@@ -12,19 +12,20 @@ a 4-day horizon with 99.9% probability and a Monte-Carlo VAR Scenario.
 
 The exposure is tipped to Europe, in the hope that we’d finally escape
 from the drag created by the never-ending Greek crisis. Sadly a few
-other events have conspired to drag down equity markets: * Terrible news
-from China, where the authorities seem determine to rig the markets by
+other events have conspired to drag down equity markets: 
+
+* Terrible news from China, where the authorities seem determine to rig the markets by
 banning short selling and using government funds to prop up the market,
 * Good claims numbers from the USA, but so-so results from Dow Jones
-constituent companies, particularly Caterpillar, * Rising USD prices,
+constituent companies, particularly Caterpillar, 
+* Rising USD prices,
 driven by increasing talk about rate rises in the US this year from
-Janet Yellen, * Marginally less than perfect results form Apple, *
-Collapses of the price of commodities and mining companies as the full
+Janet Yellen, 
+* Marginally less than perfect results form Apple, 
+* Collapses of the price of commodities and mining companies as the full
 realization of how much malinvestment has been sunk into mines lately
 sinks in.
-
-* http://www.bloomberg.com/news/articles/2015-07-27/chinese-stock-index-futures-drop-before-industrial-profits,[China
-Has Biggest One-Day Stock Crash Since 2007]
+* http://www.bloomberg.com/news/articles/2015-07-27/chinese-stock-index-futures-drop-before-industrial-profits[China Has Biggest One-Day Stock Crash Since 2007]
 
 References:
 
@@ -62,8 +63,8 @@ the relatively strong employment numbers at the end of last week.
 I was down 1% on the day, which shows that I was not very well hedged
 against equity movements. My overall exposure is 90% of my equity, so
 it’s not surprising that my portfolio performed like this, with such a
-broad sell-off in equities. Equities have sold off around 3% over the
-last week. I am holding on for a bounce tomorrow!
+broad sell-off in equities. 
+Equities have dropped by around three percent over the last week. I am holding on for a bounce tomorrow!
 
 
 [[tuesday-28-july]]
