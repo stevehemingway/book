@@ -165,7 +165,7 @@ this, a CFD provided by a good brokerage, such as \{\{ best_brokerage
 }}, can provide good, cheap, exposure to and underlying where other
 methods would be prohibitive.
 
-[]Highlight difference between synthetic and physical ETFs.]
+// []Highlight difference between synthetic and physical ETFs.]
 
 [[etfs]]
 ETFs
