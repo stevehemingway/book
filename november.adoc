@@ -1,7 +1,7 @@
-# November
+## November
 
 
-= Week 1 
+=== Week 1 
 
 This was OK, except that my long ZN/ short GBL position continued to be a drag. 
 The position is probably a bit large, but it seems to me that the view is essentially correct, that Europe's economy will pick up a bit on the coat tails of the US's, and bond yields on the two continents will come into alignment.
@@ -11,7 +11,7 @@ So far, this has not proved to be the case.
 Otherwise, equity markets seem to be recovering, so I am making money. Unfortunately because I am semi-hedged, with a net short position in US equities, the short SPY and short ES futures positions are dragging me down.
 
 
-= Week 2
+=== Week 2
 
 Starting 9 November.
 
