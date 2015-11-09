@@ -1,6 +1,6 @@
-# Stock Tickers
+## Stock Tickers
 
-= Introduction
+=== Introduction
 
 // explain what a stock ticker is and why it is used.
 
