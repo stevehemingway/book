@@ -1,4 +1,4 @@
-# Summary
+= Summary
 
 . link:README.adoc[Read Me]
 . link:introduction.adoc[Introduction]
@@ -9,6 +9,7 @@
 . link:where_to_trade.adoc[Trading]
 . link:current_issues.adoc[Current Issues]
 . link:trading_diary.adoc[Trading Diary]
+.. November
 . link:bibliography.adoc[Bibliography]
 . link:GLOSSARY.adoc[Glossary]
 
