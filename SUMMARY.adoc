@@ -12,5 +12,5 @@
 .. link:november.adoc[November]
 . link:bibliography.adoc[Bibliography]
 . link:GLOSSARY.adoc[Glossary]
-.. Stock Tickers
+.. link:stock_tickers.adoc[Stock Tickers]
 
