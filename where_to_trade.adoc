@@ -46,7 +46,7 @@ under the assumption of the absence of credit risk.
 Shares produce dividends, and so a dividend yield can be calculated for
 a company, which is comparable to the yield on a bond. However, for most
 companies, for tax and other reasons, only part of the earnings are paid
-out, but that which is retained is `really' an addition to the
+out, but that which is retained is "really" an addition to the
 shareholders’ funds, and so another, possibly better, measure of yield
 is `earnings yield', which is the ratio of earnings per share to share
 price. Going one step further one can define EBITDA, which converts the
