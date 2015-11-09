@@ -23,6 +23,11 @@ My long dollar position has done well. Mark Carney, BoE governor seems to be put
 
 Because I am very negative about the government in South Africa, I shorted the ZAR. I did this in small size, because I suspect that the currency has already gone very low, but at least with Janet Yellen saying that she really will increase USD rates, this should add a margin of safety.
 
+I also have had a feeling in my gut that eastern european equities are undervalued. I tried to trade the ATXDE future, as a proxy, but Interactive Brokers seems not to support trading it.
+
+Although a country's stock market and its currency are not closely correlated, out of desperation I went long some zloty, via a Globex future, to get some exposure to Poland. Poland and Czech Republic seem markets to watch, but unfortunately there seem to be no active futures markets in these countries. I guess that I should be grateful that there is a functioning stock market in ex-Communist regimes. Poland has the WIG20 index, and it is a great source of mystery why some enterprising exchange (DTB?) hasn't introduced a future on it.
+
+
 
 
 
