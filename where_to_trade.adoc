@@ -1,6 +1,5 @@
-[[the-golden-rule-buy-low-sell-high]]
-The Golden Rule: buy low, sell high
------------------------------------
+
+== The Golden Rule: buy low, sell high
 
 All investors worry about their exit: converting their paper gains to
 real assets. For the trader, the exit is the closing of his position,
@@ -10,12 +9,10 @@ This rule works whether you buy first, or sell first. If you sell first,
 this is called __short selling__. It is particularly easy to do this
 with futures.
 
-Short selling.
+=== Short selling.
 
 
-[[valuation]]
-Valuation
-~~~~~~~~~
+=== Valuation
 
 The key to investment is valuation. Making money is easy: find mispriced
 securities, buy them, and wait for the market to realize its mistake.
@@ -31,9 +28,7 @@ possible that it is possible to detect mispricing between the same asset
 classes between countries, and between different asset classes within a
 country.
 
-[[yield]]
-Yield
-^^^^^
+==== Yield
 
 Most financial assets produce some kind of income. Not all produce a
 long-term steady stream, but many do. The ratio of the unit-time income
@@ -92,26 +87,22 @@ is this reasonable? If someone had a different time preference, would
 this really affect valuations?]
 
 
-[[the-importance-of-securities-exchanges]]
-The importance of securities exchanges
---------------------------------------
+== The importance of securities exchanges
 
 The nexus where buyers and sellers meet and prices are most easily
 discovered.
 
-[[stock-exchanges]]
-Stock Exchanges
----------------
+== Stock Exchanges
 
 
-//// Deliver price visibility, and, sometimes, settlement services. 
+// Deliver price visibility, and, sometimes, settlement services. 
 I don't discuss trading individual stocks, or bonds, so the main function 
 of the exchange is to generate reliable prices for the components of equity indexes. For various reasons a lot of trading is moving 
 away from exchanges, but for main market shares there should still
 be sufficient depth to the market to establish reliable prices. 
 
-
-// Say something about Dark Pools.
+////
+ Say something about Dark Pools
 
 A marketplace, where buyers and sellers come together to assist price
 discovery. These days usually coming together in a strictly electronic
@@ -127,14 +118,13 @@ transfer of title against payment. They will always attempt to
 standardize securities. Without standardizing contracts selling and
 buying become enormously more expensive. God gave us wheat, but the
 Chicago Board of Trade gave us _No. 2 Soft Red Winter Wheat_ .
- ////
+
+////
 
 In practice your broker will make all the decisions about where your trades are executed.
 You may be offered some choice about routing, but 
 
-[[futures]]
-Futures
--------
+== Futures
 
 The most basic derivative. Has existed for hundreds of years to meet the
 demand for farmers to remove risk of an adverse movement in grain
@@ -154,9 +144,7 @@ have a view about the underlying market, you can cheaply express it by
 buying or selling the future. For most futures, the spread, and the
 liquidity, are excellent, as long as you stick to the nearby contract.
 
-[[options]]
-Options
--------
+== Options
 
 There are lots of variations on a theme when it comes to options. You
 not only have options on cash securities, but also options on futures.
@@ -179,9 +167,7 @@ wants to take the risk that writing `naked' options implies. It is also expensiv
 
 The great advantage of options is that you can protect yourself against so called Black Swan events.
 
-[[brokers]]
-Brokers
--------
+== Brokers
 
 Exchanges have systems that cannot be accessed directly by end
 investors. Diversification is important, and having good access to as
@@ -208,13 +194,9 @@ based in the USA. My experience is that US-based brokerages are many
 years ahead of UK or European providers in terms of technology and
 breadth of product coverage.
 
-[[styles-of-investing]]
-Styles of Investing
--------------------
+== Styles of Investing
 
-[[time-horizons]]
-Time Horizons
-~~~~~~~~~~~~~
+=== Time Horizons
 
 Some people make a keen distinction between speculating and investing.
 The general idea is that investing is finding the highest-quality assets
@@ -229,9 +211,7 @@ if a fund is managed for a large pool of savers, the time horizon he
 should focus on should be some average of the economic situation of his
 investors.].
 
-[[momentum]]
-Momentum
-~~~~~~~~
+=== Momentum
 
 Momentum trading is exactly what it sounds. You wait until you see
 something go into a `bull market' and climb on the bandwagon, making
@@ -254,9 +234,7 @@ invest. The S&P500 is now at a very steep valuation, and to buy now is
 to risk being long when the market crashes. It is certainly the case
 that markets go up steadily and then crash precipitously.
 
-[[growth]]
-Growth
-~~~~~~
+=== Growth
 
 Some industries, and companies, are likely to grow faster than others.
 Internet stocks are likely to grow quicker than steel manufacturers.
@@ -268,9 +246,7 @@ The growth style of investing tries to identify stocks with genuine
 growth prospects. This tends to be a popular investment style in a macro
 environment with strong economic growth.
 
-[[value]]
-Value
-~~~~~
+=== Value
 
 Value investing is associated with Ben Graham, ??? Dodd and Warren
 Buffett. This attempts to examine companies’ accounts closely to
@@ -280,9 +256,7 @@ attempts to identify sustainable competitive advantage footnote:[Buffett
 has written extensively on his philosophy of investing and on many other
 varied topics in finance.]
 
-[[sector-rotation]]
-Sector rotation
-~~~~~~~~~~~~~~~
+=== Sector rotation
 
 Sectors go in and out of fashion. 
 Multiples theoretically reflect growth prospects, but growth is something that must come to an end.
@@ -294,9 +268,7 @@ There is always something being written in Seeking Alpha about which sector is a
 
 It is generally the case that earnings are much less volatile than a stock price, and that yields are mean-reverting.
 
-[[technical-trading-and-mean-reversion]]
-Technical Trading and Mean Reversion
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=== Technical Trading and Mean Reversion
 
 Equity markets typically have an annual standard deviation of 20%. This
 is an annual variance of 4%. A typical daily variance, given there are
@@ -320,9 +292,7 @@ sudden large moves. A brokerage will close out a position when
 inadequate margin has been posted. Brokerages vary, but none are patient
 when it comes to waiting for margin calls to be met.
 
-[[macro-trading]]
-Macro Trading
-~~~~~~~~~~~~~
+=== Macro Trading
 
 Most investors depend on fund managers to make investment decisions for
 them. Most fund managers are concerned with a small sector of the
@@ -348,9 +318,7 @@ understanding of how different asset classes will react to unexpected
 changes in the wider economy, and an edge on other investors on
 predicting the evolution of how the global economy will evolve.
 
-[[turning-japanese]]
-Turning Japanese
-~~~~~~~~~~~~~~~~
+=== Turning Japanese
 
 We live in oriental times. In 1992, because of bad lending to finance
 property purchases, Japanese banks were pushed to the brink. To avert a
@@ -405,9 +373,7 @@ nineties. It has been suggested [reference?] that monetary policy in
 Japan was, and possibly still is, too tight, because the commercial
 banks inability, or unwillingness to lend.
 
-[[japan-scenario]]
-Japan Scenario
-^^^^^^^^^^^^^^
+==== Japan Scenario
 
 As a general rule, we tend to overestimate the probability that things
 will not change, so the Japan scenario is one we should examine closely.
@@ -420,15 +386,12 @@ including sub-investment grade, but only from the strongest names.
 Because government bonds have such low yields, for mean reversion
 reaons, it’s hard to justify putting them into a portfolio at all.
 
-[[stagflation-scenario]]
-Stagflation Scenario
-^^^^^^^^^^^^^^^^^^^^
+==== Stagflation Scenario
 
 Here we need to get out of bonds. Gold and real estate might do well.
 
-[[real-recovery-scenario]]
-Real Recovery Scenario
-^^^^^^^^^^^^^^^^^^^^^^
+==== Real Recovery Scenario
+
 
 Cyclical stocks. Miners, commodities. It might be good to short the
 currencies of the most rapidly growing economies. Emerging markets, with
