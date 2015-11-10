@@ -1,6 +1,5 @@
-[[investing-101]]
-Investing-101
--------------
+
+= Investing-101
 
 I have read many books on investing, but none of them really fully prepared me to trade securities and avoid losing money.
 I am writing the book that I wish I had read when I started seriously investing in the mid 1990s.
