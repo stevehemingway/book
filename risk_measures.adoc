@@ -1,6 +1,4 @@
-[[what-is-risk]]
-What is risk?
--------------
+== What is risk?
 
 Risk: something that can be insured because the set of possible future
 outcomes is denumerable. In trading we probably will use `hedge' rather
@@ -9,19 +7,15 @@ example would be your house not burning down, but being lifted into
 space by aliens. The latter is definitely something that it would be
 impossible to get a quote on.
 
-Tail risk: Nassim Taleb.
+=== Tail risk: 
 
-[[harry-markowitz-and-mean-variance-portfolios]]
-Harry Markowitz and Mean-Variance Portfolios
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Nassim Taleb.
 
-[[efficient-frontier]]
-Efficient Frontier
-~~~~~~~~~~~~~~~~~~
+=== Harry Markowitz and Mean-Variance Portfolios
 
-[[eugene-fama-and-the-efficient-market-hypothesis]]
-Eugene Fama and the Efficient Market Hypothesis
------------------------------------------------
+=== Efficient Frontier
+
+== Eugene Fama and the Efficient Market Hypothesis
 
 == Value at Risk
 
@@ -31,9 +25,8 @@ $$
 $$
 
 
-[[broker-and-exchange-margins]]
-Broker and Exchange Margins
----------------------------
+== Broker and Exchange Margins
+
 Most books on investing strongly advise against trading on margin. 
 Essentially this involves buying securities using borrowed money.
 The typical setup is that a broker will allow buying securities up to ten or fifteen times the value of the investor's equity.
@@ -55,9 +48,7 @@ The broker's margin requirements are usually stricter than those of the clearing
 In practice a large brokerage will have offsetting positions that gives the brokerage 
 access to costless funds. This is how they can sometimes offer a very attractive service.
 
-[[capm-and-hedging]]
-CAPM and Hedging
-----------------
+== CAPM and Hedging
 
 Investing is like successful gambling. 
 The key to investing is to find shares which are mis-priced.
@@ -76,20 +67,14 @@ $$
 \frac {E(R_i)- R_f}{\beta_{i}}  = E(R_m) - R_f   
 $$
 
-or, in the more familiar form:
-
-$$
-E(R_i) = R_f + \beta_{i}(E(R_m) - R_f)
-$$
-
-Where $$\beta_{i} = \frac {\mathrm{Cov}(R_i,R_m)}{\mathrm{Var}(R_m)}$$.
-
-
+////
 [not sure this should be here: you don't say anything about trading individual stocks anywhere else]
 
 [[risk-and-gearing]]
-Risk and Gearing
-----------------
+////
+
+== Risk and Gearing
+
 For a given composition of a portfolio, risk is proportional to its total value.
 By gearing up this risk can be increased. 
 Gearing can be achieved by using a margin account, by using CFDs and by using futures.
@@ -101,22 +86,12 @@ Gearing allows one to increase exposure cheaply, but at the cost of an increased
 [talk about stop loss orders].
 
 
-[[all-trades-are-carry-trades]]
-All Trades are Carry Trades
----------------------------
+== All Trades are Carry Trades
 
-[[measuring-risk-and-measuring-return]]
-Measuring Risk and Measuring Return
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=== Measuring Risk and Measuring Return
 
-[[credit-risk]]
-Credit Risk
------------
+== Credit Risk
 
-[[risk-horizon]]
-Risk Horizon
-------------
+== Risk Horizon
 
-[[liquidity-risk]]
-Liquidity Risk
---------------
+== Liquidity Risk
