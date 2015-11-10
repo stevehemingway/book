@@ -1,4 +1,3 @@
-
 = Investing-101
 
 I have read many books on investing, but none of them really fully prepared me to trade securities and avoid losing money.
@@ -21,8 +20,7 @@ I am indebted to the authors of http://asciidoctor.org/docs/asciidoc-syntax-quic
 
 I have sprinkled the odd equation through the text. In order to make these look good, even if they do not actually illuminate the message very much, I've used latex, for which I've found http://www.personal.ceu.hu/tex/cookbook.html[this page of examples] very helpful.
 
-Acknowledgements
-~~~~~~~~~~~~~~~~
+== Acknowledgements
 
 
 {% include "copyright.adoc" %}
