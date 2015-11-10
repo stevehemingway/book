@@ -76,6 +76,15 @@ $$
 \frac {E(R_i)- R_f}{\beta_{i}}  = E(R_m) - R_f   
 $$
 
+or, in the more familiar form:
+
+$$
+E(R_i) = R_f + \beta_{i}(E(R_m) - R_f)
+$$
+
+Where $$\beta_{i} = \frac {\mathrm{Cov}(R_i,R_m)}{\mathrm{Var}(R_m)}$$.
+
+
 [not sure this should be here: you don't say anything about trading individual stocks anywhere else]
 
 [[risk-and-gearing]]
