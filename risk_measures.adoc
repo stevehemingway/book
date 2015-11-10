@@ -87,8 +87,27 @@ Gearing allows one to increase exposure cheaply, but at the cost of an increased
 
 
 == All Trades are Carry Trades
+We are so attuned to the idea of things and money as being totally different categories of things that 
+it's difficult to absorb the concept that all investable securities are stores of value, and are thus, in an important sense, very like money.
+
+The clearest example of this is foreign exchange. If we buy dollars for pounds, which then is the money, and which the security? 
+We are better off thinking of both the currencies as being, in some sense, part of our portfolio, but with one of the components having a negative quantity. We have the dollars, a  
+[options="header"] 
+|===
+| **Security** | **quantity** | **long/short**
+| dollars| 1.5| long
+| pounds| 1| short
+|===
+
+This seems easy for portfolio created by a single trade, but the principle can be extended to any porfolio by including the original funding as a negative currency position. 
+
+To properly measure the performance of a position the short currency position should have a carry cost factored in. This is how a proprietary trader is judged: his funding position gives rise to a carry cost which is deducted from any trading profits to judge the success of his trading.
+
+Many derivatives bundle funding with an exposure to an underlying. Buying a stock index future requires no cash settlement. The price of the future exactly balances the currency and the equity position, to remove the need for a cash payment at the point the position is established. footnote:[To open a futures position the exchange may require you to post cash as margin, but this is just to (largely) eliminate the credit risk they are taking. The margin moneys are still yours. They just cannot be pledged as collateral against any other trades. ]
+
 
 === Measuring Risk and Measuring Return
+The benchmark return is that on a risk free bond of maturity equal to your investment time horizon. footnote:[Really this should be a zero coupon risk free bond,  but these are not easy to find although their price can be derived by combining regular bonds in such a way that the interest cash flows zre eliminated.]
 
 == Credit Risk
 
