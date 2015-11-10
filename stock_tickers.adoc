@@ -1,24 +1,32 @@
 ## Stock Tickers
 
-=== Introduction
 
-// explain what a stock ticker is and why it is used.
-
-VRX::
-    Valeant. Stock and CFD. Pharma stock. Subject to a big battle involving Pershing Capital, run by Bill Ackman. Considered to be playing fast and loose with sales methods.
+== VRX 
+Valeant. Stock and CFD. Pharma stock. Subject to a big battle involving Pershing Capital, run by Bill Ackman. Considered to be playing fast and loose with sales methods.
     
     
-ES::
+== SPX 
+The S&P 500 Index accounts for approximately 40% of total global stockmarket capitalization. It is by far the most important stock market index in the world. Exposure can be obtained by trading SP futures, or by ES futures. The latter is one fifth the size of the former (the so-called 'mini' future, which is worth 50 times the value of the index). 
+    
+If one security must be picked to represent 'the stockmarket' this is it.  Note that this contains some Canadian stocks.
 
-SPX::
+There are a number of CFDs that offer an exposure to this index. The most liquid is SPY, but others may offer the same exposure with lower charges.
+    
+== EIS
+The STOXX 600 insurance sector index future. There are tickers for all sectors within the STOXX 600, but this is one I have recently been trading. It is reasonably liquid, but of course does not have the liquidity of the ESTX50.
 
-EIS::
+== EAFE
+'Europe, Australasia and the Far East'. The MSCI index for developed markets outside of North America. 
 
-MXEA::
+MXEA is the ICE future which tracks this index. Basically this is the 'Rest of the World' as far as the US is concerned. A 60:40 mix of SPX and EAFE will give you a market cap weighted exposure to global stockmarkets with just two securities.
 
-QQQ::
+The linked CFD is EFA.
 
-RDXUSD::
+== NQ
+The Nasdaq index future. One hundred, mainly high-tech stocks. Several CFDs, notably QQQ.
+
+== RDXUSD
+Russian ADR index. 
 
 TOPX::
 
