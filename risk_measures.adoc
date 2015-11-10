@@ -23,12 +23,12 @@ Efficient Frontier
 Eugene Fama and the Efficient Market Hypothesis
 -----------------------------------------------
 
-[[value-at-risk]]
-Value at Risk
--------------
-latexmath:[\[\operatorname{Var}\left(\sum_{i}^n a_iX_i\right) = \sum_{i=1}^na_i^2 \operatorname{Var}(X_i) + 2\sum_{1\le i}\sum_{<j\le n}a_ia_j\operatorname{Cov}(X_i,X_j)\]]
+== Value at Risk
 
-
+$$
+{Var}\left(\sum_{i}^n a_iX_i\right) = \sum_{i=1}^na_i^2 {Var}(X_i) + 
+2\sum_{1\le i}\sum_{<j\le n}a_ia_j{Cov}(X_i,X_j)
+$$
 
 
 [[broker-and-exchange-margins]]
@@ -71,6 +71,10 @@ much more difficult to pull off.
 
 If you do wish to attempt this strategy, CAPM will allow you to construct a market neutral
 portfolio.
+
+$$
+\frac {E(R_i)- R_f}{\beta_{i}}  = E(R_m) - R_f   
+$$
 
 [not sure this should be here: you don't say anything about trading individual stocks anywhere else]
 
