@@ -1,6 +1,5 @@
 = Trading Diary
 
-[[week-ended-24-july-2014]]
 == Week Ended 24 July 2014
 
 This was a fairly grim week. The portfolio exposure has been reduced to
