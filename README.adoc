@@ -2,7 +2,8 @@
 
 I have read many books on investing, but none of them really fully prepared me to trade securities and avoid losing money.
 I am writing the book that I wish I had read when I started seriously investing in the mid 1990s.
-This is a very early draft of the book. 
+I have decided to write this and make it available to the public even from the very early drafts. If you would like to be added as a collaborator then please contact me.
+Note that the files for this book are kept as git repositories on both github and bitbucket. You can fork my source from either repository!
 
 I have decided to write it on  http://www.gitbook.com[gitbook.com]. 
 This is a very neat website that uses http://www.github.com[github] as storage.
