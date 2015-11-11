@@ -20,8 +20,6 @@ It's hard to prove this statistically one way or another. You have to collect a 
 
 Some authors footnote:[Spitznaegel]  reject the whole efficient market hypothesis and argue that markets drift further and further from fair value, as measured by various fundamental metrics that the Black Swan is merely a correction to bring prices in line with fundamentals.
 
-
-
 === Harry Markowitz and Mean-Variance Portfolios
 
 === Efficient Frontier
