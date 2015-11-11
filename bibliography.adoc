@@ -11,7 +11,7 @@
 
 -	[[faber]] http://books.google.com/books?vid=ISBN9780988679924[Global Asset Allocation, Mel Faber]. Very interesting book about how to construct an 'all weather' portfolio - i.e. one that will continue to deliver positive returns in all market conditions. Backtesting of a number of recommended strategies.
 
--	[[kroijer]] , http://books.google.com/books?vid=ISBN9780273781349[Investing Demystified: How to Invest Without Speculation and Sleepless Nights], Hans Kroijer.
+-	[[kroijer]] http://books.google.com/books?vid=ISBN9780273781349[Investing Demystified: How to Invest Without Speculation and Sleepless Nights], Hans Kroijer.
 
 -	[[dixon]] http://books.google.com/books?vid=ISBN9780140289329[Penguin Guide to Finance,  Dixon]
 
