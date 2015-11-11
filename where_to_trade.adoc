@@ -1,3 +1,4 @@
+= Trading
 
 == The Golden Rule: buy low, sell high
 
