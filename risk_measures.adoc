@@ -7,9 +7,20 @@ example would be your house not burning down, but being lifted into
 space by aliens. The latter is definitely something that it would be
 impossible to get a quote on.
 
+In the literature the very idea of 'risk' departs from the idea of the word as it is used in ordinary language. Mean variance theory says that risk is measured by the average variance footnote:[variance is just the square of the standard deviation] of stock price movements. This means that stocks that have strong upward movements in price are risky: not the way the man in the street looks at these things.
+
 === Tail risk
 
-Nassim Taleb.
+Tail risk, or 'a Black Swan event' is associated with the work of Nassim Taleb. 
+The idea is that market crashes which should only happen once or twice in the whole history of the universe, according to accepted models, seem to come along every three years or so.
+
+The argument is that the distribution of (e.g.) stock prices does not in fact follow the log normal distribution beloved of option price model authors, but in fact has 'fat tails': that stock price movements which would be extremely unlikely if the probability distribution were truly normal are in fact, relatively, quite common.
+
+It's hard to prove this statistically one way or another. You have to collect a lot of stock price data if prices only stray into the region of interest every few years.
+
+Some authors footnote:[Spitznaegel]  reject the whole efficient market hypothesis and argue that markets drift further and further from fair value, as measured by various fundamental metrics that the Black Swan is merely a correction to bring prices in line with fundamentals.
+
+
 
 === Harry Markowitz and Mean-Variance Portfolios
 
