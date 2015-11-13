@@ -1,5 +1,7 @@
 = Passive Investing
 
+By 'passive investing' I mean letting someone else make the actual trading decisions.
+
 Although this book is about _active_ investing, where the goal is to improve returns by a modicum of trading via an excecution-only broker, it is likely that most readers will read it for background information and continue to allow their savings to be managed by an agent.
 
 
@@ -7,6 +9,8 @@ Although this book is about _active_ investing, where the goal is to improve ret
 All the principles of choosing assets continue to a
 
 == keep fees low
+
+ETFs. 
 
 == don't follow the crowd
 
@@ -17,6 +21,10 @@ Don't choose a fund manager who has a high turnover of investments, either.
 == You can't buck the market
 
 recognize that even if the market is not prefectly efficient, it's not far off,
+
+Stats on active managers.
+
+
 
 == Take it easy
 build up a position slowly: work with the short term trend to minimize the average cost. 
