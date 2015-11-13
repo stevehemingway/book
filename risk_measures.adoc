@@ -121,6 +121,15 @@ Many derivatives bundle funding with an exposure to an underlying. Buying a stoc
 The benchmark return is that on a risk free bond of maturity equal to your investment time horizon. footnote:[Really this should be a zero coupon risk free bond,  but these are not easy to find although their price can be derived by combining regular bonds in such a way that the interest cash flows zre eliminated.]
 
 == Credit Risk
+The traditional view is that difference between government bonds and corporate bonds is that the latter have credit risk.
+Of course, countries have been known to welch on their debts, but in theory they can always repay them because they have the power to throw citizens who do not pay their taxes into gaol. They can, sometimes, also lean on their central banks to issue enough currency that it's pretty cheap to redeem the debt. 
+
+Leaving aside these considerations, the extra risk that holders of bonds issued by corporates generally leads them to demand a higher yield from the debt. Because it's a tough business deciding exactly how much extra risk is involved, most traded bonds are rated by one of a small number of rating agencies, the best known of which is Standards and Poors. One the extra risk is translated int a short sequence of letters, the amount of extra yield that extra yield that is appropriate can be estimated by looking at bonds with a similar rating issued by other issuers.
+
+Trading corporate bonds is quite difficult. This is one security where it is probably best to access via a fund or an ETF. Even this is not so easy as ETFs tend to have their holdings concentrated in the biggest and most liquid issues, which are not necessarily representative of the universe of bonds they are supposed to track.
+
+Bonds are often illiquid compared to other securities. Because they are self-liquidating, holders often buy bonds with maturities that suit their own liability profile, removing the need to sell the bonds to fund their cashflow. 
+
 
 == Risk Horizon
 
