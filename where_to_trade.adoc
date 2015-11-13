@@ -11,7 +11,21 @@ this is called __short selling__. It is particularly easy to do this
 with futures.
 
 === Short selling.
+There is nothing mysterious about this. 
+A `normal' trade involves handing over cash and receiving the shares. 
+A short sale is just handing over the shares and receiving the cash.
+If you always start with nothing, you'd have to borrow the shares. 
+This means that you promise to pay back the cash at some point in the future.
+The converse also applies. 
+If you sell short, you promise to repay the shares at some point in the future.
 
+The economic effect is more easily and cheaply achieved by selling a CFD. 
+In the USA it is also possible to sell a single-stock future. 
+
+For indexes, futures and ETFs are also available, and, because stock futures 
+are cash settled you don't ever have to worry about having the stock available to borrow.
+Borrowing stock is more difficult than borrowing money because ... well there are many more
+shares in issue than there are currencies.
 
 === Valuation
 
@@ -90,8 +104,14 @@ this really affect valuations?]
 
 == The importance of securities exchanges
 
+I cannot emphasise enough the importance of minimizing the cost of managing a portfolio.
+The spread between buying and selling is an important part of this cost.
+A stock exchange minimizes this spread by attracting to one place (or at least one platform)
+all the parties who wish to buy or sell. 
+Good 
+
 The nexus where buyers and sellers meet and prices are most easily
-discovered.
+discovered. 
 
 == Stock Exchanges
 
