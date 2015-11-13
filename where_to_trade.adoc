@@ -108,10 +108,18 @@ I cannot emphasise enough the importance of minimizing the cost of managing a po
 The spread between buying and selling is an important part of this cost.
 A stock exchange minimizes this spread by attracting to one place (or at least one platform)
 all the parties who wish to buy or sell. 
-Good 
 
-The nexus where buyers and sellers meet and prices are most easily
-discovered. 
+If you keep trading to a minimum the spread, even for illiquid shares, should not represent a 
+huge cost. However, futures, at least the most liquid stock index ones, have to be `rolled' every quarter.footnote:[Some futures, especially in the less developed markets need to be rolled every month.]
+//// Korea is one, also some of the smaller european markets - Norweigen? Check!
+
+Sometimes there is a tradeoff between getting the exposure you want and the spread you have to pay.
+You can get exposure to 600 stocks through the DJ600, compared to only 50 in the ESTX50. 
+However the latter has lower spreads. 
+It also has the advantage of being on an an underlying with an active options market.
+
+The other example is the MXEA which would have to be made up of a mixture of European, Japanese, Australian and XXX futures. 
+//// rewrite this.
 
 == Stock Exchanges
 
