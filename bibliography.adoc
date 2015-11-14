@@ -1,29 +1,35 @@
 == Bibliography
 
 === Books
--	[[ilmanen]]  Expected Returns: An Investor's Guide to Harvesting Market Rewards, Ilmanen.
 
 -	[[brealey-and-myers]] http://www.amazon.co.uk/Principles-Corporate-Finance-Richard-Brealey/dp/1259009513[Brearley and Myers, Principles of Corporate Finance] 
 
--	[[hull]] "`Options, Futures and Other Derivatives`", John Hull.
+
+-	[[brett]] https://books.google.com/books?vid=ISBN0712662596[How to Read the Financial Pages, Brett]. I haven't read this for years, but it was a useful guide to how to get more out of the FT in the days before Google Finance came into existence.
+
+-	[[dixon]] http://books.google.com/books?vid=ISBN9780140289329[Penguin Guide to Finance,  Dixon]
 
 -	[[elton]] Modern Portfolio Theory and Investment Analysis, Elton.
 
 -	[[faber]] http://books.google.com/books?vid=ISBN9780988679924[Global Asset Allocation, Mel Faber]. Very interesting book about how to construct an 'all weather' portfolio - i.e. one that will continue to deliver positive returns in all market conditions. Backtesting of a number of recommended strategies.
 
+-	[[ilmanen]]  Expected Returns: An Investor's Guide to Harvesting Market Rewards, Ilmanen.
+
 -	[[kroijer]] http://books.google.com/books?vid=ISBN9780273781349[Investing Demystified: How to Invest Without Speculation and Sleepless Nights], Hans Kroijer.
-
--	[[dixon]] http://books.google.com/books?vid=ISBN9780140289329[Penguin Guide to Finance,  Dixon]
-
--	[[brett]] https://books.google.com/books?vid=ISBN0712662596[How to Read the Financial Pages, Brett]. I haven't read this for years, but it was a useful guide to how to get more out of the FT in the days before Google Finance came into existence.
-
--   [[Warburton]] http://www.amazon.com/Debt-Delusion-Threaten-Economic-Disaster/dp/0977079333[Debt and Delusion] (or ``Central Bank Follies that Threaten Economic Disaster'' ). This is an extraordinary book that got dismissive reviews when it was published, hardly sold at all, but then was hailed as uncannily prescient then the economic disaster that did strike in 2008 finally hit.  
 
 -	[[lack]] http://www.sl-advisors.com/the-hedge-fund-mirage/[The Hedge Fund Mirage] Essential reading if you are ever seized with the desire to hand over your hard-earned savings to a hedge fund manager. Unfortunately, for many savers, including badly-paid public sector employees, they have no choice, because their pension savings are entrusted, in part, to these modern-day racketeers.
 
+-	[[hull]] "`Options, Futures and Other Derivatives`", John Hull.
+
+-   [[malkiel]] http://www.amazon.co.uk/Random-Walk-Down-Wall-Street/dp/0393330338[A Random Walk Down Wall Street]. Originally published in 1973, the popular book that revealed that a chimp with a dartboard had a very good chance of outperforming the best fund managers.
+
+
 -	[[surowiecki]] http://www.amazon.co.uk/Wisdom-Crowds-James-Surowiecki/dp/0385721706/ref=sr_1_1?ie=UTF8&qid=1439233968&sr=8-1&keywords=9780385721707[The Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations, ISBN 9780385721707], James Surowiecki.
 
+
 -   [[spitznagel]] http://www.amazon.com/The-Dao-Capital-Investing-Distorted/dp/111834703X [The Dao of Capital: Austrian Investing in a Distorted World, Spitznagel].
+
+-   [[warburton]] http://www.amazon.com/Debt-Delusion-Threaten-Economic-Disaster/dp/0977079333[Debt and Delusion] (or ``Central Bank Follies that Threaten Economic Disaster'' ). This is an extraordinary book that got dismissive reviews when it was published, hardly sold at all, but then was hailed as uncannily prescient then the economic disaster that did strike in 2008 finally hit.  
 
 === Internet Resources
 -	[[the-money-illusion]] http://www.themoneyillusion.com/[The Money Illusion].
