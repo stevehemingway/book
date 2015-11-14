@@ -1,5 +1,14 @@
 = November 2015
 
+I got cold feet and decided to move towards a more hedged equity position. I decided to short the US and go long Europe (in the form of the DJ600 and EST50). Unfortunately this was sortly after a major correction across the globe. So far the US, to which I am exposed via the S&P 500 index, using mini-futures, symbol ES, has roared back, slightly making a mockery of the idea that I'd be fully hedged against a major move in global equities. 
+
+Altogether, these have not been a terribly happy month or two. One silver lining is that I decided that it'd be better that my cash was held in USD, rather than GBP. Mark Carney's recent caution about the timings of rate rises (week 1 or the month) has resulted in some gains on the FX front. This position was opened up for hedging, so I can't really take credit for it as a brilliant trading decision, but I won't send back the profits.
+
+I have also been influenced by the research results of <<{{book.bibliography}}#star-capital, Star Capital>>
+
+I have been reading <<{{book.bibliography}}#spitznagel, Spitznagel>> and have, as a result, been spending modest amounts of money on out of the money puts. I would have liked to buy puts on the SPX, but to reduce my margin requirements I have been buying them on the STOXX 50 (ESTX50) instead.
+
+ 
 
 == Week 1 
 
