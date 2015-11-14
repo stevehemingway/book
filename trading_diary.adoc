@@ -1,6 +1,6 @@
 = Trading Diary
 
-== Week Ended 24 July 2014
+== Week Ended 24 July 2015
 
 This was a fairly grim week. The portfolio exposure has been reduced to
 below £400K, in terms of margin and well below £300K in terms of VaR on
