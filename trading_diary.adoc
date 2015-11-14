@@ -35,9 +35,7 @@ for 24 July 2015]
 
 '''''
 
-[[monday-27-july]]
-Monday 27 July
---------------
+== Monday 27 July
 
 The market seems fixated on the weakness of the Chinese economy, and, by
 extension that of the rest of the planet. Many Chinese stocks have gone
@@ -63,9 +61,7 @@ broad sell-off in equities.
 Equities have dropped by around three percent over the last week. I am holding on for a bounce tomorrow!
 
 
-[[tuesday-28-july]]
-Tuesday 28 July
----------------
+== Tuesday 28 July
 
 Mark Haefele of UBS has
 http://www.ft.com/cms/s/0/0f52ef40-2c8d-11e5-acfb-cbd2e1c81cca.html#axzz3h5korLPr[a
@@ -94,8 +90,8 @@ The euro has been very strong lately, but I feel that this is just mean
 reversion after the dollar shot up in anticipation of a rate rise in the
 Autumn.
 
-image:http://www.advisorperspectives.com/dshort/charts/markets/SPX-snapshot.png[Chart
-for the day: S&P500 since 2007]
+image:SPX-snapshot.png[alt="S&P500 since 2007" Chart for the day.]
+
 
 At 16:30 UK time the portfolio is up 0.5%. This is a modest bounce from
 the lows of yesterday, but it does not feel like the start of a bull
@@ -106,9 +102,7 @@ getting nervous about the dominance of growth stocks in the SP500.
 
 '''''
 
-[[Wednesday-29-July]]
-Wednesday 29 July
------------------
+== Wednesday 29 July
 
 Things are settling down nicely. Portfolio up 0.5% at 18:40. Fed statement on rates today. I don't know what was said, but it seems to have gone down well: SPX up 0.46%. 
 
@@ -116,16 +110,13 @@ IBB is down 1.82%: beginners luck, but I have only a small (short) position, so 
 
 ZN down 0.23%, consistent with Fed statement implying early rate rises. GBL, R also down (unsurprisingly) but to my great relief, BTP down. BTP has been moving against GBL, lately. It is a nice surprise to see it coming into line, although my position is now pretty small, so it doesn't mean much to me in pound terms.
 
-AMLP has been 
 
 Seems that Fed announcement was not much of a shock, since DX barely moved.
 
 '''''
 
 
-[[thursday-30-july]]
-Thursday 30 July
-----------------
+== Thursday 30 July
 
 
 At 11:20, Major indexes up, AAA bonds up. Dollar flat. 
@@ -139,16 +130,8 @@ Decided to close the IBB position. This strategy needs to be examined later, in 
 
 '''''
 
-[[thursday-30-july]]
-Thursday 30 July
-----------------
-Not sure what I wrote on this day
 
-'''''
-
-[[Friday-31-july]]
-Friday 31 July
---------------
+== Friday 31 July
 
 Finally my limit order to sell MXEA at 1872 was triggered. Unfortunately I'd sold one lot earlier, so I ended up with a one-lot short position. Not a lot of 
 damage was done, bit I should have adjused the limit order.
@@ -159,16 +142,8 @@ I have now pushed the VaR expected maximum loss to 5% of the portfolio value, wh
 movement.
 
 '''''
-[[Friday-31-july]]
-Friday 31 July
---------------
-Hmmm...
-
-
-'''''
-[[Monday-3-aug]]
-Monday 3 Aug
-------------
+== August
+=== Monday 3 Aug
 Europe was up a lot earlier this morning, and I just wondered whether I should get exposure via DJ600 (the full 600 stock future) rather than the STOXX 50. 
 In general my attitude is always '`the bigger the number of stocks in the index the better`', as long as I don't have to pay much for the privilege.
 
@@ -178,9 +153,7 @@ The market moved against me in the afternoon: ACWI down .18%, but I managed to r
 Not sure what is driving the market down: EEM seems very weak, so maybe its yet more bad news coming out of China.
 
 '''''
-[[tuesday-4-aug]]
-Tuesday 4 August
-----------------
+=== Tuesday 4 August
 Got cold feet yesterday and transmitted a couple of sell orders to reign back the position. 
 Because of the early rally in European equities I'd bought some MXEA, but this slumped later in the day.
 To reduce the overall risk of the position I put in a sell order which was triggered this morning. 
@@ -194,9 +167,7 @@ To be fair, though, the markets are quite quiet too.
 
 
 '''''
-[[Wednesday-5-aug]]
-Wednesday 5 Aug
----------------
+=== Wednesday 5 Aug
 Equity markets rose strongly early, for reasons which seem to be connected with a light private payrolls number.  
 This is supposed to delay the point when the Fed will raise rates.
 Bonds (GBL, R, ZN and BTP) were all down between about a half a percent and one percent.
@@ -207,9 +178,8 @@ I took the advantage to take profits on a couple of positions, lowering my VaR t
 
 '''''
 
-[[weekending-8-Aug]]
-Weekending 8th Aug
-------------------
+=== Weekending 8th Aug
+
 The end of the week was pretty disappointing. The payroll numbers were pretty much as expected: 215K, but the market didn't like them. 
 It's not really clear whether the problem is that 'the market expects' interest rates to increase because of the strength of the economy, or the stock market to decline, because of the weakness of the economy.
 
@@ -222,9 +192,8 @@ I was tempted to punt on TSLA, which I regard as a faintly ridiculous company. I
 The position was closed out via a saved limit order at the open on Monday at a modest profit, but I really must stick to my guns and avoid individual stocks.
 '''''
 
-[[monday-10-aug]]
-Monday 10 Aug
--------------
+=== Monday 10 Aug
+
 On Monday the market rallied. 
 I yielded to temptation again to put on some extra exposure to the equities market 'now that the bearish phase is finally over'.  Purchases of VNQ, AMLP, DJ600 Sept, REM, VDE and BRK B. 
 
@@ -234,9 +203,8 @@ Currently I'm getting away with it. Total VaR loss still only 222K, so I haven't
 '''''
 
 
-[[tuesday-18-aug]]
-Tuesday 18 Aug
---------------
+=== Tuesday 18 Aug
+
 Well, the market has resolutely drifted sideways.
 
 I am up on the week, but only by 0.5%, so I probably should have stayed out of the market.
@@ -272,9 +240,7 @@ Russia is rapidly becoming a failed state. It went straight from communist dicta
 
 
 '''''
-[[october-15]]
-October '15
------------
+== October 15
 
 There are tentative signs that Europe's economy is starting to take off. Mario Draghi seems to have overcome the opposition from the Bundesbank to buy government bonds. Far from generating hyperinflation, however, interest rates in Europe, both short and long term, have never been lower. Most of the continent has negative short term rates, which, until it happened, was thought to be impossible. 
 
@@ -284,15 +250,3 @@ The theory worked well for most of a month, before yields in Germany fell even l
 
 Unfortunately, margin calculations do not give me full credit for the hedge as Bund futures trade on DTB and US Treasury futures trade on CME (or Globex). I am nowhere near using all my capital for margin, so that's not a major problem, but it is a bit annoying.
 
-[[november-15]]
-November '15
-------------
-I got cold feet and decided to move towards a more hedged equity position. I decided to short the US and go long Europe (in the form of the DJ600 and EST50). Unfortunately this was sortly after a major correction across the globe. So far the US, to which I am exposed via the S&P 500 index, using mini-futures, symbol ES, has roared back, slightly making a mockery of the idea that I'd be fully hedged against a major move in global equities. 
-
-Altogether, these have not been a terribly happy month or two. One silver lining is that I decided that it'd be better that my cash was held in USD, rather than GBP. Mark Carney's recent caution about the timings of rate rises (week 1 or the month) has resulted in some gains on the FX front. This position was opened up for hedging, so I can't really take credit for it as a brilliant trading decision, but I won't send back the profits.
-
-I have also been influenced by the research results of <<{{book.bibliography}}#star-capital, Star Capital>>
-
-I have been reading <<{{book.bibliography}}#spitznagel, Spitznagel>> and have, as a result, been spending modest amounts of money on out of the money puts. I would have liked to buy puts on the SPX, but to reduce my margin requirements I have been buying them on the STOXX 50 (ESTX50) instead.
-
- 
