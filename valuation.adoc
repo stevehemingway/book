@@ -1,8 +1,6 @@
 = Valuation
 
-[[how-to-value-stuff]]
-How to value stuff
-==================
+== How to value stuff
 
 Making money by trading is a piece of cake: buy undervalued securities and sell overvalued ones.
 This reduces all trading to an exercise in valuation.
@@ -15,12 +13,9 @@ Unfortunately, it is extremely difficult to identify mis-valued securities.
 The market is a crowd, and as Francis Galton spotted, a long time a go, under some reasonable constraints, crowds are remarkably good at estimating things like the correct value of a security. <<{{book.bibliography}}#surowiecki, Surowiecki>> has a lot to say about this.
 
 
-[[valuation]]
-Valuation
----------
+== Valuation
 
-Academic approach
-~~~~~~~~~~~~~~~~~
+=== Academic approach
 The simplest securities to value are those which are risk free. 
 This simply requires one to know the right discount factor.
 These discount factors can be inferred from the prices of securites which have 
