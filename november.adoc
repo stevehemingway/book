@@ -51,12 +51,25 @@ The dollar has now found a level. Commodities continue to drift down, in spite o
 
 There are some fairly crazy valuations of IT startups going on. The creators of Minecraft and of Candy Crush Saga seem to be worth many billions of Euros. This seems incomprehensible to me, but my track record of making money by going short on these sorts of bubble companies is not so good. Having cast adrift the anchor of valuation based on profits or balance sheet assets, it's all too easy for investor mania to take a shareprice to a point where short sellers cannot bear the pain before the shooting star plummets to earth.
 
+== Week 3
+
 === 16th Nov
 It was widely expected that the shootings and suicide bombings in Paris on Friday night would precipitate a heavy fall in the CAC40 and across Europe. Comparisons were being made with the sort of drop the SP500 saw after `9-11'. I admit that being long Europe, and long CAC40 in particular, I was braced for the open on Monday and, I confess, lost some sleep over the sort of losses I would suffer. It did occur to me that the attacks, although deeply shocking and incomprehensible, would not materially damage the productive capacity of the French economy. Of course, if they affected demand, by changing the behaviour of the French, this would be a different matter, but my feeling was that the French were made of sterner stuff. After all, they did give us the word _sang-froid_.
 
 In fact, after a shaky start, the market opened significantly up, and remained strong all day. 
 The pundits who had predicted a meltdown were proved comprehensively wrong. 
 It's probably dangerous to ignore the pundits entirely, but this was a dramatic demonstration of how wrong they can be about the impact of news on the market. There was not, as far as I can tell, any major piece of economics news that would have had a strong countervailing effect to the news of the terrorist attacks.
+
+=== 17th Nov
+My general mean-reverting mindset lead me to assume that I'd see the euphoria of yesterday collapse somewhat, but that assumption was far too weakly held to actually try to change position, so I left everything be.
+
+I had sold some short-dated at the money calls, against my futures position, as a way of earning some premium income. This didn't work out at all well. I might as well have sold the underlying, as the STX50 powered through the strike price leaving me with an effectively flat position. At least I still had DJ600, CAC40, FTMIB and IBEX positions to catch the resurgence of european equity markets.
+
+My bond positions continued to be a drag. I cannot believe that GBL can keep going up vs ZN, especially given the exuberance of equity markets in Europe. 
+I will not liquidate and live in hope. It's at times like this that I'm glad I keep my maintenance margin a small fraction of my equity position.
+
+
+
 
 
 
