@@ -81,6 +81,8 @@ The people in charge do not strike me as having a deep grasp of how to provide t
 Maybe it's all relative, and that they are not, in reality, much worse than the US politicians. 
 Certainly, watching the US presidential race get under way, it's not at all clear that things are so great there. 
 
+I contemplating selling some options covered with my existing GBL and ZN futures positions. These are, technically, futures options. Bond futures normally do not have a very easily computed underlying price, so the easiest underlying to use is the future itself. The ZN futures options are incredibly liquid, even in the depth of the US night.
+
 
 
 
