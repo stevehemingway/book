@@ -196,6 +196,13 @@ wants to take the risk that writing `naked' options implies. It is also expensiv
 
 The great advantage of options is that you can protect yourself against so called Black Swan events.
 
+== Futures Options
+In many cases the price of the underlying for a future is easily determined. In the case of bond futures, the underlying is one of a number of 'deliverable' bonds, one of which is the 'cheapest to deliver'. The underlying is then, in effect this bond, but which one it is can change from day to day, depending on the exact shape of the discount curve.
+
+To solve the problems with a slighly blurry underling, it's easier to trade options on futures. These are slightly simpler to analyze theoretically, as both the option and the underlying have no carrying cost. 
+The great advantage of these as tradeable instruments is that if you get cold feet on the direct of the underlying, but already have a futures position, you can write a covered call or put, depending on whether you are long or short the future, to earn a bit of premium income. 
+When you write options, time is on your side, as if the market is going sideways, you make money. footnote:[This makes assumptions about interest rates and volatility remaining steady. In practice a market that is going sideways will nearly always one where volatility is flat or declining.]
+
 == Brokers
 
 Exchanges have systems that cannot be accessed directly by end
