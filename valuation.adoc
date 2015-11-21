@@ -164,6 +164,12 @@ There are liquid futues on this, and it's possible to buy ETFs.
 From an economic point of view, commodity prices are strongly correlated with inflation. Given that most commodities are priced in US dollars, this really is US price inflation.  For an investor based outside the US, it's worth bearing this in mind. If one has a strong directional view on inflation, the alternative to an exposure to commodities is to go long or short government bonds. 
 
 ==== Real Estate
+Property produces a stream of income after the initial investment. Although buildings require maintenance and insurance, once they are built they generally are a reliable stream of income, and this income is usually -- depending on the exact terms of the lease -- maintained in real, inflation-adjusted terms.
 
+It is possible to invest in property via securities. Most people are very familiar with the idea of investing in a house, either one to live in, or to rent out. People invest in houses because of familiarity, ease of financing, transparency, and low (or non-existent)  management fees, and, in the case of owner-occupation, a absence of tax on the implicit income of living in the property. In the UK there is also very favourable tax treatment of capital gains on disposal of owner occupied property. Moreover, very strict planning laws lead to a highly constricted supply situation. The combination of these factors makes investing in residential property a very popular strategy today.
+
+An alternative to direct exposure to property is purchase of shares in property companies. In recognition of the unequal tax treatment of direct ownership of the asset and ownership via a company, special property companies called REITs have been created, which allow rental income to pass directly to the investor without suffering tax at the company level.
+
+Like commodities, all property investment represents a real asset. Property, because of the pattern of cashflows involved, tends to produce a high and stable cashflow. However, it does not normally offer the possibility of rapid capital apprecciation.  
 
 === 'All Weather' Portfolios
