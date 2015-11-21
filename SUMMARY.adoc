@@ -2,12 +2,12 @@
 
 . link:README.adoc[Read Me]
 . link:introduction.adoc[Introduction]
+. link:where_to_trade.adoc[Trading]
+.. Funding
 . link:asset_classes.adoc[Asset Classes]
 . link:valuation.adoc[Valuation]
 . link:derivatives.adoc[Derivatives]
 . link:risk_measures.adoc[Risk]
-. link:where_to_trade.adoc[Trading]
-.. Funding
 . link:passive_investing.adoc[Passive Investing]
 . link:current_issues.adoc[Current Issues]
 . link:trading_diary.adoc[Trading Diary]
