@@ -8,6 +8,7 @@
 . link:risk_measures.adoc[Risk]
 . link:passive_investing.adoc[Passive Investing]
 . link:where_to_trade.adoc[Trading]
+.. Funding
 . link:current_issues.adoc[Current Issues]
 . link:trading_diary.adoc[Trading Diary]
 .. link:november.adoc[November 2015]
