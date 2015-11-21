@@ -2,7 +2,7 @@
 
 . link:README.adoc[Read Me]
 . link:introduction.adoc[Introduction]
-. link:where_to_trade.adoc[Trading]
+. link:trading.adoc[Trading]
 .. Funding
 . link:asset_classes.adoc[Asset Classes]
 . link:valuation.adoc[Valuation]
