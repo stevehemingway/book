@@ -6,7 +6,7 @@
 .. link:funding.adoc[Funding]
 . link:asset_classes.adoc[Asset Classes]
 . link:valuation.adoc[Valuation]
-.. All Weather Portfolios
+.. link:all_weather_portfolios.adoc[All Weather Portfolios]
 . link:derivatives.adoc[Derivatives]
 . link:risk_measures.adoc[Risk]
 . link:passive_investing.adoc[Passive Investing]
