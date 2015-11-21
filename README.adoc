@@ -5,6 +5,14 @@ I want to write the book that I wish I had read when I started seriously investi
 My goal is to make this a truly 'crowd sourced' book. I have invited some associates to collaborate, but I am looking for more people to do so. 
 I do not expect you to write a chapter: just say when you find that an explanation is laboured, or unusually unclear. Just drop me a note to be added.
 
+
+== Reusing excerpts from this book
+I have provided this book under a 
+https://creativecommons.org/licenses/by-nc-nd/4.0/[Creative Commons
+Non-Commercial, No-Derivatives Licence]. This means that you’re free to
+download and share, but you must not sell it or change it and pass it
+off as your own. You must attribute me as the author if you share.
+
 == For the technically minded
 The files for this book are kept as git repositories on both github and bitbucket. You can fork my source from either repository!
 
@@ -32,19 +40,11 @@ Don't be intimidated.
 Just read the words. 
 No information is presented only in the equations: they are just to link up this text with more formal accounts.
 
-
-== Stealing my work
-I have provided this book under a 
-https://creativecommons.org/licenses/by-nc-nd/4.0/[Creative Commons
-Non-Commercial, No-Derivatives Licence]. This means that you’re free to
-download and share, but you must not sell it or change it and pass it
-off as your own. You must attribute me as the author if you share.
-
-
-
 == Acknowledgements
 
 I was first introduced to a economic and mathematical approach to securities and derivatives markets by Paul Roth, whom I met at Psion. I remain eternally grateful for that introduction.
+
+I am also grateful for Tim Fletcher, formerly of Natwest Capital Markets, who opened my eyes to the pricing of interest rate swaps and other fixed income derivatives.
 
 I've worked with lots of quants and programmers and traders over the years. I'm too lazy to list them all here, but I am grateful for the insights they imparted to me.
 
