@@ -1,6 +1,33 @@
 = Investing-101
 
-I have read many books on investing, but none of them really fully prepared me to trade securities and avoid losing money.
+Many studies have shown that a chimp with a dartboard has a pretty good chance of 
+picking stocks better than the average fund manager. 
+Nevertheless, most British savers choose to hand over their savings to a professional.
+I think this is because most people do not know how to set about the business of 
+investing their savings. 
+You probably think that you could probably do pretty well, but you are worried that there
+is a small but possibly significant risk that you'll mess things up horribly,
+and this is simply not a risk you want to take with the money that you need to support you 
+in retirement.
+
+I therefore put a lot of emphasis on risk. What it means, how to measure it, 
+how it depends on the composition of a portfolio, how to invest in derivatives
+without taking unacceptable risks, and how to reduce risk 
+by buying options. Most of all, I explain what the drivers of portfolio risk are, and
+how risk and return are inextricably  linked.
+
+A lot of books about modern portfolio theory are very ... theoretical. 
+My goal in this book is to provide a practical guide to how to choose a broker.
+
+Although this book is aimed at the direct investor: the one who makes the investment decisions himself,
+I also have written it with the passive investor in mind. By gaining a deeper understanding of the 
+investment process, the reader will be equipped to make a better choice of collective investment.
+Rather than choosing a fund such as a OEIC based on advertising or a famous name investor, you will be able to choose one on the basis of investment strategy or exposure to specific risks. 
+
+I have worked in finance most of my life, and have been an active investor for the past couple of decades. 
+I have made plenty of mistakes, and have learned from them. 
+Although experience is (still) the best teacher, my goal is to make this book come a close second.
+
 I want to write the book that I wish I had read when I started seriously investing in the mid 1990s.
 My goal is to make this a truly 'crowd sourced' book. I have invited some associates to collaborate, but I am looking for more people to do so. 
 I do not expect you to write a chapter: just say when you find that an explanation is laboured, or unusually unclear. Just drop me a note to be added.
@@ -56,8 +83,6 @@ because the cost of crashing a plane was so high, compared to the benefit of lea
 The idea was that using a simulator was cheap, compared to crashing the bank. 
 We never really did get the sales we were hoping for, but the simulator worked, after a fashion, and the experience of getting it to work hooked me on trying understand the magic of markets for the rest of my career.
 ////
-
-
 
 
 {% include "copyright.adoc" %}
