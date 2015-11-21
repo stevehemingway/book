@@ -170,6 +170,10 @@ It is possible to invest in property via securities. Most people are very famili
 
 An alternative to direct exposure to property is purchase of shares in property companies. In recognition of the unequal tax treatment of direct ownership of the asset and ownership via a company, special property companies called REITs have been created, which allow rental income to pass directly to the investor without suffering tax at the company level.
 
-Like commodities, all property investment represents a real asset. Property, because of the pattern of cashflows involved, tends to produce a high and stable cashflow. However, it does not normally offer the possibility of rapid capital apprecciation [spelling!!].  
+Like commodities, all property investment represents a real asset. Property, because of the pattern of cashflows involved, tends to produce a high and stable cashflow. However, it does not normally offer the possibility of rapid capital appreciation.  
+
+My own view is that real estate is highly overrated as a investment, but has a role as part of a balance portfolio. If you feel you need to invest, invest in a REIT, or a REIT ETF. If you need gearing, then use a CFD on such a REIT (e.g. on VNQ). If you really need to get exposure to residential UK property beyond that which you already have if you own your own house, then look at one of the AIM-listed vehicles. There are very few funds which offer this sort of exposure. I am not sure why, but it might be because of the restrictions on pension funds being allowed to invest in residential property.
+
 
 === 'All Weather' Portfolios
+
