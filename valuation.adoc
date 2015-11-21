@@ -133,7 +133,7 @@ Hidden value in larger stocks is less likely, but at least it's easier to buy an
 ==== Bonds
 A bond is the purest form of exchanging a fixed value of consumption today for a fixed, but larger, amount of consumption in the future. The fixing is in  terms of a fixed amount of currency. Generally, for bonds of maturity more than a few months, a coupon is paid, which complicates the calculation of a redemption yield, but for our purposes simply reassures the investor that the issuer is still making money.
 
-A bond is a _transferrable_ debt obligation otherwise it would be much more difficult to invest in it. 
+A bond is a _transferable_ debt obligation otherwise it would be much more difficult to invest in it. 
 It's easy enough to loan money, but to get an good handle on the risk that the borrower will repay the loan is a different thing entirely. See _credit risk_.
 
 ===== Issuers
@@ -154,8 +154,16 @@ outran the ability of miners and farmers to produce the stuff.
 In a classic cyclical story, the situation now (2015) is the opposite. 
 Prices for commodities seem unable to find a floor as the wave of investment started in the early 2000s continues to produce more than the current demand.
 
-At some point prices will find a floor, production capacity will no longer be able to meet demand, and prices will strengthen steadily. 
+At some point prices will find a floor, production capacity will no longer be able to meet demand, and prices will start their upward march again. Well, this is the simplified story. In practice prices will start to go up, then fall back again, then go up a bit more. In other words, there will be a lot of noise imposed on the orderly development of prices, such that it will be very difficult to discern a clear trend.
+
+Commodity exposure may be obtained via buying physical commodities, via ETFs and ETNs, via derivatives such as options and futures, and via exposure to the securities of mining companies. For example, a bullish view on oil might be expressed via buying shares in Exxon Mobil. 
+
+My own preference would be to get exposure to commodities via a suitable index, such as the GSCI. 
+There are liquid futues on this, and it's possible to buy ETFs.
+
+From an economic point of view, commodity prices are strongly correlated with inflation. Given that most commodities are priced in US dollars, this really is US price inflation.  For an investor based outside the US, it's worth bearing this in mind. If one has a strong directional view on inflation, the alternative to an exposure to commodities is to go long or short government bonds. 
 
 ==== Real Estate
+
 
 === 'All Weather' Portfolios
