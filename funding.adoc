@@ -5,6 +5,16 @@ This is based on some advice I gave to a couple of friends who are contemplating
 It is written in a personal style which is not in line with the rest of the book.
 Possibly the rest of the book should be changed to this style.
 ////
+== Mortgage Financing
+
+=== Investing in your own house
+
+For the private investor, the cheapest form of finance is usually an owner-occupier mortgage. Owning one's own house has always been a highly tax-privileged investment and it makes sense to respond to the incentives provided by the tax system. There have been bubbles in house prices, and many house purchasers in the USA have lived to bitterly regret their decision. In the UK the vagaries of the planning system have effectively blocked the normal operation of the market, which would result in production ramping up, and so house prices have held up remarkably well over the Global Financial Crisis. This is not something that will necessarily endure forever.
+
+Arguably, the house you live in is a consumption good and should not even be thought of as an investment. 
+
+=== Mortgages
+
 I think the way the market works is that one bank offers the most attractive deal until loans reach a prescribed target, and then they increase the rate, or in some other way make the loan less attractive in some other way to choke off demand. When Ali's brothers were looking at this a year or two ago it seemed that The Woolwich, which is part of Barclays, was offering the best deal, which was around 2% above base rate, but things may have changed.
 
 I am not an expert in this, but I have borrowed a lot in my time (and I am continuing to borrow more), so I have spent a lot of time looking for the best deal. My conclusions are, in no particular order:
