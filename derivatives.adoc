@@ -3,6 +3,10 @@
 [[introduction]]
 == Introduction
 
+Derivatives have had a bad press in recent years. 
+Warren Buffett memorably described them as _weapons of mass destruction_.
+He was referring to mortgage backed securities and similar fixed income securities that are not traded on any derivatives exchange and so are not even accessible, let alone a danger, to the private investor.
+
 There are a lot of books on derivatives. There are a very large number
 of books on the valuation of derivatives. This is a fascinating field of
 study, and has resulted in work that has many [how many: list!] Nobel
