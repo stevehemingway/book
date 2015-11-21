@@ -147,6 +147,14 @@ Generally, investing in an 'asset' involves going short cash.
 In reality, there are many currencies, and it is possible to buy and 
 
 ==== Commodities
+Commodities have produced spectacular returns for some investors over the last twenty years. 
+There are well-developed and liquid futures markets in many commodities, and in the run up to 
+2008 commodity prices seemed to be gravity-defying as world demand, particularly from developing markets,
+outran the ability of miners and farmers to produce the stuff.
+In a classic cyclical story, the situation now (2015) is the opposite. 
+Prices for commodities seem unable to find a floor as the wave of investment started in the early 2000s continues to produce more than the current demand.
+
+At some point prices will find a floor, production capacity will no longer be able to meet demand, and prices will strengthen steadily. 
 
 ==== Real Estate
 
