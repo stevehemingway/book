@@ -44,7 +44,9 @@
 
 -	[[dividend-disco]] http://seekingalpha.com/author/dividend-disco[Seeking Alpha author Dividend Disco]. A funny, jokey, honest look at one man's search for yield in what has become a desert for those seeking income.
 
--	[[JP-Morgan-Asset-Management-Market-Views]] http://insights.jpmorgan.co.uk/adviser/commentary-and-analysis/jpmorgan-market-views/[General regular reports from JPM Asset Management].
+-	[[JP-Morgan-Asset-Management-Market-Views]] http://insights.jpmorgan.co.uk/adviser/commentary-and-analysis/jpmorgan-market-views/[General regular reports from JPM Asset Management]. This is a serious 'grown up' view of the market out look, from a highly respected firm. It is free, although it is possible that you get more, or more immediate, access if you are an actual client. 
+
+-   [[gold-man-sachs]] http://www.goldmansachs.com/our-thinking[Goldman Sachs Research]. Another bulge-bracket player offering some of their research for free. These firms want to have a web presence, and know that their clients expect it. They maybe don't share all their latest thoughts on the website, but long-term trends have to be discussed, and will be accessible. If you as an investor have a long-term focus, that is all you really need.
 
 -   [[star-capital]] http://www.starcapital.de/[Star Capital Advisors]. This firms website has an interactive search facility which shows global markets and sectors ranked by various valuation metrics: price-to-book, price-to-sales etc. The page is fully interactive. The focus is on CAPE, but markets can be ranked by any of the measures. I cannot vouch for the accuracy of this data, but if it is accurate, it is all collected together in a very convenient format.
 
