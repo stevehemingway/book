@@ -2,6 +2,8 @@
 
 By "`passive investing`" I mean letting someone else make the actual trading decisions.
 
+`what is this?`
+
 Although this book is about _active_ investing, where the goal is to improve returns by a modicum of trading via an excecution-only broker, it is likely that most readers will read it for background information and continue to allow their savings to be managed by an agent.
 
 
