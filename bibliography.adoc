@@ -40,7 +40,7 @@
 
 -   [[bogle-heads]] https://www.bogleheads.org/[The Bogle Heads Forum] All about the importance of fees as a determinant of successful investing.
 
--	[[d-short]] http://www.advisorperspectives.com/[Advisor Perspectives] Articles on investment strategy sponsored by D Short. Aimed at advisors but free and though provoking.
+-	[[d-short]] http://www.advisorperspectives.com/dshort/[D Short on Advisor Perspectives] Articles on investment strategy sponsored by D Short. Aimed at advisors but free and though provoking. Lots of good stuff about long-term valuation metrics such as Tobin's Q and the Crestmont PE ratio (a cyclically-adjusted PE ratio similar to the CAPE ratio).
 
 -	[[dividend-disco]] http://seekingalpha.com/author/dividend-disco[Seeking Alpha author Dividend Disco]. A funny, jokey, honest look at one man's search for yield in what has become a desert for those seeking income.
 
