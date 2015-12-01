@@ -2,6 +2,28 @@
 
 == The Golden Rule: buy low, sell high
 
+.Example given by Neil of improved style for this book
+=====================================================================
+
+The Golden Rule: buy low, sell high
+
+In its very basic form, you will buy shares in a company, ideally earn quarterly dividends, and 
+then sell at a higher price than you paid at the start as the company is deemed by investors
+to be more valuable than when you started. The share price is a kind of consensus on that
+valuation, giving the approximate current price that shares are trading hands at.
+
+This presumes that you have money to invest in the first place. Surprisingly, a mechanism
+called short-selling allows you to work around this limitation. It requires that someone lend
+you shares that you promise to return at a later time. You would do so if you believe that 
+the price is due to drop soon. You sell the shares, buy the same number back when the price has
+duly dropped, and then give them back to the lender, pocketing the profit from money you did
+not have in the first place.
+
+Short-selling also presumes that the lender is not expecting the shares to drop in value, or
+he might decide to sell them now to avoid a loss.
+=====================================================================
+
+
 All investors worry about their exit: converting their paper gains to
 real assets. For the trader, the exit is the closing of his position,
 which converts his unrealized profit to a realized profit.
