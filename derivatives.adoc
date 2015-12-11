@@ -1,6 +1,6 @@
 = Derivatives
+Don't be scared by the idea of derivatives.  
 
-[[introduction]]
 == Introduction
 
 Derivatives have had a bad press in recent years. 
