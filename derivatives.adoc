@@ -32,7 +32,6 @@ difficult for amateurs to trade, such as copper or pork bellies,
 4. standardizing exposure to a class of assets, such as government bonds, e.g. T Bill futures, where the underlyings have a range of coupons and maturity dates.
 
 
-[[otc-and-exchange-traded-derivatives]]
 == OTC and Exchange-Traded Derivatives
 
 Increasing regulation of public stock exchanges have lead to the
@@ -55,7 +54,6 @@ that no investor is exposed to the credit risk of any other investor:
 all trades are with a central counterparty that always executes `back to
 back' trades so that it is never left with a net market exposure.
 
-[[futures]]
 == Futures
 
 Futures allow the investor to gain an exposure to an underlying cheaply
@@ -91,7 +89,6 @@ CFD/Spread betting providers will allow you to take a view on within-country sec
 As ever, there is going to be a tradeoff. A sector future will not have the liquidity of the whole market. For you to be able to buy there must be someone, somewhere, ready and willing to sell. Exchanges exist to allow buyers to find sellers, but sometimes there is just nobody to take the other side of a trade. Automation of trading does not help with this, unless traders abdicate control of their positions to an algorithm. Even if they did, the algorithm might be unwilling to take the other side of your trade.
 
 
-[[swaps]]
 == Swaps
 Swaps are wonderful for switching an exposure to a particular maturity (e.g. 3-month floating rates) to another maturity (e.g. 10 year fixed). They also work well for foreign exchange. 
 
@@ -99,7 +96,6 @@ Institutional traders can trade equity swaps, which do the same sort of thing wh
 
 This situation may change. Many products available only to the most sophisticated professional traders have found their way onto retail platforms over the years, and this may be another one about to be launched onto an unsuspecting public.
 
-[[options]]
 == Options
 
 Options are like insurance policies. They pay out when something (more or less) unlikely happens.
@@ -108,17 +104,14 @@ It's like having the option to be the bookie or the punter, to draw a parallel w
 
 Basic options are puts and calls. The former pay out if the underlying's price drops below a fixed level. The latter if it exceeds a fixed level. 
 
-[[example]]
 === Example
 
-[[call-example]]
 ==== Call Example
 
 If you have an inkling that a bid for Marks and Spencer may be launched in the next month you can buy a put, to allow you to profit if the price shoots up, without committing a lot of capital by buying the underlying, and without being exposed to any downside if the quarterly results are very dissapointing, or the Bank of England unexpectedly hikes interest rates.
 
 If this all sounds too much like a free lunch, it is. You have to pay a premium, not unlike an insurance premium, to get this 'no downside risk' exposure. If the hoped-for bid fails to materialize you've incurred the cost without having anything but an expired policy to show for it.
 
-[[put-example]]
 ==== Put Example
 You have noticed that there is strong momentum in the S&P 500 index, and you don't want to miss the boat.
 However, you notice that on a lot of fundamental valuation measures (market cap to GDP, price to book) the market is looking distinctly overvalued and you fear a large drawdown.
@@ -133,10 +126,8 @@ You buy puts which are 30% out of the money.
 ////
 
 
-[[greeks]]
 === Greeks
 
-[[spread-betting]]
 == Spread Betting
 
 Spread betting is unique to the UK. Because a CFD-like product can be
@@ -149,7 +140,6 @@ implicit financing cost can be very high. The websites are structured to
 encourage high gearing and heavy use of stop orders. Both of these, are,
 in my book, tickets to oblivion.
 
-[[cfds]]
 == CFDs
 
 CFDs or `Contracts for Difference' are relatively new products, mainly
@@ -163,7 +153,6 @@ methods would be prohibitive.
 
 // []Highlight difference between synthetic and physical ETFs.]
 
-[[etfs]]
 == ETFs
 
 ETFs, or Exchange Traded Funds, are a recent development which has
@@ -183,13 +172,10 @@ error against the published index. [Check this: does the issuer really
 guarantee a tracking error, or do you, as the investor, just get what
 the issuer manages to achieve using it’s derivatives-based strategy?]
 
-[[foreign-exchange]]
 == Foreign Exchange
 
-[[stock-market-index]]
 == Stock Market Index
 
-[[direct-holdings-of-cash-equities-with-margin-finance]]
 == Direct holdings of cash equities with margin finance
 
 Most US brokerages will lend against equity as collateral. However, it
