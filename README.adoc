@@ -85,6 +85,4 @@ We never really did get the sales we were hoping for, but the simulator worked, 
 ////
 
 
-{% include "copyright.adoc" %}
-
 // doesn't work! include::copyright.adoc[]
