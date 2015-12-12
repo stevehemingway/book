@@ -1,7 +1,7 @@
 = Summary
 
 . link:README.adoc[Read Me]
-.. Preface
+.. link:preface.adoc[Preface]
 . link:introduction.adoc[Introduction]
 . link:trading.adoc[Trading]
 .. link:funding.adoc[Funding]
