@@ -1,5 +1,14 @@
 = Derivatives
-Don't be scared by the idea of derivatives.  
+
+Derivatives are meta assets. They are contracts that allow the holder to derive some or all of the economic benefits of owning an asset without actually owning it.  They exist for a variety of reasons:
+
+1. convenience: you can receive dividends as if you were the owner of a share, without having to fill in a stock transfer form, or get your name added to the company's register of shareholders,
+2. tax advantages: if you acquire rights to the dividend stream from a share via a CFD you do not need to pay stamp duty, as you would if you purchased the underlying share,
+3. gearing: because of the ease of enforcing power of sale over a CFD, compared to an underlying share, using it as collateral to obtain a geared exposure is much easier than it would be than to set up a loan secured on an actual share certificate,
+4. flexibility: an option contract allows the holder to benefit from price increases of a share, just as a holder of the cash security would, but without participating in any downside risk of the price of the security going down. Of course, such a beneficial risk profile comes at a price, which has to be paid to the person on the other side of the contract,
+5. legal necessity: in many countries, including Britain in the sixties and the USA in the 30's, it was illegal to hold gold bars. The firm IG Index was set up to allow UK investors who felt that an exposure to gold would be a good investment at a time when inflation was starting to erode the value of bonds and cash deposits.
+
+Don't be scared by the idea of derivatives. For many purposes they are just a convenient way to get exposure to an asset that would be expensive or inconvenient to achieve otherwise. Modern brokerages can allow the amateur investor to obtain an exposure to a huge range of assets via derivatives than were remotely possible even for professional investors a few decades ago.
 
 == Introduction
 
