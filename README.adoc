@@ -29,20 +29,22 @@ how risk and return are inextricably  linked.
 A lot of books about modern portfolio theory are very ... theoretical. They are full of probability distributions, efficient frontiers, correlations and covariances. I am going to steer well clear of this stuff. Stephen Hawkin once wrote that every equation in a book cuts its potential readship by half. I cannot afford more than a couple of equations before my potential readship shrinks just to my mother, so be reassured that I will avoid equations, or at least use them purely for decoration.
 
 
-This book is written with the aim of allowing the do-it-yourself investor to compete on at least level terms with the professional. I am however  keenly aware that most people will still prefer to leave it to a professional manager. In these cases, this book will allow a customer to make a fully informed choice of provider. There are many good financial advisors, and many know a great deal about investment. But they can face conflicts of interest, which can, in rare cases, lead to them giving less-than-optimal financial advice.
+This book is written with the aim of allowing the do-it-yourself investor to compete on at least level terms with the professional. I am however  keenly aware that most people will still prefer to leave it to a professional manager. In these cases, this book will allow a customer to make a fully informed choice of provider. There are many good financial advisors, and many know a great deal about investment. But they can face conflicts of interest, which can, in rare cases, lead to them giving less-than-optimal financial advice. Such investors are urged to read Chapter [XXX] carefully, and have the option of skipping Chapter [yyy].
 
 
-I also have written it with the passive investor in mind. By gaining a deeper understanding of the 
-investment process, the reader will be equipped to make a better choice of collective investment.
-Rather than choosing a fund such as a OEIC based on advertising or a famous name investor, you will be able to choose one on the basis of investment strategy or exposure to specific risks. 
+== About me
 
 I have worked in finance most of my life, and have been an active investor for the past couple of decades. 
 I have made plenty of mistakes, and have learned from them. 
 Although experience is (still) the best teacher, my goal is to make this book come a close second.
 
 I want to write the book that I wish I had read when I started seriously investing in the mid 1990s.
-My goal is to make this a truly 'crowd sourced' book. I have invited some associates to collaborate, but I am looking for more people to do so. 
-I do not expect you to write a chapter: just say when you find that an explanation is laboured, or unusually unclear. Just drop me a note to be added.
+
+== Collaboration
+Apart from finance, one of my passionate interests is technology. 
+Recently a number of good, free ('as in beer') utilities have been developed to make collaborative writing much less painful than it once was. Several of them use the magnificent tool called Git, invented by Linus Torvalds, who is more famous for being the father of Linux, the free software operating system that powers most of the web. I believe that anyone able to use a basic word processor should be able to add sections and chapters of this book. We will see.
+
+
 
 
 == Reusing excerpts from this book
@@ -51,33 +53,6 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/[Creative Commons
 Non-Commercial, No-Derivatives Licence]. This means that you’re free to
 download and share, but you must not sell it or change it and pass it
 off as your own. You must attribute me as the author if you share.
-
-== For the technically minded
-The files for this book are kept as git repositories on both github and bitbucket. You can fork my source from either repository!
-
-Most of the actual writing is done on  http://www.gitbook.com[gitbook.com]. 
-This is a very neat website that uses http://www.github.com[github] as storage.
-However, I can set up a local repository and 'git pull' the source and work to my heart's content on local copy, offline, knowing that I can merge back into the master branch later. 
-
-I  using the GitHub service for the actual remote storage of files.
-I'm using the free version, which means that I have no option but to  share my 
-work with the world. 
-You can view the underling asciidoc files both on GitHub, but use Gitbook for a more friendly interface with the option to export to formats for offline reading (ebook and pdf).
-
-As as a backup to the backup, I'm also keeping a copy on https://bitbucket.com[bitbucket], which seems to have some significant advantages as a git repository, according to people who understand git much better than I do.
-
-I am not an expert on git. It does seem a much under-used technology, which has applications beyond pure source control for programmers, which is where it started. The combination of it, and ascii-based markup, is, I believe, a great way to write books collaboratively.
-
-
-=== What this book is written in
-I have written the text of this book in a lightweight markup language called http://asciidoctor.org/docs/what-is-asciidoc/[asciidoc]. This is fairly self-explanatory, and looks like plain text with a bit of fairly straightforward
-decoration. If you want to know more, I recommend  http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[this cribsheet]  footnote:[asciidoctor is a pretty cool Ruby application that can be run on Windows, but I recommend looking at the Chrome extension that allows viewing of asciidoc files directly in the browser. This does not require any software to be installed locally.] and also http://www.methods.co.nz/asciidoc/userguide.html[this one]. 
-If you ask to collaborate, and use the online editor, where you can see the markup and display preview alongside each other in real time, you probably won't even need the cribsheet.
-
-I have sprinkled the odd equation through the text. In order to make these look good, even if they do not actually illuminate the message very much, I've used latex, for which I've found http://www.personal.ceu.hu/tex/cookbook.html[this page of examples] very helpful. 
-Don't be intimidated. 
-Just read the words. 
-No information is presented only in the equations: they are just to link up this text with more formal accounts.
 
 == Acknowledgements
 
