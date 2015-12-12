@@ -1,6 +1,14 @@
 = Passive Investing
 
-By "`passive investing`" I mean letting someone else make the actual trading decisions.
+"`Passive investing`" sounds as though it is all about abdicating responsibility for investment decisions to another, presumably an "`active investor`". 
+Actually it's somewhat more than that. 
+It's about deciding on an investment policy and letting a computer implement the policy.
+
+
+
+is all about sitting back and 
+
+I mean letting someone else make the actual trading decisions.
 
 `what is this?`
 
