@@ -1,2 +1,4 @@
-# Preface
+= Preface
 
+
+{% include "copyright.adoc" %}
