@@ -13,24 +13,22 @@ Don't be scared by the idea of derivatives. For many purposes they are just a co
 == Introduction
 
 Derivatives have had a bad press in recent years. 
-Warren Buffett memorably described them as _weapons of mass destruction_.
-He was referring to mortgage backed securities and similar fixed income securities that are not traded on any derivatives exchange and so are not even accessible, let alone a danger, to the private investor.
+Warren Buffett memorably described them as _weapons of mass financial destruction_. 
+Certainly in the wrong hands, they can go very wrong. 
+Banks were able to transform messy collections of small loans to dubious borrowers to large denomination bonds, some of which seemed to have the sort of claim on underlying cash flows that rating agencies deemed to merit a 'triple-A' rating. 
 
-There are a lot of books on derivatives. There are a very large number
-of books on the valuation of derivatives. This is a fascinating field of
-study, and has resulted in work that has many [how many: list!] Nobel
-prizes in recent years. A deep knowledge of economics and challenging
-areas of mathematics such as Ito calculus and the solution of partial
-differential equations is required to understand modern work on the
-valuation of derivatives.
+My advice is: do not invest in a derivative where the underlying cash instrument is not something that you would be comfortable in having a direct exposure to. Additionally, 
 
-Fortunately it is very cheap and easy to obtain software that will
-perform this valuation, and all that is really needed for trading is an
-understanding of the independent (exogenous) variables that enter into
-the valuation. The valuation of derivative securities is now so advanced
-that it is almost inconceivable that an amateur investor could make
-money by arbitraging derivatives which are mis-priced relative to their
-underlying securities.
+
+The problem of how to value derivatives is not wholly solved, and probably never will be. 
+Progress has been made, however, and a number of Nobel Prizes in Economics have been awarded to the clever mathematicians and finance specialist who have made this progress. 
+You will probably be pleased to know that I do not plan to attempt to summarize this work here. A number of books in the bibliography are listed for those who wish to pursue this topic.
+
+Although the theory of derivatives valuation can be daunting, software to calculate 'fair values' is cheap and is often built into the websites of brokers which offer derivatives trading. This is especially true for options, where most progress has been made. 
+It is important to realize that these 'fair values' incoporate various assumptions about future price distributions, dividends, interest rates and so on, that are not well known.  
+
+The main point about options trading is that it allows the investor to take a view about future uncertainty, something that is not possible with futures or CFDs. See [the chapter on options trading] for more detail.
+
 
 Derivatives have a role in amateur investing in the following ways:
 
