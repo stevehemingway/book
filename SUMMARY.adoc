@@ -14,6 +14,7 @@
 . link:current_issues.adoc[Current Issues]
 . link:trading_diary.adoc[Trading Diary]
 .. link:november.adoc[November 2015]
+.. December
 . link:bibliography.adoc[Bibliography]
 . link:GLOSSARY.adoc[Glossary]
 .. link:stock_tickers.adoc[Stock Tickers]
