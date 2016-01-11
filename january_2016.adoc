@@ -10,3 +10,56 @@ Sagging prices of commodities convinced everyone that forecasts of good global g
 My view, for what it is worth, is that downward price pressure is at least as much caused by increased supply as decreased demand, but it really is hard to prove. 
 Certainly Iran being able to sell, Saudi desperate to increase government revenues, and even the Lybians managing to get some oil to market all boosted supply.
 
+I have too many positions open at the moment. Here is the complete list (excluding currency positions):
+
+. Apple Ord
+. Apple Call (short)
+. Applied Materials
+. Athena Health
+. Brazilian Real (short)
+. CAC40
+. Chicago Bridge and Ironwork
+. WTI Crude
+. Canadian Pacific 
+. DJ Stoxx 600 Fut (long)
+. Stoxx 600 Insurance sector
+. Stoxx 50 Future (long)
+. Stoxx 50 put 
+. Stoxx 50 put 
+. Stoxx 50 put 
+. Stoxx 50 put 
+. Stoxx 50 put 
+. Everi Holdings
+. Facebook (short)
+. FT MIB (Italian Index)
+. Bund Futures (short)
+. Glencore
+. Glenworth Financial
+. High Yield ETF (short)
+. IBEX (Spanish Index) fut
+. Barclays High Yield (short)
+. Kinder Morgan Inc
+. Lulumon Athletica (short)
+. Mobile Eye (short)
+. EMEA Futures
+. Netflix (short)
+. Nifty Fifty (Indian Index) fut
+. Platform Speciality Products
+. Peoples United Financial (short)
+. Russian ADR Index future
+. Sun Edison
+. TOPIX future
+. Valeant
+. Western Union (short)
+. FTSE 100 future
+. Treasury Bonds (10yr) future
+
+I spent a lot of time on Seeking Alpha trying to find some ludicrously overvalued equities to offset my heavily long index exposure. 
+I found a few, but making money by a genuine Alfred Jones hedge equity strategy is very hard work. 
+I am writing this on 10 Jan, which is the first day that markets have rallied a bit. 
+Probably too late in the day, I decided to buy some protection against further falls in oil prices.
+The market seems to behave as if oil prices are a barometer of world demand, as copper used to be.
+My short position in CL has helped to protect me against fairly weak performance today.
+
+My long Treasury Notes/short Bunds has not been outstanding, but at least my hedged exposure to global interest rates has been better than it might have been had I just shorted Bunds.
+
