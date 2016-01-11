@@ -63,3 +63,15 @@ My short position in CL has helped to protect me against fairly weak performance
 
 My long Treasury Notes/short Bunds has not been outstanding, but at least my hedged exposure to global interest rates has been better than it might have been had I just shorted Bunds.
 
+== 10 Jan
+I have shorted CL and gone short CNH.HKD. 
+
+Rationale: hints of weak global economic growth reverberate in the price of oil.
+
+China seems to be heading for the '`China Syndrome`' which suggests to me that the authorities will be left with no option but to weaken the currency to galvanize the export sector back to life. The fact that it will store up problems for the future is not my worry, for now.
+
+I had not realized that the only currency pairs that are tradeable on IB for CNH are against JPY and HKD. I guess HKD makes a lot of sense, as there is a lot of HKD CNH trade, and yet HKD is fixed (via a currency board) against CNH.
+
+Of course the potential fly in the ointment is that PRC changes the rules of the currency board, but I'll take a chance, at least to the extent of my modest current currency pair exposure.
+
+
