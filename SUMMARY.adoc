@@ -15,7 +15,7 @@
 . link:trading_diary.adoc[Trading Diary]
 .. link:november.adoc[November 2015]
 .. link:december.adoc[December 2015]
-.. January 2016
+.. link:january_2016.adoc[January 2016]
 . link:bibliography.adoc[Bibliography]
 . link:GLOSSARY.adoc[Glossary]
 .. link:stock_tickers.adoc[Stock Tickers]
