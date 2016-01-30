@@ -74,4 +74,32 @@ I had not realized that the only currency pairs that are tradeable on IB for CNH
 
 Of course the potential fly in the ointment is that PRC changes the rules of the currency board, but I'll take a chance, at least to the extent of my modest current currency pair exposure.
 
+== End Jan
+
+The decision to short CL was fully justified. The equity market, behaving as irrationally as ever, was falling as crude was falling. The justification (_post hoc_) was as follows:
+
+- the fall in the price of crude was the result of a fall in demand. 
+There was a downward shift in the demand curve, and so the point at which supply matched demand slid to a lower price. 
+- the deficits created in the oil exporting countries would result in distress sales of the equities held in sovereign wealth portfolios, putting further downward pressure on prices,
+- the major oil companies would be hit with a lower priced product and increased production costs because of their operational gearing, resulting in reduce profit expectations,
+- the shale gas producers, which had funded their operations largely with high yield debt would not not be able to repay it, resulting in a collapse in this market, which would push up equity risk premia, again pushing stock prices down.
+
+I am not convinced, but I decided that I couldn't ignore the correlation and built up a substantial short crude position. 
+
+Volatility in crude, and in major stock indexes was very high in the second half of jan. By the end of the month I had closed this position, but was hanging on to my MXEA, ESTX50, DJ600 and TOPX positions.
+
+I ran small positions in a number of individual US companies, with fairly mixed results.
+
+I had further pain from my long ZN/Short GBL positions. I thought that I'd try to cheapen the pain of this by selling a pair of options (call ZN, put GBL) to get some premium income without fundamentally altering the position.
+
+The results were not pretty. There is no futures options market with GBL as an underlying, so I ended up having just one leg: a short ZN call position. As ZN appreciated (alongside GBL) I lost money on this position without the compensation of a short put on GBL. 
+
+Again, with yields in Europe getting even more negative, GBL did very well, exacerbating my losses on major european indexes.
+
+Italy was very badly hit. Some report saying that the banking sector was rickety.
+It does seem that France and Italy are incapable of reform, because of their political system. Italy certainly has huge problems because it still hasn't solved the divergence problems of its north and south from a hundred years ago.
+
+
+
+
 
