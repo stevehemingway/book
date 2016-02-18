@@ -17,7 +17,7 @@
 .. link:december.adoc[December 2015]
 .. link:january_2016.adoc[January 2016]
 .. link:february_2016.adoc[February 2016]
-.. Test Article
+.. link:test_article.md[Test Article]
 . link:bibliography.adoc[Bibliography]
 . link:GLOSSARY.adoc[Glossary]
 .. link:stock_tickers.adoc[Stock Tickers]
