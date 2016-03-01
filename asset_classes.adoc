@@ -125,7 +125,7 @@ In practice, it is impossible to find investable securities which have zero expo
 Bond prices depend on interest rates, but they will be exposed to commodity prices through interactions with the wider economy. Equity options mainly depend on underlying prices, but both directly and indirectly they are exposed to interest rates.
 Controlling risk by chosing a mix of asset from different asset classes cannot be an exact science.
 
-[[commodities-and-tradeable-securities]]
+[[commodities-and-tradable-securities]]
 Commodities and Tradeable Securities
 -----------------------------------
 
