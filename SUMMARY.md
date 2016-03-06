@@ -1,4 +1,5 @@
-= Summary
+# Summary
+* [Introduction](introduction.adoc)
 
 . link:README.md[README]
 . link:introduction.adoc[Introduction]
