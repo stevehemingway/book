@@ -1,9 +1,20 @@
 = Introduction
 
-== Audience
 
-The objective of this book is to tell you about how I invest, to tell you about a few of the successes and failure that I've had, so that you end up knowing a bit more about managing your own savings. 
-It will not turn you into George Soros, or equip you to start your own hedge fund, but it should enlighten you about some of the options available to those with modest savings to get a bit better return on their savings.
+This book is to tell you about how to take control of your savings. 
+It is not about selling you anything. I do not run seminars or residential courses. If you want to learn more you'll have to look at the books and websites in my bibliography.
+
+I wrote this because
+
+* I have been doing this for my own savings for a long time, and I felt that I'd learned some valuable lessons that I should share.
+
+* the more I read about the industry that provides financial advice, the more it seems that in the battle between rules and bad incentives, the latter is coming to dominate.
+
+* the Internet really has changed everything, when it comes to investing, and there is really no need nowadays to rely on an expensive human financial advisor.
+
+
+This book will  turn you into the next George Soros or John Paulson. It will not equip you to be convince anyone to fund your new hedge fund startup.  However, it should allow you to manage your own investments well enough to outperform the vast majority of fund managers, certainly after allowing for brokerage or 'platform' fees.
+
 
 You have to have a reasonable amount of capital to make it worth reading this book, if you measure the benefits in purely financial terms. If you have only a hundred pounds to invest, the extra return you make is simply not going to cover the opportunity cost of reading this book, let alone the cost of buying it. However, you never know when you might come into money, and you can at least sound financially well-informed to your friends, even if you are broke.
 
