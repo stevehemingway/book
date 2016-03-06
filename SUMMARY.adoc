@@ -22,5 +22,5 @@
 . link:GLOSSARY.adoc[Glossary]
 .. link:stock_tickers.adoc[Stock Tickers]
 . link:preface.adoc[Technical Appendix]
-. Technical Appendix
+. link:technical_appendix.md[Technical Appendix]
 
