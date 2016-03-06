@@ -1,9 +1,9 @@
 = Summary
 
 . link:README.md[README]
-.. link:preface.adoc[Preface]
 .. link:read_me.md[Read Me]
 . link:introduction.adoc[Introduction]
+. link:preface.adoc[Preface]
 . link:trading.adoc[Trading]
 .. link:funding.adoc[Funding]
 . link:valuation.adoc[Valuation]
