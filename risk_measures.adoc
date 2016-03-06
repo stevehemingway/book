@@ -78,7 +78,6 @@ $$
 \frac {E(R_i)- R_f}{\beta_{i}}  = E(R_m) - R_f   
 $$
 
-
 == Risk and Gearing
 
 For a given composition of a portfolio, risk is proportional to its total value.
