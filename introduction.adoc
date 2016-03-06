@@ -1,12 +1,15 @@
 = Introduction
 
-== Audience
+Managing investments used to be about poor people managing money for rich people. In the parable of the talents, (Matthew 25:14-30), the man hands pieces of silver to three of his servants, whose performance is, shall we say, variable. In the modern world, the servants have been replaced by the hedge fund managers, and the rich man is now the hard working salaried employee whose pension is being managed.
 
+Ironically, although very few 'ordinary people' now own stocks or take any active role in managing their savings, it has never been easier to do this. No longer is it necessary to pay fat fees to a stockbroker to receive research on the performance of a stock. Everything is available for nothing on the internet, courtesy of Google, or Yahoo or one of many other information providers.
+
+////
 The objective of this book is to tell you about how I invest, to tell you about a few of the successes and failure that I've had, so that you end up knowing a bit more about managing your own savings. 
 It will not turn you into George Soros, or equip you to start your own hedge fund, but it should enlighten you about some of the options available to those with modest savings to get a bit better return on their savings.
 
 You have to have a reasonable amount of capital to make it worth reading this book, if you measure the benefits in purely financial terms. If you have only a hundred pounds to invest, the extra return you make is simply not going to cover the opportunity cost of reading this book, let alone the cost of buying it. However, you never know when you might come into money, and you can at least sound financially well-informed to your friends, even if you are broke.
-
+////
 == Why Invest?
 
 We all consume resources and nearly all of us produce resources. 
