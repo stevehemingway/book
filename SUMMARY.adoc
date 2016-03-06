@@ -2,6 +2,7 @@
 
 . link:README.md[Read Me]
 .. link:preface.adoc[Preface]
+.. Read Me
 . link:introduction.adoc[Introduction]
 . link:trading.adoc[Trading]
 .. link:funding.adoc[Funding]
