@@ -1,6 +1,8 @@
 # Summary
 * [Introduction](introduction.adoc)
-
+* 
+* [Glossary](glossary.adoc)
+<!---
 . link:README.md[README]
 . link:introduction.adoc[Introduction]
 . link:trading.adoc[Trading]
@@ -22,3 +24,4 @@
 . link:bibliography.adoc[Bibliography]
 . link:GLOSSARY.adoc[Glossary]
 .. link:stock_tickers.adoc[Stock Tickers]
+-->
