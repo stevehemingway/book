@@ -1,8 +1,11 @@
 # Summary
 * [Introduction](introduction.adoc)
-* [Risk and Return](risk_measures.adoc)
 * [Glossary](glossary.adoc)
+
 <!---
+* [Risk and Return](risk_measures.adoc)
+-->
+
 . link:README.md[README]
 . link:introduction.adoc[Introduction]
 . link:trading.adoc[Trading]
