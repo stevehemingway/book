@@ -1,9 +1,13 @@
 = Trading
 
-== The Golden Rule: buy low, sell high
+At one level, there is no secret to investing. You just buy things cheaply and wait. You wait for the rest of the world catch up with your valuation, so you can sell the things back. Or you wait and receive the income, which is more than you'd get from an expensive or correctly priced investment.
 
-.Example given by Neil of improved style for this book
-=====================================================================
+Of course the secret is to know what is cheap. Because this relies on your spotting something that nobody else has. 
+
+Value, as far as an investment is concerned, is a future cashflow, either as a payout from the issuer of the security, such as a dividend, or a bond coupon, or the proceeds of a sale. Depending on the nature of the issuer, and the nature of the security, these all are uncertain to some extent.
+
+
+== The Golden Rule: buy low, sell high
 
 The Golden Rule: buy low, sell high
 
