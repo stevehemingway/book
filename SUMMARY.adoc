@@ -2,7 +2,6 @@
 
 . link:README.adoc[Introduction]
 . link:README.md[Read Me]
-.. link:preface.adoc[Preface]
 . link:introduction.adoc[Introduction]
 . link:trading.adoc[Trading]
 .. link:funding.adoc[Funding]
@@ -12,6 +11,7 @@
 . link:derivatives.adoc[Derivatives]
 . link:risk_measures.adoc[Risk]
 . link:passive_investing.adoc[Passive Investing]
+. link:preface.adoc[Preface]
 . link:current_issues.adoc[Current Issues]
 . link:trading_diary.adoc[Trading Diary]
 .. link:november.adoc[November 2015]
