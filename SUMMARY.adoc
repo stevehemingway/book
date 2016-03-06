@@ -1,5 +1,6 @@
 = Summary
 
+. link:README.adoc[Introduction]
 . link:README.md[Read Me]
 .. link:preface.adoc[Preface]
 . link:introduction.adoc[Introduction]
@@ -21,4 +22,5 @@
 . link:bibliography.adoc[Bibliography]
 . link:GLOSSARY.adoc[Glossary]
 .. link:stock_tickers.adoc[Stock Tickers]
+. Technical Appendix
 
