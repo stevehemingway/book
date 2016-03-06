@@ -8,10 +8,9 @@ I wrote this because
 
 * I have been doing this for my own savings for a long time, and I felt that I'd learned some valuable lessons that I should share.
 
-* the more I read about the industry that provides financial advice, the more it seems that in the battle between rules and bad incentives, the latter is coming to dominate.
+* the industry that provides financial advice has become too conflicted by the opportunity to charge fees.
 
 * the Internet really has changed everything, when it comes to investing, and there is really no need nowadays to rely on an expensive human financial advisor.
 
 
-This book will  turn you into the next George Soros or John Paulson. It will not equip you to be convince anyone to fund your new hedge fund startup.  However, it should allow you to manage your own investments well enough to outperform the vast majority of fund managers, certainly after allowing for brokerage or 'platform' fees.
-
+This book will  turn you into the next George Soros or John Paulson. It will not equip you to be convince anyone to fund your new hedge fund startup.  However, it should allow you to manage your own investments with confidence. Your performance should be good enough to outperform the  majority of fund managers. You will need to factor the extra time you spend researching, but you can offset this against your brokerage fees.
