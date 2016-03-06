@@ -3,7 +3,7 @@
 . link:README.md[README]
 .. link:read_me.md[Read Me]
 . link:introduction.adoc[Introduction]
-. link:preface.adoc[Preface]
+. link:preface.adoc[Technical Things]
 . link:trading.adoc[Trading]
 .. link:funding.adoc[Funding]
 . link:valuation.adoc[Valuation]
