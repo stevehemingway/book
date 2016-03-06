@@ -2,7 +2,6 @@
 
 . link:README.md[README]
 . link:introduction.adoc[Introduction]
-. link:preface.adoc[Technical Things]
 . link:trading.adoc[Trading]
 .. link:funding.adoc[Funding]
 . link:valuation.adoc[Valuation]
@@ -12,6 +11,7 @@
 . link:risk_measures.adoc[Risk]
 . link:passive_investing.adoc[Passive Investing]
 . link:current_issues.adoc[Current Issues]
+. link:preface.adoc[Technical Things]
 . link:trading_diary.adoc[Trading Diary]
 .. link:november.adoc[November 2015]
 .. link:december.adoc[December 2015]
