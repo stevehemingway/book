@@ -1,6 +1,6 @@
 = Summary
 
-. link:README.md[Read Me]
+. link:README.md[README]
 .. link:preface.adoc[Preface]
 .. link:read_me.md[Read Me]
 . link:introduction.adoc[Introduction]
