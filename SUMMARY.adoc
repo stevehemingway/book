@@ -1,7 +1,6 @@
 = Summary
 
 . link:README.md[README]
-.. link:read_me.md[Read Me]
 . link:introduction.adoc[Introduction]
 . link:preface.adoc[Technical Things]
 . link:trading.adoc[Trading]
