@@ -1,9 +1,14 @@
 = About this book
 
+This is a book about how to take control of your own future. Narrowly it is about investing, but more broadly it is about understanding the drivers of investment returns and liberating you from a dependence on financial advisors. 
 
+Please use gitbook to read this book, rather than cloning the project in the typical git style that you would use for a software project. Of course you are able to download all the source files, a mixture of asciidoc and markdown, by using a command-line git command, or (for example) by using the Windows gui.
+
+////
 Many studies have shown that a chimp with a dartboard can construct a portfolio which outperforms the average  the average fund manager. If you pay the chimp in bananas he'll virtually always outperform, after fees.
 Nevertheless, most ordinary savers choose to hand over their savings to a professional.
 This book is an attempt to allow you to make an informed decision about whether to accept the advice of your financial advisor at face value.
+////
 
 The key to a DIY approach to investing is an understanding of risk. There are two aspects of this. Minimising risk for a given return, and deciding on the correct tradeoff between risk and return for your own preferences. Saving is about trading current consumption for future consumption. Each of us has values our current consumption relative to our future consumption differently. Conventional economic theory argues that utility is derived only from consumption, but I actually think that we get utility from knowing that we have assets 'for a rainy day', i.e. current utility, as well as the utility we receive when we actually consume those assets, but I am straying into a territory where I have no expertise.
 
