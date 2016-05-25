@@ -39,7 +39,7 @@ I want to write the book that I wish I had read when I started seriously investi
 
 == Collaboration
 Apart from finance, one of my passionate interests is technology. 
-Recently a number of good, free ('as in beer') utilities have been developed to make collaborative writing much less painful than it once was. Several of them use the magnificent tool called Git, invented by Linus Torvalds, who is more famous for being the father of Linux, the free software operating system that powers most of the web. I believe that anyone able to use a basic word processor should be able to add sections and chapters of this book. We will see.
+Recently a number of good, free ('as in beer') utilities have been developed to make collaborative writing much less painful than it once was. Several of them use the magnificent tool called Git. This is not the place to talk about Git. But it is wonderful. 
 
 
 
