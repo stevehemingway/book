@@ -1,4 +1,4 @@
-= Trading
+# Trading
 
 At one level, there is no secret to investing. You just buy things cheaply and wait. You wait for the rest of the world catch up with your valuation, so you can sell the things back. Or you wait and receive the income, which is more than you'd get from an expensive or correctly priced investment.
 
@@ -7,7 +7,7 @@ Of course the secret is to know what is cheap. Because this relies on your spott
 Value, as far as an investment is concerned, is a future cashflow, either as a payout from the issuer of the security, such as a dividend, or a bond coupon, or the proceeds of a sale. Depending on the nature of the issuer, and the nature of the security, these all are uncertain to some extent.
 
 
-== The Golden Rule: buy low, sell high
+## The Golden Rule: buy low, sell high
 
 The Golden Rule: buy low, sell high
 
@@ -25,7 +25,7 @@ not have in the first place.
 
 Short-selling also presumes that the lender is not expecting the shares to drop in value, or
 he might decide to sell them now to avoid a loss.
-=====================================================================
+#####################################################################
 
 
 All investors worry about their exit: converting their paper gains to
@@ -36,7 +36,7 @@ This rule works whether you buy first, or sell first. If you sell first,
 this is called __short selling__. It is particularly easy to do this
 with futures.
 
-=== Short selling.
+### Short selling.
 There is nothing mysterious about this. 
 A `normal' trade involves handing over cash and receiving the shares. 
 A short sale is just handing over the shares and receiving the cash.
@@ -53,7 +53,7 @@ are cash settled you don't ever have to worry about having the stock available t
 Borrowing stock is more difficult than borrowing money because ... well there are many more
 shares in issue than there are currencies.
 
-=== Valuation
+### Valuation
 
 The key to investment is valuation. Making money is easy: find mispriced
 securities, buy them, and wait for the market to realize its mistake.
@@ -69,7 +69,7 @@ possible that it is possible to detect mispricing between the same asset
 classes between countries, and between different asset classes within a
 country.
 
-==== Yield
+#### Yield
 
 Most financial assets produce some kind of income. Not all produce a
 long-term steady stream, but many do. The ratio of the unit-time income
@@ -105,7 +105,7 @@ Each investor will have a value to him of
 $$
  \sum_{i} Exp(pv_i ) 
 $$
-where $$ pv_i = c_i d_i $$ and $$ d_i = d(t_i) $$
+where $$ pv_i # c_i d_i $$ and $$ d_i # d(t_i) $$
 and the expectation is formed over the probability distribution for
 receiving $$ c_i $$ at time latexmath:$$ t_i $$.
 
@@ -128,7 +128,7 @@ is this reasonable? If someone had a different time preference, would
 this really affect valuations?]
 
 
-== The importance of securities exchanges
+## The importance of securities exchanges
 
 I cannot emphasise enough the importance of minimizing the cost of managing a portfolio.
 The spread between buying and selling is an important part of this cost.
@@ -147,7 +147,7 @@ It also has the advantage of being on an an underlying with an active options ma
 The other example is the MXEA which would have to be made up of a mixture of European, Japanese, Australian and XXX futures. 
 //// rewrite this.
 
-== Stock Exchanges
+## Stock Exchanges
 
 
 // Deliver price visibility, and, sometimes, settlement services. 
@@ -179,7 +179,7 @@ Chicago Board of Trade gave us _No. 2 Soft Red Winter Wheat_ .
 In practice your broker will make all the decisions about where your trades are executed.
 You may be offered some choice about routing, but 
 
-== Futures
+## Futures
 
 The most basic derivative. Has existed for hundreds of years to meet the
 demand for farmers to remove risk of an adverse movement in grain
@@ -199,7 +199,7 @@ have a view about the underlying market, you can cheaply express it by
 buying or selling the future. For most futures, the spread, and the
 liquidity, are excellent, as long as you stick to the nearby contract.
 
-== Options
+## Options
 
 There are lots of variations on a theme when it comes to options. You
 not only have options on cash securities, but also options on futures.
@@ -222,14 +222,14 @@ wants to take the risk that writing `naked' options implies. It is also expensiv
 
 The great advantage of options is that you can protect yourself against so called Black Swan events.
 
-== Futures Options
+## Futures Options
 In many cases the price of the underlying for a future is easily determined. In the case of bond futures, the underlying is one of a number of 'deliverable' bonds, one of which is the 'cheapest to deliver'. The underlying is then, in effect this bond, but which one it is can change from day to day, depending on the exact shape of the discount curve.
 
 To solve the problems with a slighly blurry underling, it's easier to trade options on futures. These are slightly simpler to analyze theoretically, as both the option and the underlying have no carrying cost. 
 The great advantage of these as tradeable instruments is that if you get cold feet on the direct of the underlying, but already have a futures position, you can write a covered call or put, depending on whether you are long or short the future, to earn a bit of premium income. 
 When you write options, time is on your side, as if the market is going sideways, you make money. footnote:[This makes assumptions about interest rates and volatility remaining steady. In practice a market that is going sideways will nearly always one where volatility is flat or declining.]
 
-== Brokers
+## Brokers
 
 Exchanges have systems that cannot be accessed directly by end
 investors. Diversification is important, and having good access to as
@@ -256,9 +256,9 @@ based in the USA. My experience is that US-based brokerages are many
 years ahead of UK or European providers in terms of technology and
 breadth of product coverage.
 
-== Styles of Investing
+## Styles of Investing
 
-=== Time Horizons
+### Time Horizons
 
 Some people make a keen distinction between speculating and investing.
 The general idea is that investing is finding the highest-quality assets
@@ -273,7 +273,7 @@ if a fund is managed for a large pool of savers, the time horizon he
 should focus on should be some average of the economic situation of his
 investors.].
 
-=== Momentum
+### Momentum
 
 Momentum trading is exactly what it sounds. You wait until you see
 something go into a `bull market' and climb on the bandwagon, making
@@ -296,7 +296,7 @@ invest. The S&P500 is now at a very steep valuation, and to buy now is
 to risk being long when the market crashes. It is certainly the case
 that markets go up steadily and then crash precipitously.
 
-=== Growth
+### Growth
 
 Some industries, and companies, are likely to grow faster than others.
 Internet stocks are likely to grow quicker than steel manufacturers.
@@ -308,7 +308,7 @@ The growth style of investing tries to identify stocks with genuine
 growth prospects. This tends to be a popular investment style in a macro
 environment with strong economic growth.
 
-=== Value
+### Value
 
 Value investing is associated with Ben Graham, ??? Dodd and Warren
 Buffett. This attempts to examine companies’ accounts closely to
@@ -318,7 +318,7 @@ attempts to identify sustainable competitive advantage footnote:[Buffett
 has written extensively on his philosophy of investing and on many other
 varied topics in finance.]
 
-=== Sector rotation
+### Sector rotation
 
 Sectors go in and out of fashion. 
 Multiples theoretically reflect growth prospects, but growth is something that must come to an end.
@@ -330,7 +330,7 @@ There is always something being written in Seeking Alpha about which sector is a
 
 It is generally the case that earnings are much less volatile than a stock price, and that yields are mean-reverting.
 
-=== Technical Trading and Mean Reversion
+### Technical Trading and Mean Reversion
 
 Equity markets typically have an annual standard deviation of 20%. This
 is an annual variance of 4%. A typical daily variance, given there are
@@ -354,7 +354,7 @@ sudden large moves. A brokerage will close out a position when
 inadequate margin has been posted. Brokerages vary, but none are patient
 when it comes to waiting for margin calls to be met.
 
-=== Macro Trading
+### Macro Trading
 
 Most investors depend on fund managers to make investment decisions for
 them. Most fund managers are concerned with a small sector of the
@@ -380,7 +380,7 @@ understanding of how different asset classes will react to unexpected
 changes in the wider economy, and an edge on other investors on
 predicting the evolution of how the global economy will evolve.
 
-=== Turning Japanese
+### Turning Japanese
 
 We live in oriental times. In 1992, because of bad lending to finance
 property purchases, Japanese banks were pushed to the brink. To avert a
@@ -435,7 +435,7 @@ nineties. It has been suggested [reference?] that monetary policy in
 Japan was, and possibly still is, too tight, because the commercial
 banks inability, or unwillingness to lend.
 
-==== Japan Scenario
+#### Japan Scenario
 
 As a general rule, we tend to overestimate the probability that things
 will not change, so the Japan scenario is one we should examine closely.
@@ -448,27 +448,28 @@ including sub-investment grade, but only from the strongest names.
 Because government bonds have such low yields, for mean reversion
 reaons, it’s hard to justify putting them into a portfolio at all.
 
-==== Stagflation Scenario
+#### Stagflation Scenario
 
 Here we need to get out of bonds. Gold and real estate might do well.
 
-==== Real Recovery Scenario
+#### Real Recovery Scenario
 
 
 Cyclical stocks. Miners, commodities. It might be good to short the
 currencies of the most rapidly growing economies. Emerging markets, with
 their exposure to commodities might be good too.
 
-[cols=",,,",options="header",]
-|=======================================
+[cols#",,,",options#"header",]
+|#######################################
 |Asset |Japan |Stagflation |Growth
 |EEM |buy |sell |hold
 |Gold |sell |buy |hold
 |Developed World Equity |sell |sell |buy
 |T Bonds |buy |sell |hold
 |US Dollar |buy |sell |hold
-|=======================================
+|#######################################
 
+<!---
 [Find article by Robert Buckland, equity strategist from Citigroup, who
 has written about the difference between Japan and the USA, and has
 pointed out the difference in equity market returns following their
@@ -477,12 +478,13 @@ companies had minimal margins and could barely afford to service their
 debt and coupon payments, whereas US companies have very strong margins,
 and, as debt costs plummetted with QE, were able to increase returns to
 equity holders.]
+-->
 
 What sectors have benefited from QE: very high quality names and true
 growth stocks like Google. Those that have lost out: cyclical stocks and
 particularly miners.
 
-== The importance of holding your nerve
+## The importance of holding your nerve
 
 There will come a time when you have been trading securities when an investment decision you have made will appear to go horribly wrong. Your position will show apparently inexorable mounting losses and you will lose faith. You will doubt your analysis, and become convinced that the factors that you previously disregarded that argued against this investment were, in fact, the dominant ones.
 

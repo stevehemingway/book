@@ -1,6 +1,6 @@
 # February 2016
 
-== Armageddon out of here
+## Armageddon out of here
 
 February started with continued, strong headwinds. Not only were stocks battered, but my supposedly hedged interest rate strategy was coming apart.
 

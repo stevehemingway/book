@@ -1,6 +1,6 @@
-= Asset Classes
+# Asset Classes
 
-== Financial Assets
+## Financial Assets
 
 The biggest class of all, in terms of investable assets is real estate. 
 For most people, their most valuable asset is their house. 
@@ -21,7 +21,7 @@ I also do not consider the very short term investing. Ordinary investors do not 
 short term fluctuations of supply and demand in markets for very liquid assets such as foreign exchange, or futures, but this is not investment in any sense I use the word.
 
 
-== To get the most out of this book
+## To get the most out of this book
 
 Probably the most important advice I can give you is to not rush into anything. 
 It is very unlikely that your analysis will have revealed a major mispricing of some security that
@@ -37,7 +37,7 @@ Warren Buffett once wrote that we should be given a quota of just twenty investm
 
 
 
-== About Me
+## About Me
 
 I have worked in and around securities markets for a long time. I have
 had an interest in them for even longer. I first came across tradable
@@ -51,7 +51,7 @@ you avoid these mistakes, and maybe to make some new ones of your own.
 With any luck they’ll be less costly than mine, at least in percentage
 terms.
 
-== Goals
+## Goals
 
 I had no intention of writing a book which is a comprehensive overview
 of how financial markets work. My goal is to tell you the least you need
@@ -73,7 +73,7 @@ I will try to explain why it is important to understand the drivers of risk,
 and, having understood them, how to get compensated to the fullest possible extent for bearing risk.
 
 
-== Further Reading
+## Further Reading
 
 I include in the bibliography a range of my favourites, but this is a
 very incomplete list. I would suggest that you keep in touch with
@@ -94,7 +94,7 @@ However I do not recommend getting exposure to individual companies as I believe
 If you are a fan of Buffett, I would suggest that it is much more cost effective for you to get exposure to Berkshire Hathaway by buying its shares (or via various means involving derivatives that I discuss in [Chapter on Derivatives]) than by trying to out-analyse his team.
 
 
-== Exclusions
+## Exclusions
 ////
 
 real real estate,
@@ -107,7 +107,7 @@ wine?
 ////
 
 
-== How to read this book
+## How to read this book
 ////
 Suggested order of chapters to read with notes on what can be skipped, linked to readers' experience  and interest.
 ////

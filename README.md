@@ -4,7 +4,7 @@ This is my attempt to write a book on investing.
 ## 6 March  2016 ##
 I have decided to move back towards Markdown and also to re-focus the message of the book so it is more of a toolkit for investing action. 
 
-= Introduction
+# Introduction
 
 This book is to tell you about how to take control of your savings. 
 It is not about selling you anything. I do not run seminars or residential courses. If you want to learn more you'll have to look at the books and websites in my bibliography.

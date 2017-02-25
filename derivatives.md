@@ -1,4 +1,4 @@
-= Derivatives
+# Derivatives
 
 Derivatives are meta assets. They are contracts that allow the holder to derive some or all of the economic benefits of owning an asset without actually owning it.  They exist for a variety of reasons:
 
@@ -10,7 +10,7 @@ Derivatives are meta assets. They are contracts that allow the holder to derive 
 
 Don't be scared by the idea of derivatives. For many purposes they are just a convenient way to get exposure to an asset that would be expensive or inconvenient to achieve otherwise. Modern brokerages can allow the amateur investor to obtain an exposure to a huge range of assets via derivatives than were remotely possible even for professional investors a few decades ago.
 
-== Introduction
+## Introduction
 
 Derivatives have had a bad press in recent years. 
 Warren Buffett memorably described them as _weapons of mass financial destruction_. 
@@ -39,7 +39,7 @@ difficult for amateurs to trade, such as copper or pork bellies,
 4. standardizing exposure to a class of assets, such as government bonds, e.g. T Bill futures, where the underlyings have a range of coupons and maturity dates.
 
 
-== OTC and Exchange-Traded Derivatives
+## OTC and Exchange-Traded Derivatives
 
 Increasing regulation of public stock exchanges have lead to the
 creation of private platforms for trading a range of financial
@@ -61,7 +61,7 @@ that no investor is exposed to the credit risk of any other investor:
 all trades are with a central counterparty that always executes `back to
 back' trades so that it is never left with a net market exposure.
 
-== Futures
+## Futures
 
 Futures allow the investor to gain an exposure to an underlying cheaply
 and with very little contaminating risk, particularly if the near month
@@ -96,14 +96,14 @@ CFD/Spread betting providers will allow you to take a view on within-country sec
 As ever, there is going to be a tradeoff. A sector future will not have the liquidity of the whole market. For you to be able to buy there must be someone, somewhere, ready and willing to sell. Exchanges exist to allow buyers to find sellers, but sometimes there is just nobody to take the other side of a trade. Automation of trading does not help with this, unless traders abdicate control of their positions to an algorithm. Even if they did, the algorithm might be unwilling to take the other side of your trade.
 
 
-== Swaps
+## Swaps
 Swaps are wonderful for switching an exposure to a particular maturity (e.g. 3-month floating rates) to another maturity (e.g. 10 year fixed). They also work well for foreign exchange. 
 
 Institutional traders can trade equity swaps, which do the same sort of thing where one side of the exposure is an index. However, for the individual trader this is really not viable, mainly because to a large extent the sort of exposure switching you could achieve with a swap can be replicated using futures or CFDs.
 
 This situation may change. Many products available only to the most sophisticated professional traders have found their way onto retail platforms over the years, and this may be another one about to be launched onto an unsuspecting public.
 
-== Options
+## Options
 
 Options are like insurance policies. They pay out when something (more or less) unlikely happens.
 In the happy world of securities trading you can not only buy the policy, but write it too. 
@@ -111,15 +111,15 @@ It's like having the option to be the bookie or the punter, to draw a parallel w
 
 Basic options are puts and calls. The former pay out if the underlying's price drops below a fixed level. The latter if it exceeds a fixed level. 
 
-=== Example
+### Example
 
-==== Call Example
+#### Call Example
 
 If you have an inkling that a bid for Marks and Spencer may be launched in the next month you can buy a put, to allow you to profit if the price shoots up, without committing a lot of capital by buying the underlying, and without being exposed to any downside if the quarterly results are very dissapointing, or the Bank of England unexpectedly hikes interest rates.
 
 If this all sounds too much like a free lunch, it is. You have to pay a premium, not unlike an insurance premium, to get this 'no downside risk' exposure. If the hoped-for bid fails to materialize you've incurred the cost without having anything but an expired policy to show for it.
 
-==== Put Example
+#### Put Example
 You have noticed that there is strong momentum in the S&P 500 index, and you don't want to miss the boat.
 However, you notice that on a lot of fundamental valuation measures (market cap to GDP, price to book) the market is looking distinctly overvalued and you fear a large drawdown.
 
@@ -133,9 +133,9 @@ You buy puts which are 30% out of the money.
 ////
 
 
-=== Greeks
+### Greeks
 
-== Spread Betting
+## Spread Betting
 
 Spread betting is unique to the UK. Because a CFD-like product can be
 wrapped into what is, for tax purposes, a bet where the odds are not
@@ -147,7 +147,7 @@ implicit financing cost can be very high. The websites are structured to
 encourage high gearing and heavy use of stop orders. Both of these, are,
 in my book, tickets to oblivion.
 
-== CFDs
+## CFDs
 
 CFDs or `Contracts for Difference' are relatively new products, mainly
 aimed at the retail investor. They combine a traded underlying with 100%
@@ -160,7 +160,7 @@ methods would be prohibitive.
 
 // []Highlight difference between synthetic and physical ETFs.]
 
-== ETFs
+## ETFs
 
 ETFs, or Exchange Traded Funds, are a recent development which has
 revolutionized investing in the last ten years or so. They are
@@ -179,11 +179,11 @@ error against the published index. [Check this: does the issuer really
 guarantee a tracking error, or do you, as the investor, just get what
 the issuer manages to achieve using it’s derivatives-based strategy?]
 
-== Foreign Exchange
+## Foreign Exchange
 
-== Stock Market Index
+## Stock Market Index
 
-== Direct holdings of cash equities with margin finance
+## Direct holdings of cash equities with margin finance
 
 Most US brokerages will lend against equity as collateral. However, it
 is almost never worth taking advantage of this to increase gearing as

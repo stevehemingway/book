@@ -1,6 +1,6 @@
-= Risk
+# Risk
 
-== What is risk?
+## What is risk?
 
 Risk: something that can be insured because the set of possible future
 outcomes is denumerable. In trading we probably will use `hedge' rather
@@ -11,7 +11,7 @@ impossible to get a quote on.
 
 In the literature the very idea of 'risk' departs from the idea of the word as it is used in ordinary language. Mean variance theory says that risk is measured by the average variance footnote:[variance is just the square of the standard deviation] of stock price movements. This means that stocks that have strong upward movements in price are risky: not the way the man in the street looks at these things.
 
-=== Tail risk
+### Tail risk
 
 Tail risk, or 'a Black Swan event' is associated with the work of Nassim Taleb. 
 The idea is that market crashes which should only happen once or twice in the whole history of the universe, according to accepted models, seem to come along every three years or so.
@@ -22,21 +22,21 @@ It's hard to prove this statistically one way or another. You have to collect a 
 
 Some authors footnote:[Spitznaegel]  reject the whole efficient market hypothesis and argue that markets drift further and further from fair value, as measured by various fundamental metrics that the Black Swan is merely a correction to bring prices in line with fundamentals.
 
-=== Harry Markowitz and Mean-Variance Portfolios
+### Harry Markowitz and Mean-Variance Portfolios
 
-=== Efficient Frontier
+### Efficient Frontier
 
-== Eugene Fama and the Efficient Market Hypothesis
+## Eugene Fama and the Efficient Market Hypothesis
 
-== Value at Risk
+## Value at Risk
 
 $$
-{Var}\left(\sum_{i}^n a_iX_i\right) = \sum_{i=1}^na_i^2 {Var}(X_i) + 
+{Var}\left(\sum_{i}^n a_iX_i\right) # \sum_{i#1}^na_i^2 {Var}(X_i) + 
 2\sum_{1\le i}\sum_{<j\le n}a_ia_j{Cov}(X_i,X_j)
 $$
 
 
-== Broker and Exchange Margins
+## Broker and Exchange Margins
 
 Most books on investing strongly advise against trading on margin. 
 Essentially this involves buying securities using borrowed money.
@@ -59,7 +59,7 @@ The broker's margin requirements are usually stricter than those of the clearing
 In practice a large brokerage will have offsetting positions that gives the brokerage 
 access to costless funds. This is how they can sometimes offer a very attractive service.
 
-== CAPM and Hedging
+## CAPM and Hedging
 
 Investing is like successful gambling. 
 The key to investing is to find shares which are mis-priced.
@@ -75,10 +75,10 @@ If you do wish to attempt this strategy, CAPM will allow you to construct a mark
 portfolio.
 
 $$
-\frac {E(R_i)- R_f}{\beta_{i}}  = E(R_m) - R_f   
+\frac {E(R_i)- R_f}{\beta_{i}}  # E(R_m) - R_f   
 $$
 
-== Risk and Gearing
+## Risk and Gearing
 
 For a given composition of a portfolio, risk is proportional to its total value.
 By gearing up this risk can be increased. 
@@ -91,18 +91,18 @@ Gearing allows one to increase exposure cheaply, but at the cost of an increased
 [talk about stop loss orders].
 
 
-== All Trades are Carry Trades
+## All Trades are Carry Trades
 We are so attuned to the idea of things and money as being totally different categories of things that 
 it's difficult to absorb the concept that all investable securities are stores of value, and are thus, in an important sense, very like money.
 
 The clearest example of this is foreign exchange. If we buy dollars for pounds, which then is the money, and which the security? 
 We are better off thinking of both the currencies as being, in some sense, part of our portfolio, but with one of the components having a negative quantity. We have the dollars, a  
-[options="header"] 
-|===
+[options#"header"] 
+|###
 | **Security** | **quantity** | **long/short**
 | dollars| 1.5| long
 | pounds| 1| short
-|===
+|###
 
 This seems easy for portfolio created by a single trade, but the principle can be extended to any porfolio by including the original funding as a negative currency position. 
 
@@ -111,10 +111,10 @@ To properly measure the performance of a position the short currency position sh
 Many derivatives bundle funding with an exposure to an underlying. Buying a stock index future requires no cash settlement. The price of the future exactly balances the currency and the equity position, to remove the need for a cash payment at the point the position is established. footnote:[To open a futures position the exchange may require you to post cash as margin, but this is just to (largely) eliminate the credit risk they are taking. The margin moneys are still yours. They just cannot be pledged as collateral against any other trades. ]
 
 
-=== Measuring Risk and Measuring Return
+### Measuring Risk and Measuring Return
 The benchmark return is that on a risk free bond of maturity equal to your investment time horizon. footnote:[Really this should be a zero coupon risk free bond,  but these are not easy to find although their price can be derived by combining regular bonds in such a way that the interest cash flows zre eliminated.]
 
-== Credit Risk
+## Credit Risk
 The traditional view is that difference between government bonds and corporate bonds is that the latter have credit risk.
 Of course, countries have been known to welch on their debts, but in theory they can always repay them because they have the power to throw citizens who do not pay their taxes into gaol. They can, sometimes, also lean on their central banks to issue enough currency that it's pretty cheap to redeem the debt. 
 
@@ -125,6 +125,6 @@ Trading corporate bonds is quite difficult. This is one security where it is pro
 Bonds are often illiquid compared to other securities. Because they are self-liquidating, holders often buy bonds with maturities that suit their own liability profile, removing the need to sell the bonds to fund their cashflow. 
 
 
-== Risk Horizon
+## Risk Horizon
 
-== Liquidity Risk
+## Liquidity Risk

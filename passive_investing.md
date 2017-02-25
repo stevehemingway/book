@@ -1,4 +1,4 @@
-= Passive Investing
+# Passive Investing
 
 "`Passive investing`" sounds as though it is all about abdicating responsibility for investment decisions to another, presumably an "`active investor`". 
 Actually it's somewhat more than that. 
@@ -20,17 +20,17 @@ All the principles of choosing assets continue to apply.
 
 John Kay has produced a very good book about this sort of investing, and John Bogle has produced many.
 
-== keep fees low
+## keep fees low
 
 ETFs. 
 
-== don't follow the crowd
+## don't follow the crowd
 
-== don't chop and change
+## don't chop and change
 
 Don't choose a fund manager who has a high turnover of investments, either.
 
-== "`You can't buck the market`"
+## "`You can't buck the market`"
 
 recognize that even if the market is not perfectly efficient, it's not far off,
 
@@ -38,12 +38,12 @@ Stats on active managers.
 
 
 
-== Take it easy
+## Take it easy
 build up a position slowly: work with the short term trend to minimize the average cost. 
 
 Pound cost averaging.
 
-== Focus on Asset Allocation
+## Focus on Asset Allocation
 
 don't abdicate responsibility for asset allocation. 
 If you don't feel competent to make your own decision, at least resist the temptation to invest in the currently most fashionable market. At the very least do not put all your eggs in one basket, and that includes your own national stockmarket. 

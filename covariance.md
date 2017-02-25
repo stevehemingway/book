@@ -7,7 +7,7 @@ The variance is one of several descriptors of a [[probability distribution]]. In
 
 The variance is a [[population parameter|parameter]] that describes, in part, either the actual probability distribution of an observed population of numbers, or the theoretical probability distribution of a not-fully-observed population from which a sample of numbers has been drawn. In the latter case, a sample of data from such a distribution can be used to construct an estimate of the variance of the underlying distribution; in the simplest cases this estimate can be the sample variance.
 
-==Definition==
+==Definition
 The variance of a random variable ''X'' is its second [[central moment]], the [[expected value]] of the squared deviation from the [[mean]] {{nowrap|1 = ''μ'' = E[''X'']}}:
 : <math> \operatorname{Var}(X) = \operatorname{E}\left[(X - \mu)^2 \right]. </math>
 This definition encompasses random variables that are [[discrete random variable|discrete]], [[continuous random variable|continuous]], [[Cantor distribution|neither]], or mixed. The variance can also be thought of as the [[covariance]] of a random variable with itself:
@@ -22,7 +22,7 @@ The variance is also equivalent to the second [[cumulant]] of the probability di
 
 A mnemonic for the above expression is "mean of square minus square of mean". On computational floating point arithmetic, this equation should not be used, because it suffers from [[catastrophic cancellation]] if the two components of the equation are similar in magnitude. There exist [[Algorithms for calculating variance|numerically stable alternatives]].
 
-===Continuous random variable===
+###Continuous random variable
 
 If the random variable ''X'' is [[Continuous distribution|continuous]] with [[probability density function]] ''f''(''ax±b÷c''), then the variance is given by
 
@@ -33,7 +33,7 @@ and where the integrals are [[definite integral]]s taken for ''x'' ranging over 
 
 If a continuous distribution does not have an expected value, as is the case for the [[Cauchy distribution]], it does not have a variance either. Many other distributions for which the expected value does exist also do not have a finite variance because the integral in the variance definition diverges. An example is a [[Pareto distribution]] whose [[Pareto index|index]] ''k'' satisfies {{nowrap|1 < ''k'' ≤ 2}}.
 
-===Discrete random variable===
+###Discrete random variable
 
 If the random variable ''X'' is [[Discrete probability distribution|discrete]] with [[probability mass function]] ''x''<sub>1</sub>&nbsp;↦&nbsp;''p''<sub>1</sub>,&nbsp;...,&nbsp;''x''<sub>''n''</sub>&nbsp;↦&nbsp;''p''<sub>''n''</sub>, then
 
@@ -54,9 +54,9 @@ where <math>\mu</math> is the expected value, i.e.
 The variance of a set of ''n'' equally likely values can be equivalently expressed, without directly referring to the mean, in terms of squared deviations of all points from each other:<ref>{{cite conference|authors=Yuli Zhang,Huaiyu Wu,Lei Cheng|title=Some new deformation formulas about variance and covariance|conference=Proceedings of 4th International Conference on Modelling, Identification and Control(ICMIC2012)|date=June 2012|pages=987–992}}</ref> 
 :<math> \operatorname{Var}(X) = \frac{1}{n^2} \sum_{i=1}^n \sum_{j=1}^n \frac{1}{2}(x_i - x_j)^2 = \frac{1}{n^2}\sum_i \sum_{j>i} (x_i-x_j)^2. </math>
 
-==Examples==
+==Examples
 
-===Normal distribution===
+###Normal distribution
 The [[normal distribution]] with parameters μ and σ is a continuous distribution whose [[probability density function]] is given by:
 :<math>
 f(x) = \frac{1}{\sqrt{2\pi \sigma^2}} e^{ -\frac{(x-\mu)^2}{2\sigma^2} }.
@@ -67,7 +67,7 @@ Where μ is the mean, and the variance σ² is given as:
 </math>
 The role of the normal distribution in the [[central limit theorem]] is in part responsible for the prevalence of the variance in probability and statistics.
 
-===Exponential distribution===
+###Exponential distribution
 The [[exponential distribution]] with parameter λ is a continuous distribution whose support is the semi-infinite interval [0,∞). Its [[probability density function]] is given by:
 
 :<math>f(x) = \lambda e^{-\lambda x},\,</math>
@@ -78,7 +78,7 @@ and it has expected value μ = λ<sup>−1</sup>. The variance is equal to:
 
 So for an exponentially distributed random variable σ<sup>2</sup> = μ<sup>2</sup>.
 
-===Poisson distribution===
+###Poisson distribution
 The [[Poisson distribution]] with parameter λ is a discrete distribution for ''k'' = 0, 1, 2, ... Its [[probability mass function]] is given by:
 
 :<math>p(k) = \frac{\lambda^k}{k!} e^{-\lambda},</math>
@@ -89,16 +89,16 @@ and it has expected value μ = λ. The variance is equal to:
 
 So for a Poisson-distributed random variable σ<sup>2</sup> = μ.
 
-===Binomial distribution===
+###Binomial distribution
 The [[binomial distribution]] with parameters ''n'' and ''p'' is a discrete distribution for ''k'' = 0, 1, 2, ..., ''n''. Its [[probability mass function]] is given by:
 :<math>p(k) = {n\choose k}p^k(1-p)^{n-k},</math>
 and it has expected value μ = ''np''. The variance is equal to:
 :<math> \operatorname{Var}(X) = \sum_{k=0}^{n} {n\choose k}p^k(1-p)^{n-k} (k-np)^2 = np(1-p),</math>
 
-====Coin toss====
+###=Coin toss
 The binomial distribution with <math>p=0.5</math> describes the probability of getting <math>k</math> heads in <math>n</math> tosses.  Thus the expected value of the number of heads is <math alt="n/2">\frac{n}{2}</math>, and the variance is <math alt="n/4">\frac{n}{4}</math>.
 
-===Fair die<!--Singular: die; plural: dice. Don't change-->===
+###Fair die<!--Singular: die; plural: dice. Don't change-->
 A six-sided [[dice|fair die]] can be modelled with a discrete random variable with outcomes 1 through 6, each with equal probability <math>\textstyle\frac{1}{6}</math>. The expected value is (1&nbsp;+&nbsp;2&nbsp;+&nbsp;3&nbsp;+&nbsp;4&nbsp;+&nbsp;5&nbsp;+&nbsp;6)/6 =&nbsp;3.5. Therefore the variance can be computed to be:
 
 :<math>
@@ -118,9 +118,9 @@ The general formula for the variance of the outcome ''X'' of a die of n sides is
 \end{align}
 </math>
 
-==Properties==
+==Properties
 
-===Basic properties===
+###Basic properties
 Variance is non-negative because the squares are positive or zero.
 :<math>\operatorname{Var}(X)\ge 0.</math>
 
@@ -161,7 +161,7 @@ they are said to be [[Covariance#Definition|uncorrelated]].  It follows immediat
 
 Since [[Covariance#Uncorrelatedness and independence|independent random variables are always uncorrelated]], the equation above holds in particular when the random variables <math>X_1,\dots,X_n</math> are independent.  Thus independence is sufficient but not necessary for the variance of the sum to equal the sum of the variances.
 
-===Sum of uncorrelated variables (Bienaymé formula)===
+###Sum of uncorrelated variables (Bienaymé formula)
 {{see also|Sum of normally distributed random variables}}
 One reason for the use of the variance in preference to other measures of dispersion is that the variance of the sum (or the difference) of [[uncorrelated]] random variables is the sum of their variances:
 
@@ -173,7 +173,7 @@ This statement is called the [[Irénée-Jules Bienaymé|Bienaymé]] formula<ref>
 
 That is, the variance of the mean decreases when ''n'' increases. This formula for the variance of the mean is used in the definition of the [[standard error (statistics)|standard error]] of the sample mean, which is used in the [[central limit theorem]].
 
-===Product of independent variables===
+###Product of independent variables
 
 If two variables X and Y are [[Independence (probability theory)|independent]], the variance of their product is given by<ref>[[Leo Goodman|Goodman, Leo A.]], "On the exact variance of products," ''[[Journal of the American Statistical Association]]'', December 1960, 708–713.</ref><ref>Goodman, Leo A., "The variance of the product of K random variables," ''Journal of the American Statistical Association'', March 1962, 54ff.</ref>
 
@@ -183,7 +183,7 @@ If two variables X and Y are [[Independence (probability theory)|independent]], 
 &= E(X^2) E(Y^2) - [E(X)]^2 [E(Y)]^2.
 \end{align}</math>
 
-===Sum of correlated variables===
+###Sum of correlated variables
 
 In general, if the variables are [[correlated]], then the variance of their sum is the sum of their [[covariance]]s:
 
@@ -207,7 +207,7 @@ This formula is used in the [[Spearman–Brown prediction formula]] of classical
 
 Therefore, the variance of the mean of a large number of standardized variables is approximately equal to their average correlation. This makes clear that the sample mean of correlated variables does not generally converge to the population mean, even though the [[Law of large numbers]] states that the sample mean will converge for independent variables.
 
-===Weighted sum of variables===
+###Weighted sum of variables
 
 The scaling property and the Bienaymé formula, along with the property of the [[covariance]] {{math|Cov(''aX'',&nbsp;''bY'') {{=}} ''ab'' Cov(''X'',&nbsp;''Y'')}}  jointly imply that
 
@@ -219,7 +219,7 @@ The expression above can be extended to a weighted sum of multiple variables:
 
 :<math>\operatorname{Var}\left(\sum_{i}^n a_iX_i\right) = \sum_{i=1}^na_i^2 \operatorname{Var}(X_i) + 2\sum_{1\le i}\sum_{<j\le n}a_ia_j\operatorname{Cov}(X_i,X_j)</math>
 
-===Decomposition===
+###Decomposition
 
 The general formula for variance decomposition or the [[law of total variance]] is: If <math>X</math> and <math>Y</math> are two random variables, and the variance of <math>X</math> exists, then
 
@@ -239,7 +239,7 @@ Similar decompositions are possible for the sum of squared deviations (sum of sq
 :<math>\mathit{SS}_\text{total} = \mathit{SS}_\text{between} + \mathit{SS}_\text{within},</math>
 :<math>\mathit{SS}_\text{total} = \mathit{SS}_\text{regression} + \mathit{SS}_\text{residual}.</math>
 
-===Formulae for the variance===
+###Formulae for the variance
 {{Main|Algebraic formula for the variance|Algorithms for calculating variance}}
 A formula often used for deriving the variance of a theoretical distribution is as follows:
 
@@ -249,7 +249,7 @@ This will be useful when it is possible to derive formulae for the expected valu
 
 This formula is also sometimes used in connection with the sample variance. While useful for hand calculations, it is not advised for computer calculations as it suffers from [[catastrophic cancellation]] if the two components of the equation are similar in magnitude and floating point arithmetic is used. This is discussed in the article [[Algorithms for calculating variance]].
 
-===Calculation from the CDF===
+###Calculation from the CDF
 
 The population variance for a non-negative random variable can be expressed in terms of the [[cumulative distribution function]] ''F'' using
 
@@ -259,29 +259,29 @@ The population variance for a non-negative random variable can be expressed in t
 
 This expression can be used to calculate the variance in situations where the CDF, but not the [[probability density function|density]], can be conveniently expressed.
 
-===Characteristic property===
+###Characteristic property
 The second [[moment (mathematics)|moment]] of a random variable attains the minimum value when taken around the first moment (i.e., mean) of the random variable, i.e. <math>\mathrm{argmin}_m\,\mathrm{E}((X - m)^2) = \mathrm{E}(X)\,</math>. Conversely, if a continuous function <math>\varphi</math> satisfies <math>\mathrm{argmin}_m\,\mathrm{E}(\varphi(X - m)) = \mathrm{E}(X)\,</math> for all random variables ''X'', then it is necessarily of the form <math>\varphi(x) = a x^2 + b</math>, where {{nowrap|''a'' > 0}}. This also holds in the multidimensional case.<ref>{{cite doi|10.1016/S0167-7152(98)00041-8}}</ref>
 
-===Matrix notation for the variance of a linear combination===
+###Matrix notation for the variance of a linear combination
 
 Define <math>X</math> as a column vector of <math>n</math> random variables <math>X_1, \ldots,X_n</math>, and <math>c</math> as a column vector of <math>n</math> scalars <math>c_1, \ldots,c_n</math>. Therefore <math>c^T X</math> is a [[linear combination]] of these random variables, where <math>c^T</math> denotes the [[transpose]] of <math>c</math>. Also let <math>\Sigma</math> be the [[covariance matrix]] of  <math>X</math>. The variance of <math>c^TX</math> is then given by:<ref>{{Cite book | last1=Johnson | first1=Richard | last2=Wichern | first2=Dean | year=2001 | title=Applied Multivariate Statistical Analysis | publisher=Prentice Hall | page=76 | isbn=0-13-187715-1 | postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}} }}</ref>
 
 :<math>\operatorname{Var}(c^T X) = c^T \Sigma c .</math>
 
-===Units of measurement===
+###Units of measurement
 
 Unlike expected  absolute deviation, the variance of a variable has units that are the square of the units of the variable itself.  For example, a variable measured in meters will have a variance measured in square meters.  For this reason, describing data sets via their [[standard deviation]] or [[root mean square deviation]] is often preferred over using the variance.  In the dice example the standard deviation is √2.9&nbsp;≈&nbsp;1.7, slightly larger than the expected absolute deviation of&nbsp;1.5.
 
 The standard deviation and the expected absolute deviation can both be used as an indicator of the "spread" of a distribution.  The standard deviation is more amenable to algebraic manipulation than the expected absolute deviation, and, together with variance and its generalization [[covariance]], is used frequently in theoretical statistics; however the expected absolute deviation tends to be more [[Robust statistics|robust]] as it is less sensitive to [[outlier]]s arising from [[measurement error|measurement anomalies]] or an unduly [[heavy-tailed distribution]].
 
-==Approximating the variance of a function==
+==Approximating the variance of a function
 The [[delta method]] uses second-order [[Taylor expansion]]s to approximate the variance of a function of one or more random variables: see [[Taylor expansions for the moments of functions of random variables]]. For example, the approximate variance of a function of one variable is given by
 
 ::<math>\operatorname{Var}\left[f(X)\right]\approx \left(f'(\operatorname{E}\left[X\right])\right)^2\operatorname{Var}\left[X\right]</math>
 
 provided that ''f'' is twice differentiable and that the mean and variance of ''X'' are finite.
 
-==Population variance and sample variance==
+==Population variance and sample variance
 {{anchor|Estimation}}
 {{see also|Unbiased estimation of standard deviation}}
 {{move section portions|Unbiased estimation of standard deviation|date=April 2013}}
@@ -292,7 +292,7 @@ Firstly, if the mean is unknown (and is computed as the sample mean), then the s
 
 Secondly, the sample variance does not generally minimize [[mean squared error]], and correcting for bias often makes this worse: one can always choose a scale factor that performs better than the corrected sample variance, though the optimal scale factor depends on the [[excess kurtosis]] of the population (see [[Mean squared error#Variance|mean squared error: variance]]), and introduces bias. This always consists of scaling down the unbiased estimator (dividing by a number larger than ''n''&nbsp;−&nbsp;1), and is a simple example of a [[shrinkage estimator]]: one "shrinks" the unbiased estimator towards zero. For the normal distribution, dividing by ''n''&nbsp;+&nbsp;1 (instead of ''n''&nbsp;−&nbsp;1 or ''n'') minimizes mean squared error. The resulting estimator is biased, however, and is known as the '''biased sample variation'''.
 
-===Population variance===
+###Population variance
 In general, the '''''population variance''''' of a ''finite'' [[statistical population|population]] of size ''N'' with values ''x''<sub>''i''</sub> is given by
 
 :<math> \sigma^2 = \frac 1N \sum_{i=1}^N  \left(x_i - \mu \right)^2 = \left(\frac 1N \sum_{i=1}^N x_i^2\right) - \mu^2 </math>
@@ -303,7 +303,7 @@ where
 
 is the population mean. The population variance therefore is the variance of the underlying probability distribution. In this sense, the concept of population can be extended to continuous random variables with infinite populations.
 
-===Sample variance===
+###Sample variance
 In many practical situations, the true variance of a population is not known ''a priori'' and must be computed somehow.  When dealing with extremely large populations, it is not possible to count every object in the population, so the computation must be performed on a [[sample (statistics)|sample]] of the population.<ref>Navidi, William (2006) ''Statistics for Engineers and Scientists'', McGraw-Hill, pg 14.</ref> Sample variance can also be applied to the estimation of the variance of a continuous distribution from a sample of that distribution.
 
 We take a  [[statistical sample|sample with replacement]] of ''n'' values ''y''<sub>1</sub>,&nbsp;...,&nbsp;''y''<sub>''n''</sub> from the population, where ''n''&nbsp;<&nbsp;''N'', and estimate the variance on the basis of this sample.<ref>Montgomery, D. C. and Runger, G. C. (1994) ''Applied statistics and probability for engineers'', page 201. John Wiley & Sons New York</ref> Directly taking the variance of the sample data gives the average of the [[squared deviations]]:
@@ -335,7 +335,7 @@ The use of the term ''n''&nbsp;−&nbsp;1 is called [[Bessel's correction]], and
 
 The unbiased sample variance is a [[U-statistic]] for the function ''ƒ''(''y''<sub>1</sub>,&nbsp;''y''<sub>2</sub>) =&nbsp;(''y''<sub>1</sub>&nbsp;−&nbsp;''y''<sub>2</sub>)<sup>2</sup>/2, meaning that it is obtained by averaging a 2-sample statistic over 2-element subsets of the population.
 
-===Distribution of the sample variance===
+###Distribution of the sample variance
 {{multiple image
 <!-- Essential parameters -->
 | align     = right <!-- left/right/center/none --> 
@@ -380,11 +380,11 @@ where ''κ'' is the [[excess kurtosis]] of the distribution and ''μ<sub>4</sub>
 
 If the conditions of the [[law of large numbers]] hold for the squared observations, ''s''<sup>2</sup> is a [[consistent estimator]] of&nbsp;''σ''<sup>2</sup>. One can see indeed that the variance of the estimator tends asymptotically to zero.
 
-===Samuelson's inequality===
+###Samuelson's inequality
 
 [[Samuelson's inequality]] is a result that states bounds on the values that individual observations in a sample can take, given that the sample mean and (biased) variance have been calculated.<ref>{{cite journal |last=Samuelson |first=Paul |title=How Deviant Can You Be? |journal=[[Journal of the American Statistical Association]] |volume=63 |issue=324 |year=1968 |pages=1522–1525 |jstor=2285901 }}</ref> Values must lie within the limits <math>\bar y \pm \sigma_y (n-1)^{1/2}.</math>
 
-===Relations with the harmonic and arithmetic means===
+###Relations with the harmonic and arithmetic means
 
 It has been shown<ref>{{cite journal |first=A. McD. |last=Mercer |title=Bounds for A–G, A–H, G–H, and a family of inequalities of Ky Fan’s type, using a general method |journal=J. Math. Anal. Appl. |volume=243 |issue=1 |pages=163–173 |year=2000 |doi=10.1006/jmaa.1999.6688 }}</ref> that for a sample {''y''<sub>''i''</sub>} of real numbers,
 
@@ -400,11 +400,11 @@ This bound has been improved, and it is known that variance is bounded by
 
 where ''y''<sub>min</sub> is the minimum of the sample.<ref name=Sharma2008>{{cite journal |first=R. |last=Sharma |title=Some more inequalities for arithmetic mean, harmonic mean and variance |journal=J. Math. Inequalities |volume=2 |issue=1 |pages=109–114 |year=2008 }}</ref>
 
-==Semivariance==
+==Semivariance
 
 The ''semivariance'' is calculated in the same manner as the variance but only those observations that fall below the mean are included in the calculation. It is sometimes described as a measure of [[downside risk]] in an [[investment#In finance|investments]] context. For skewed distributions, the semivariance can provide additional information that a variance does not{{Cn|date=June 2015}}.
 
-==Generalizations==
+==Generalizations
 {{merge|section=y|Covariance#Complex random vectors|target=Complex variance and covariance|date=June 2015}}
 
 If <math>x</math> is a scalar [[complex number|complex]]-valued random variable, with values in <math>\mathbb{C}</math>, then its variance is <math>\operatorname{E}((x - \mu)(x - \mu)^*)</math>, where <math>x^*</math> is the [[complex conjugate]] of <math>x</math>.  This variance is also a complex scalar.
@@ -413,7 +413,7 @@ If <math>X</math> is a [[vector space|vector]]-valued random variable, with valu
 
 If <math>X</math> is a vector- and complex-valued random variable, with values in <math>\mathbb{C}^n</math>, then the generalization of its variance is <math>\operatorname{E}((X - \mu)(X - \mu)^\dagger)</math>, where <math>X^\dagger</math> is the [[conjugate transpose]] of <math>X</math>.  This matrix is also positive semi-definite and square.
 
-==Tests of equality of variances==
+==Tests of equality of variances
 
 Testing for the equality of two or more variances is difficult. The [[F test]] and [[chi square test]]s are both adversely affected by non-normality and are not recommended for this purpose.
 
@@ -423,7 +423,7 @@ The [[Lehman test]] is a parametric test of two variances. Of this test there ar
 
 Resampling methods, which include the [[Bootstrapping (statistics)|bootstrap]] and the [[Resampling (statistics)|jackknife]], may be used to test the equality of variances.
 
-==History==
+==History
 The term ''variance'' was first introduced by [[Ronald Fisher]] in his 1918 paper ''[[The Correlation Between Relatives on the Supposition of Mendelian Inheritance]]'':<ref>[[Ronald Fisher]] (1918) [http://digital.library.adelaide.edu.au/dspace/bitstream/2440/15097/1/9.pdf The correlation between relatives on the supposition of Mendelian Inheritance]</ref>
 
 <blockquote>The great body of available statistics show us that the deviations of a [[biometry|human measurement]] from its mean follow very closely the [[Normal distribution|Normal Law of Errors]], and, therefore, that the variability may be uniformly measured by the [[standard deviation]] corresponding to the [[square root]] of the [[mean square error]]. When there are two independent causes of variability capable of producing in an otherwise uniform population distributions with standard deviations <math>\sigma_1</math> and <math>\sigma_2</math>, it is found that the distribution, when both causes act together, has a standard deviation <math>\sqrt{\sigma_1^2 + \sigma_2^2}</math>.  It is therefore desirable in analysing the causes of variability to deal with the square of the standard deviation as the measure of variability.  We shall term this quantity the Variance...</blockquote>
@@ -433,7 +433,7 @@ The term ''variance'' was first introduced by [[Ronald Fisher]] in his 1918 pape
 <br />2. The centroid of the distribution gives its mean.
 <br />3. A square with sides equal to the difference of each value from the mean is formed for each value.
 <br />4. Arranging the squares into a rectangle with one side equal to the number of values, ''n'' results in the other side being the distribution's variance, ''&#963;''&#178;.]]
-==Moment of inertia==
+==Moment of inertia
 {{see also|Moment (physics)#Examples}}
 The variance of a probability distribution is analogous to the  [[moment of inertia]] in [[classical mechanics]] of a corresponding mass distribution along a line, with respect to rotation about its center of mass.{{Citation needed|date=February 2012}}  It is because of this analogy that such things as the variance are called ''[[moment (mathematics)|moment]]s'' of [[probability distribution]]s.{{Citation needed|date=February 2012}} The covariance matrix is related to the [[moment of inertia tensor]] for multivariate distributions. The moment of inertia of a cloud of ''n'' points with a covariance matrix of <math>\Sigma</math> is given by{{Citation needed|date=February 2012}}
 :<math>I=n (\mathbf{1}_{3\times 3} \operatorname{tr}(\Sigma) - \Sigma).</math>
@@ -442,7 +442,7 @@ This difference between moment of inertia in physics and in statistics is clear 
 That is, there is the most variance in the ''x'' direction. However, physicists would consider this to have a low moment ''about'' the ''x'' axis so the moment-of-inertia tensor is
 :<math>I=n\begin{bmatrix}0.2 & 0 & 0\\0 & 10.1 & 0 \\ 0 & 0 & 10.1\end{bmatrix}.</math>
 
-==See also==
+==See also
 {{Portal|Statistics}}
 {{Wiktionary|variance}}
 {{colbegin|colwidth=20em}}
@@ -470,7 +470,7 @@ That is, there is the most variance in the ''x'' direction. However, physicists 
 * [[Weighted mean#Weighted sample variance|Weighted sample variance]]
 {{colend}}
 
-==Notes==
+==Notes
 {{Reflist|30em}}
 
 {{Theory of probability distributions}}

@@ -1,6 +1,6 @@
-= Preface
+# Preface
 
-== For the technically minded
+## For the technically minded
 The files for this book are kept as git repositories on both github and bitbucket. You can fork my source from either repository!
 
 Most of the actual writing is done on  http://www.gitbook.com[gitbook.com]. 
@@ -17,7 +17,7 @@ As as a backup to the backup, I'm also keeping a copy on https://bitbucket.com[b
 I am not an expert on git. It does seem a much under-used technology, which has applications beyond pure source control for programmers, which is where it started. The combination of it, and ascii-based markup, is, I believe, a great way to write books collaboratively.
 
 
-=== What this book is written in
+### What this book is written in
 I have written the text of this book in a lightweight markup language called http://asciidoctor.org/docs/what-is-asciidoc/[asciidoc]. This is fairly self-explanatory, and looks like plain text with a bit of fairly straightforward
 decoration. If you want to know more, I recommend  http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[this cribsheet]  footnote:[asciidoctor is a pretty cool Ruby application that can be run on Windows, but I recommend looking at the Chrome extension that allows viewing of asciidoc files directly in the browser. This does not require any software to be installed locally.] and also http://www.methods.co.nz/asciidoc/userguide.html[this one]. 
 If you ask to collaborate, and use the online editor, where you can see the markup and display preview alongside each other in real time, you probably won't even need the cribsheet.

@@ -63,7 +63,7 @@ My short position in CL has helped to protect me against fairly weak performance
 
 My long Treasury Notes/short Bunds has not been outstanding, but at least my hedged exposure to global interest rates has been better than it might have been had I just shorted Bunds.
 
-== 10 Jan
+## 10 Jan
 I have shorted CL and gone short CNH.HKD. 
 
 Rationale: hints of weak global economic growth reverberate in the price of oil.
@@ -74,7 +74,7 @@ I had not realized that the only currency pairs that are tradeable on IB for CNH
 
 Of course the potential fly in the ointment is that PRC changes the rules of the currency board, but I'll take a chance, at least to the extent of my modest current currency pair exposure.
 
-== End Jan
+## End Jan
 
 The decision to short CL was fully justified. The equity market, behaving as irrationally as ever, was falling as crude was falling. The justification (_post hoc_) was as follows:
 

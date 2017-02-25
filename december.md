@@ -1,4 +1,4 @@
-= December
+# December
 
 This month was dire. My main exposure is to european stocks. 
 They continued to sag as concerns over the middle east, Paris bombings,
