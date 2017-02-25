@@ -1,6 +1,6 @@
-= Trading Diary
+# Trading Diary
 
-== Week Ended 24 July 2015
+## Week Ended 24 July 2015
 
 This was a fairly grim week. The portfolio exposure has been reduced to
 below £400K, in terms of margin and well below £300K in terms of VaR on
@@ -21,7 +21,7 @@ Janet Yellen,
 * Collapses of the price of commodities and mining companies as the full
 realization of how much malinvestment has been sunk into mines lately
 sinks in.
-* http://www.bloomberg.com/news/articles/2015-07-27/chinese-stock-index-futures-drop-before-industrial-profits[China Has Biggest One-Day Stock Crash Since 2007]
+* [China Has Biggest One-Day Stock Crash Since 2007](shttp://www.bloomberg.com/news/articles/2015-07-27/chinese-stock-index-futures-drop-before-industrial-profits)
 
 References:
 
@@ -33,9 +33,9 @@ US economy bolsters case for rate rise]
 * http://www.ft.com/cms/s/0/ae2e9730-31b1-11e5-8873-775ba7c2ea3d.html[GMO
 for 24 July 2015]
 
-'''''
+----
 
-== Monday 27 July
+## Monday 27 July
 
 The market seems fixated on the weakness of the Chinese economy, and, by
 extension that of the rest of the planet. Many Chinese stocks have gone
@@ -61,7 +61,7 @@ broad sell-off in equities.
 Equities have dropped by around three percent over the last week. I am holding on for a bounce tomorrow!
 
 
-== Tuesday 28 July
+## Tuesday 28 July
 
 Mark Haefele of UBS has
 http://www.ft.com/cms/s/0/0f52ef40-2c8d-11e5-acfb-cbd2e1c81cca.html#axzz3h5korLPr[a
@@ -90,7 +90,7 @@ The euro has been very strong lately, but I feel that this is just mean
 reversion after the dollar shot up in anticipation of a rate rise in the
 Autumn.
 
-image:SPX-snapshot.png[alt="S&P500 since 2007" Chart for the day.]
+image:SPX-snapshot.png[alt#"S&P500 since 2007" Chart for the day.]
 
 
 At 16:30 UK time the portfolio is up 0.5%. This is a modest bounce from
@@ -100,9 +100,9 @@ doesn’t help very much as it is amplifying the swings when the market
 gets panicky. I need to reduce the US equity element, I think, as I’m
 getting nervous about the dominance of growth stocks in the SP500.
 
-'''''
+----
 
-== Wednesday 29 July
+## Wednesday 29 July
 
 Things are settling down nicely. Portfolio up 0.5% at 18:40. Fed statement on rates today. I don't know what was said, but it seems to have gone down well: SPX up 0.46%. 
 
@@ -113,10 +113,10 @@ ZN down 0.23%, consistent with Fed statement implying early rate rises. GBL, R a
 
 Seems that Fed announcement was not much of a shock, since DX barely moved.
 
-'''''
+----
 
 
-== Thursday 30 July
+## Thursday 30 July
 
 
 At 11:20, Major indexes up, AAA bonds up. Dollar flat. 
@@ -128,10 +128,10 @@ VaR now sitting at 6.2%. Acceptable, but would like to get it to 5% of portfolio
 Decided to close the IBB position. This strategy needs to be examined later, in more detail.
 
 
-'''''
+----
 
 
-== Friday 31 July
+## Friday 31 July
 
 Finally my limit order to sell MXEA at 1872 was triggered. Unfortunately I'd sold one lot earlier, so I ended up with a one-lot short position. Not a lot of 
 damage was done, bit I should have adjused the limit order.
@@ -141,9 +141,9 @@ which has a wonderfully low expense ratio, but also EFA, which is the ETF equiva
 I have now pushed the VaR expected maximum loss to 5% of the portfolio value, which is a comfortable level that could be increased to take advantage of a rebound from a major market
 movement.
 
-'''''
-== August
-=== Monday 3 Aug
+----
+## August
+### Monday 3 Aug
 Europe was up a lot earlier this morning, and I just wondered whether I should get exposure via DJ600 (the full 600 stock future) rather than the STOXX 50. 
 In general my attitude is always '`the bigger the number of stocks in the index the better`', as long as I don't have to pay much for the privilege.
 
@@ -152,8 +152,8 @@ I also felt that having 100% GBP currency exposure was possibly bad. I therefore
 The market moved against me in the afternoon: ACWI down .18%, but I managed to reshuffle my exposure without realizing any losses. 
 Not sure what is driving the market down: EEM seems very weak, so maybe its yet more bad news coming out of China.
 
-'''''
-=== Tuesday 4 August
+----
+### Tuesday 4 August
 Got cold feet yesterday and transmitted a couple of sell orders to reign back the position. 
 Because of the early rally in European equities I'd bought some MXEA, but this slumped later in the day.
 To reduce the overall risk of the position I put in a sell order which was triggered this morning. 
@@ -166,8 +166,8 @@ Current daily movements trending to around the 10bp level, which is really just 
 To be fair, though, the markets are quite quiet too.
 
 
-'''''
-=== Wednesday 5 Aug
+----
+### Wednesday 5 Aug
 Equity markets rose strongly early, for reasons which seem to be connected with a light private payrolls number.  
 This is supposed to delay the point when the Fed will raise rates.
 Bonds (GBL, R, ZN and BTP) were all down between about a half a percent and one percent.
@@ -176,9 +176,9 @@ Equities fell back later in the day.
 
 I took the advantage to take profits on a couple of positions, lowering my VaR to the lowest it has been for months. The only equity futures position I have now is OBX, which I probably should never have bought: it seems to trade only ever couple of days.
 
-'''''
+----
 
-=== Weekending 8th Aug
+### Weekending 8th Aug
 
 The end of the week was pretty disappointing. The payroll numbers were pretty much as expected: 215K, but the market didn't like them. 
 It's not really clear whether the problem is that 'the market expects' interest rates to increase because of the strength of the economy, or the stock market to decline, because of the weakness of the economy.
@@ -190,9 +190,9 @@ My main splurge was on ten contracts of ES, which is, in the new cautious tradin
 
 I was tempted to punt on TSLA, which I regard as a faintly ridiculous company. I shorted 6.2% of my position, which is, in retrospect, quite brave. 
 The position was closed out via a saved limit order at the open on Monday at a modest profit, but I really must stick to my guns and avoid individual stocks.
-'''''
+----
 
-=== Monday 10 Aug
+### Monday 10 Aug
 
 On Monday the market rallied. 
 I yielded to temptation again to put on some extra exposure to the equities market 'now that the bearish phase is finally over'.  Purchases of VNQ, AMLP, DJ600 Sept, REM, VDE and BRK B. 
@@ -200,10 +200,10 @@ I yielded to temptation again to put on some extra exposure to the equities mark
 As the (US) morning wore on the day got better and better. 
 
 Currently I'm getting away with it. Total VaR loss still only 222K, so I haven't gone mad.
-'''''
+----
 
 
-=== Tuesday 18 Aug
+### Tuesday 18 Aug
 
 Well, the market has resolutely drifted sideways.
 
@@ -239,8 +239,8 @@ technology I do no think that it will ever transition to a first world country u
 Russia is rapidly becoming a failed state. It went straight from communist dictatorship to kleptocrat dictatorship, and will not exit that state without a major crisis.
 
 
-'''''
-== October 15
+----
+## October 15
 
 There are tentative signs that Europe's economy is starting to take off. Mario Draghi seems to have overcome the opposition from the Bundesbank to buy government bonds. Far from generating hyperinflation, however, interest rates in Europe, both short and long term, have never been lower. Most of the continent has negative short term rates, which, until it happened, was thought to be impossible. 
 

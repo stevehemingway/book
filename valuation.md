@@ -1,7 +1,7 @@
-= Valuation
+# Valuation
 this is hard
 
-== How to value stuff
+## How to value stuff
 
 Making money by trading is a piece of cake: buy undervalued securities and sell overvalued ones.
 This reduces all trading to an exercise in valuation.
@@ -14,9 +14,9 @@ Unfortunately, it is extremely difficult to identify mis-valued securities.
 The market is a crowd, and as Francis Galton spotted, a long time a go, under some reasonable constraints, crowds are remarkably good at estimating things like the correct value of a security. <<{{book.bibliography}}#surowiecki, Surowiecki>> has a lot to say about this.
 
 
-== Valuation
+## Valuation
 
-=== Academic approach
+### Academic approach
 The simplest securities to value are those which are risk free. 
 This simply requires one to know the right discount factor.
 These discount factors can be inferred from the prices of securites which have 
@@ -46,7 +46,7 @@ For more information check out
 * https://en.wikipedia.org/wiki/Net_present_value[Present Value].
 
 
-== Asset Classes
+## Asset Classes
 
 A lot of rubbish is written about asset classes. 
 The general idea is to increase diversification.
@@ -65,7 +65,7 @@ To my mind the most important asset classes are:
 .	commodities.
 
 
-=== Equities
+### Equities
 
 The limited liability company was a wonderful invention. 
 The existence of shares arises from a set of contractual relationships between principal and agent. The principal is the provider of capital, the agent is the board.  
@@ -83,9 +83,9 @@ He is not too worried though: the retained earnings are largely reflected in the
 This is why valuation of shares generally focusses more on earnings: the surplus of income over costs, than dividends: cash paid to shareholders.
 
 
-==== Valuation Comparables
+#### Valuation Comparables
 
-===== Market Cap to GDP
+##### Market Cap to GDP
 
 The natural question to ask about whether a market is overpriced is
 ``compared to what?''. A lot of valuation metrics arise from various
@@ -117,37 +117,37 @@ Note that this is a dimensionally dubious measure: market cap is a 'stock' where
 
 // Ali, can you have a look a this?
 
-==== Equities as a call option
+#### Equities as a call option
 This is the idea that bondholders own the assets of a company until they have been paid off in full.
 I'm not sure that for practical purposes this helps in day to day investing.
 It does mean, however, that even a company that has zero, or negative asset value in accounting terms may still have a value as a tradeable security. It also explains why shareprices can have a very non-linear response to economic variables, e.g. commodity prices.
 
-==== Small Cap
+#### Small Cap
 Small cap stocks undoubtedly offer many opportunities for the investor who is prepared to do his homework.
 Large companies often have many analysts poring over their reported results, and market position, but 
 smaller ones can remain unexamined, leaving them, potentially, as hidden gems. However, the downside is that the shares will be less liquid, so that finding a willing seller may be hard, and, they are likely to be more volatile when they do trade.
 
-==== Large Cap
+#### Large Cap
 Hidden value in larger stocks is less likely, but at least it's easier to buy and sell them. It is also more likely that it will be possible to get an exposure to them via derivatives. In the UK or US, Contracts for Difference may be available.
 
 
-==== Bonds
+#### Bonds
 A bond is the purest form of exchanging a fixed value of consumption today for a fixed, but larger, amount of consumption in the future. The fixing is in  terms of a fixed amount of currency. Generally, for bonds of maturity more than a few months, a coupon is paid, which complicates the calculation of a redemption yield, but for our purposes simply reassures the investor that the issuer is still making money.
 
 A bond is a _transferable_ debt obligation otherwise it would be much more difficult to invest in it. 
 It's easy enough to loan money, but to get an good handle on the risk that the borrower will repay the loan is a different thing entirely. See _credit risk_.
 
-===== Issuers
+##### Issuers
 Corporates and governments issue bonds. Because there are so many corporate issues, all with different maturities and coupons, the only truly liquid bonds are ones issued by governments. 
 These are certainly the only ones on which derivatives are issued, and, realistically, the only ones you want to invest in. Government issues are free of credit risk, but nevertheless carry the risk that inflation will destroy the real value of the investment.
 
 
-==== FX
+#### FX
 
 Generally, investing in an 'asset' involves going short cash. 
 In reality, there are many currencies, and it is possible to buy and 
 
-==== Commodities
+#### Commodities
 Commodities have produced spectacular returns for some investors over the last twenty years. 
 There are well-developed and liquid futures markets in many commodities, and in the run up to 
 2008 commodity prices seemed to be gravity-defying as world demand, particularly from developing markets,
@@ -164,7 +164,7 @@ There are liquid futues on this, and it's possible to buy ETFs.
 
 From an economic point of view, commodity prices are strongly correlated with inflation. Given that most commodities are priced in US dollars, this really is US price inflation.  For an investor based outside the US, it's worth bearing this in mind. If one has a strong directional view on inflation, the alternative to an exposure to commodities is to go long or short government bonds. 
 
-==== Real Estate
+#### Real Estate
 Property produces a stream of income after the initial investment. Although buildings require maintenance and insurance, once they are built they generally are a reliable stream of income, and this income is usually -- depending on the exact terms of the lease -- maintained in real, inflation-adjusted terms.
 
 It is possible to invest in property via securities. Most people are very familiar with the idea of investing in a house, either one to live in, or to rent out. People invest in houses because of familiarity, ease of financing, transparency, and low (or non-existent)  management fees, and, in the case of owner-occupation, a absence of tax on the implicit income of living in the property. In the UK there is also very favourable tax treatment of capital gains on disposal of owner occupied property. Moreover, very strict planning laws lead to a highly constricted supply situation. The combination of these factors makes investing in residential property a very popular strategy today.
