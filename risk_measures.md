@@ -30,11 +30,12 @@ Some authors footnote:[Spitznaegel]  reject the whole efficient market hypothesi
 
 ## Value at Risk
 
+<!---
 $$
-{Var}\left(\sum_{i}^n a_iX_i\right) # \sum_{i#1}^na_i^2 {Var}(X_i) + 
+{Var}\left(\sum_{i}^n a_iX_i\right) = \sum_{i=1}^na_i^2 {Var}(X_i) + 
 2\sum_{1\le i}\sum_{<j\le n}a_ia_j{Cov}(X_i,X_j)
 $$
-
+-->
 
 ## Broker and Exchange Margins
 
@@ -74,9 +75,11 @@ much more difficult to pull off.
 If you do wish to attempt this strategy, CAPM will allow you to construct a market neutral
 portfolio.
 
+<!---
 $$
-\frac {E(R_i)- R_f}{\beta_{i}}  # E(R_m) - R_f   
+\frac {E(R_i)- R_f}{\beta_{i}}  = E(R_m) - R_f   
 $$
+-->
 
 ## Risk and Gearing
 

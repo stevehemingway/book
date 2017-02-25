@@ -1,6 +1,6 @@
-== Bibliography
+## Bibliography
 
-=== Books
+### Books
 
 -	[[brealey-and-myers]] http://www.amazon.co.uk/Principles-Corporate-Finance-Richard-Brealey/dp/1259009513[Brearley and Myers, Principles of Corporate Finance] 
 
@@ -31,7 +31,7 @@
 
 -   [[warburton]] http://www.amazon.com/Debt-Delusion-Threaten-Economic-Disaster/dp/0977079333[Debt and Delusion] (or ``Central Bank Follies that Threaten Economic Disaster'' ). This is an extraordinary book that got dismissive reviews when it was published, hardly sold at all, but then was hailed as uncannily prescient then the economic disaster that did strike in 2008 finally hit.  
 
-=== Internet Resources
+### Internet Resources
 -	[[the-money-illusion]] http://www.themoneyillusion.com/[The Money Illusion].
 
 -	[[zero-hedge]] http://zerohedge.com[Zero Hedge] the antidote to the market cheerleaders employed by the banks on the sell side, and basically the whole of Wall Street.

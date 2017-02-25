@@ -105,7 +105,7 @@ Each investor will have a value to him of
 $$
  \sum_{i} Exp(pv_i ) 
 $$
-where $$ pv_i # c_i d_i $$ and $$ d_i # d(t_i) $$
+where $$ pv_i = c_i d_i $$ and $$ d_i = d(t_i) $$
 and the expectation is formed over the probability distribution for
 receiving $$ c_i $$ at time latexmath:$$ t_i $$.
 
