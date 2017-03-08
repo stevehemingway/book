@@ -23,11 +23,12 @@
   * [risk\_measures](risk_measures.md)
   * [passive\_investing](passive_investing.md)
   * [derivatives](derivatives.md)
-    * 
-  * * 
+    \* 
+  * \* 
   * [funding](#)
 
   * [Valuation](valation.md)
+
   * [Asset Classes](asset_classes.md)
   * [All Weather Portfolios](all_weather_portfolios.md)
   * [valuation](#)
