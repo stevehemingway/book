@@ -1,24 +1,29 @@
 # Read Me
+
 This is my attempt to write a book on investing.
 
-## 6 March  2016 
-I have decided to move back towards Markdown and also to re-focus the message of the book so it is more of a toolkit for investing action. 
+## 8 March 2017
 
-# Introduction
+Ugh, too long has elapsed. I am still using gitbook, and have started to re-organize this.
 
-This book is to tell you about how to take control of your savings. 
-It is not about selling you anything. I do not run seminars or residential courses. If you want to learn more you'll have to look at the books and websites in my bibliography.
+## 6 March  2016
 
-I wrote this because:
+I have decided to move back towards Markdown and also to re-focus the message of the book so it is more of a toolkit for investing action.
+
+# The General Idea
+
+This book is to tell you about how to take control of your savings. It is my attempt to record my successes, and failures as a private investor. It is a work in progress. If I have successes, may they inspire you. If I have failures, may some good come of them, as a guide how to avoid mistakes.  
+
+
+I do not claim to be a great expert on investing. However:
 
 * I have been doing this for my own savings for a long time, and I felt that I'd learned some valuable lessons that I should share.
 
-* the industry that provides financial advice has become too conflicted by the opportunity to charge fees.
+* I do do not want your money, unlike many of those who would offer you investment advice.
 
-* the Internet really has changed everything, when it comes to investing, and there is really no need nowadays to rely on an expensive human financial advisor.
-
+* Software really is eating the world, and nowhere more than in the finance industry. Tools that could be afforded only by traders in the biggest banks can now be used at no or nominal cost by private investors. There are even fewer reasons now to use a professional asset manager than there ever were in the past.
 
 This book will  turn you into the next George Soros or John Paulson. It will not equip you to be convince anyone to fund your new hedge fund startup.  However, it should allow you to manage your own investments with confidence. Your performance should be good enough to outperform the  majority of fund managers. You will need to factor the extra time you spend researching, but you can offset this against your brokerage fees.
 
-
 Steve Hemingway
+
