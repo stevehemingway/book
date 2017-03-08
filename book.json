@@ -17,15 +17,15 @@
         "color": "#FFF"
     },
     "structure": {
-        "readme": "README.adoc",
-        "summary": "SUMMARY.adoc"
+        "readme": "README.md",
+        "summary": "SUMMARY.md"
     },
     "variables": {
         "host": "gitbook.com",
         "author_name": "Steve Hemingway",
         "author_email": "steve.hemingway@gmail.com",
         "best_brokerage": "Interactive Brokers",
-        "bibliography": "bibliography.adoc"
+        "bibliography": "bibliography.md"
     },
     "title": "Investing 101 (working title)",
     "gitbook": ">=2.0.0"
