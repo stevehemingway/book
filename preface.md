@@ -29,4 +29,4 @@ No information is presented only in the equations: they are just to link up this
 
 
 
-{% include "copyright.adoc" %}
+
