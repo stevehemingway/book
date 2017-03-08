@@ -1,6 +1,5 @@
 # Current Issues
 
-
 ## Trading Strategies
 An old boss of mine used to say ``There are no such thing as problems,
 only opportunities''. I was not convinced about this, but in investing
@@ -16,8 +15,8 @@ returns in recent decades, to the extent that the Cult of Equity has
 died, or at is at least in the Intensive Care Unit.
 
 This is all old news, and many people have got rich going long treasury bonds. 
-The question is, are we nearly there (at the end of the cycle) yet? <<{{book.bibliography}}#the-money-illusion,Scott Sumner>> thinks
-`probably not', on the grounds that US monetary policy is very tight still. He thinks that Eurozone policy may be even tighter. 
+The question is, are we nearly there (at the end of the cycle) yet? Scott Sumner thinks
+'probably not', on the grounds that US monetary policy is very tight still. He thinks that Eurozone policy may be even tighter. 
 This is based on the rate of growth of nominal GDP, which has been very slow since the Global Financial Crisis. 
 There is a long, honourable tradition of supporting nominal GDP targeting as the correct policy objective of a central bank.
 
@@ -38,7 +37,6 @@ This is not the case with the ECB, which is very concerned about Euro strength, 
 The argument is, then, that the dollar will soar.  For a pro-dollar article see http://on.ft.com/1LV5XXo[The world gears up for a surge in the US dollar]
 
 ## 2016 Strategies from Sight Beyond Sight
-
 
 ### Equities  
 
