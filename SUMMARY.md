@@ -14,6 +14,7 @@
 * [opening\_remarks](opening_remarks.md)
 
 * [README](README.md)
+
 * [stock\_tickers](stock_tickers.md)
 * [trading](trading.md)
 * Theory
@@ -33,5 +34,5 @@
   * [GLOSSARY](#)
 * [Test Article](test-article.md)
 
-
+{{}}
 
