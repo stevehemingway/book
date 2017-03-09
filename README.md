@@ -1,10 +1,11 @@
+<<<<<<< HEAD
 # Read Me
 
 This is my attempt to write a book on investing.
 
 ## 8 March 2017
+I have decided to move back towards Markdown and also to re-focus the message of the book so it is more of a toolkit for investing action. 
 
-Ugh, too long has elapsed. I am still using gitbook, and have started to re-organize this.
 
 ## 6 March  2016
 
