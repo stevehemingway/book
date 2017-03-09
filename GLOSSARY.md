@@ -9,7 +9,6 @@ but I rather admire it.
 Your trade may not be executed where you think it was going to be. 
 The SEC puts an obligation on brokers to '`be reasonable`' about this.
 
-
 ## efficient market hypothesis
 The idea that the price of a security reflects all publicly available
 information about it at all times.
