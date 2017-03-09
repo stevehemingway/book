@@ -6,7 +6,6 @@
         "w": 1800,
         "h": 2360
     },
-    "pluginsConfig": {},
     "author": "Steve Hemingway",
     "background": {
         "color": "#09F"
@@ -25,7 +24,6 @@
         "author_name": "Steve Hemingway",
         "author_email": "steve.hemingway@gmail.com",
         "best_brokerage": "Interactive Brokers",
-        "bibliography": "bibliography.md"
     },
     "title": "Investing 101 (working title)",
     "gitbook": ">=2.0.0"
