@@ -302,210 +302,128 @@ invest. The S&P500 is now at a very steep valuation, and to buy now is
 to risk being long when the market crashes. It is certainly the case 
 that markets go up steadily and then crash precipitously.
 
-Growth
+## Growth
 
 Some industries, and companies, are likely to grow faster than others.
-
 Internet stocks are likely to grow quicker than steel manufacturers.
-
 Given that assets will flow to equalize the returns on the two types of
-
 stock, it follows that growth stocks will have a lower yield (dividend,
-
 and earnings) than the alternatives.
 
 The growth style of investing tries to identify stocks with genuine
-
 growth prospects. This tends to be a popular investment style in a macro
-
 environment with strong economic growth.
 
-Value
+## Value
 
 Value investing is associated with Ben Graham, ??? Dodd and Warren
-
 Buffett. This attempts to examine companies’ accounts closely to
-
 identify undervalued companies, especially those which are out of favour
-
 whose price has dropped below a `fair' value. Buffett’s style also
-
 attempts to identify sustainable competitive advantage footnote:[Buffett
-
 has written extensively on his philosophy of investing and on many other
-
 varied topics in finance.]
 
-Sector rotation
+## Sector rotation
 
 Sectors go in and out of fashion. 
-
 Multiples theoretically reflect growth prospects, but growth is something that must come to an end.
-
 It is, in general, impossible to know whether a sector is cheap because it is despairately unfashionable,
-
 or because there genuinely are a lot of companies in it which are about to fold. 
-
 It may be that both are applicable.
 
 There is always something being written in Seeking Alpha about which sector is about to come back from the dead, but beware that these are usually written by fans of the sector.
 
 It is generally the case that earnings are much less volatile than a stock price, and that yields are mean-reverting.
 
-Technical Trading and Mean Reversion
+## Technical Trading and Mean Reversion
 
 Equity markets typically have an annual standard deviation of 20%. This
-
 is an annual variance of 4%. A typical daily variance, given there are
-
 roughly 200 trading days per year is therefore a typical daily SD is
-
 1.4%, so once or twice a year you can expect to see moves of around 3%.
-
 This is a big move, the sort that leads to margin calls and heart
-
 attacks for holders of highly geared positions. It is also the sort of
-
 move that is likely to prove profitable for those who are confident
-
 enough that this does not signal the start of the next bull or bear
-
 market and have equity reserves remaining to extend or sustain a
-
 position to express this view.
 
 There is a fundamental contradiction between mean reversion and the zero
-
 autocorrelation behaviour predicted by the EMH. As a non-trader, I
-
 believed that traders could not beat the market, but my practical
-
 experience of seeing large moves in the market leads me to believe that
-
 mean reversion is a fact of life at extremes of the market. I do not
-
 truly know the mechanism for this, but I think that it is something to
-
 do with forced closing of positions which are adversely affected by
-
 sudden large moves. A brokerage will close out a position when
-
 inadequate margin has been posted. Brokerages vary, but none are patient
-
 when it comes to waiting for margin calls to be met.
 
-Macro Trading
+## Macro Trading
 
 Most investors depend on fund managers to make investment decisions for
-
 them. Most fund managers are concerned with a small sector of the
-
 universe of financial assets. Some will focus on UK large cap stocks,
-
 others on small cap, others on emerging markets debt, others on `special
-
 situations' (takeovers and mergers), there are many flavours of debt
-
 funds. It is widely known that decisions about asset allocation are
-
 usually more important than decisions about individual securities, but
-
 these are often taken by default: either by the investor who selects a
-
 fund, often based on its recent performance, or marketing, or because a
-
 regulator has decreed that certain types of saving must be allocated to
-
 `low risk' assets. This is particularly true of pension savings, which
-
 are the biggest source of investment [check this and give reference],
-
 where, increasingly, regulators require cashflows from the asset to
-
 match the liability. Because cashflows from equities are uncertain,
-
 relative to cashflows required to service annuities, this effectively
-
 drives savings into fixed-income products.
 
 I believe that by holding a portfolio that has the potential to hold a
-
 very wide range of financial assets, it is possible to profit from
-
 correctly calling changes in the global economy. This requires an
-
 understanding of how different asset classes will react to unexpected
-
 changes in the wider economy, and an edge on other investors on
-
 predicting the evolution of how the global economy will evolve.
 
-Turning Japanese
+## Turning Japanese
 
 We live in oriental times. In 1992, because of bad lending to finance
-
 property purchases, Japanese banks were pushed to the brink. To avert a
-
 collapse of the Japanese economy, the government adopted extreme
-
 monetary stimulus, pushing `risk free' rates down to approximately zero,
-
 encourage borrowing and capital investment, and, incidentally, prevent
-
 major failures of large banks. When reducing interest rates failed to
-
 have the desired effect, the government set about buying assets,
-
 particularly government bonds, as a way of continuing the war on
-
 stagnation by other means.
 
 Something spookily similar happened in the West in 2008. It was widely
-
 expected that flooding the economy with high powered money would cause
-
 inflation, and growth, but, as in Japan sixteen years earlier, this
-
 didn’t happen. Instead the West joined Japan in a period of weak growth,
-
 and low inflation, and a continued bull market in risk free assets. What
-
 happens next is the most important question for traders.
 
 Central bank governors in the USA have stated that interest rates are
-
 about to start rising. This did actually happen in Japan, but the impact
-
 on the economy was so bad that the policy was reversed, and the central
-
 bank returned to more `unconventional' monetary policy, with the
-
 government deciding on various policies to boost demand and reduce the
-
 rigidity in the supply side of the economy. [Check what the `three
-
 arrows' of Abenomics are: presumably monetary, supply-side reforms and
-
 ?foreign exchange policy]
 
 Japan and the West have not followed exactly the same path. The Nikkei
-
 is still well below its peak in 1992, whereas the S&P500 has more than
-
 tripled since 2009. Bond yields of developed countries throughout the
-
 world are hitting their lowest value ever. Strong corporate names can
-
 issue paper at unprecedently cheap rates, and have done so, often to
-
 return cash to shareholders in the form of dividends or buybacks, but
-
 rarely to invest in capital assets, which the possible exception of the
-
 Fracking Fraternity.
 
 An investment strategy requires a view of the future. We can envisage
-
 (at least) three scenarios:
 
 1. Growth in the world economy picks up smartly, productivity and
@@ -518,49 +436,33 @@ An investment strategy requires a view of the future. We can envisage
    `Japan'
 
 It seems to me that one big issue to resolve is similarity of what we
-
 are going through now, to the situation in Japan around the late
-
 nineties. It has been suggested [reference?] that monetary policy in
-
 Japan was, and possibly still is, too tight, because the commercial
-
 banks inability, or unwillingness to lend.
 
-Japan Scenario
+## Japan Scenario
 
 As a general rule, we tend to overestimate the probability that things
-
 will not change, so the Japan scenario is one we should examine closely.
-
 It is not at all clear that the right investment decision in Japan in
-
 1999 will be the right decision here, in the West, today. There was no
-
 bull market in equities in Japan up to this point. My tentative view is
-
 that, because inflation will remain subdued in this scenario, that fixed
-
 income will remain decent investment choice, especially coporate bonds,
-
 including sub-investment grade, but only from the strongest names.
 
 Because government bonds have such low yields, for mean reversion
-
-reaons, it’s hard to justify putting them into a portfolio at all.
-
+reasons, it’s hard to justify putting them into a portfolio at all.
 Stagflation Scenario
 
 Here we need to get out of bonds. Gold and real estate might do well.
 
-Real Recovery Scenario
+## Real Recovery Scenario
 
 Cyclical stocks. Miners, commodities. It might be good to short the
-
 currencies of the most rapidly growing economies. Emerging markets, with
-
 their exposure to commodities might be good too.
-
 [cols#",,,",options#"header",]
 
 |#######################################
@@ -600,12 +502,10 @@ equity holders.]
 -->
 
 What sectors have benefited from QE: very high quality names and true
-
 growth stocks like Google. Those that have lost out: cyclical stocks and
-
 particularly miners.
 
-The importance of holding your nerve
+## The importance of holding your nerve
 
 There will come a time when you have been trading securities when an investment decision you have made will appear to go horribly wrong. Your position will show apparently inexorable mounting losses and you will lose faith. You will doubt your analysis, and become convinced that the factors that you previously disregarded that argued against this investment were, in fact, the dominant ones.
 
