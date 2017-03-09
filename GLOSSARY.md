@@ -1,17 +1,16 @@
-= Glossary
 
-== miller mogdiliani theorem
+## miller mogdiliani theorem
 The '`no magic in gearing`' theorem. States that, in a slightly idealized
 world in which there are no taxes on dividends, profits or bond
 interest. Most practitioners probably think that this is total rubbish,
 but I rather admire it.
 
-== Routing of Trades
+## Routing of Trades
 Your trade may not be executed where you think it was going to be. 
 The SEC puts an obligation on brokers to '`be reasonable`' about this.
 
 
-== efficient market hypothesis
+## efficient market hypothesis
 The idea that the price of a security reflects all publicly available
 information about it at all times.
 
