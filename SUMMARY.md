@@ -3,13 +3,14 @@
 * [Appendices/bibliography.md](Appendices/bibliography.md)
 * [Appendices/stock\_tickers.md](Appendices/stock_tickers.md)
 * [copyright.md](copyright.md)
-* [diary/2016\_may.md](diary/2016_may.md)
-* [diary/current\_issues.md](diary/current_issues.md)
-* [diary/december.md](diary/december.md)
-* [diary/february\_2016.md](diary/february_2016.md)
-* [diary/january\_2016.md](diary/january_2016.md)
-* [diary/november.md](diary/november.md)
-* [diary/trading\_diary\_2015.md](diary/trading_diary.md)
+* [Trading Diary](/diary/readme.md)
+  * [diary/2016\_may.md](diary/2016_may.md)
+  * [diary/current\_issues.md](diary/current_issues.md)
+  * [diary/december.md](diary/december.md)
+  * [diary/february\_2016.md](diary/february_2016.md)
+  * [diary/january\_2016.md](diary/january_2016.md)
+  * [diary/november.md](diary/november.md)
+  * [diary/trading\_diary\_2015.md](diary/trading_diary.md)
 * [GLOSSARY.md](GLOSSARY.md)
 * [Later/intro.md](Later/intro.md)
 * [Later/README.md](Later/README.md)
@@ -22,4 +23,6 @@
 * [Theory/passive\_investing.md](Theory/passive_investing.md)
 * [Theory/trading.md](Theory/trading.md)
 * [Theory/valuation.md](Theory/valuation.md)
+
+
 
