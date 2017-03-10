@@ -10,7 +10,7 @@
   * [diary/february\_2016.md](diary/february_2016.md)
   * [diary/january\_2016.md](diary/january_2016.md)
   * [diary/november.md](diary/november.md)
-  * [diary/trading\_diary\_2015.md](diary/trading_diary.md)
+  * [2015](diary/2015/all_year.md)
 * [GLOSSARY.md](GLOSSARY.md)
 * [Later/intro.md](Later/intro.md)
 * [Later/README.md](Later/README.md)
