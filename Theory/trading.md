@@ -9,8 +9,6 @@ Value, as far as an investment is concerned, is a future cashflow, either as a p
 
 ## The Golden Rule: buy low, sell high
 
-The Golden Rule: buy low, sell high
-
 In its very basic form, you will buy shares in a company, ideally earn quarterly dividends, and 
 then sell at a higher price than you paid at the start as the company is deemed by investors
 to be more valuable than when you started. The share price is a kind of consensus on that
@@ -25,7 +23,7 @@ not have in the first place.
 
 Short-selling also presumes that the lender is not expecting the shares to drop in value, or
 he might decide to sell them now to avoid a loss.
-#####################################################################
+
 
 
 All investors worry about their exit: converting their paper gains to
@@ -33,270 +31,278 @@ real assets. For the trader, the exit is the closing of his position,
 which converts his unrealized profit to a realized profit.
 
 This rule works whether you buy first, or sell first. If you sell first,
-this is called __short selling__. It is particularly easy to do this
+this is called short selling. It is particularly easy to do this
 with futures.
 
-### Short selling.
+## Short selling.
+
 There is nothing mysterious about this. 
-A `normal' trade involves handing over cash and receiving the shares. 
+
+A 'normal' trade involves handing over cash and receiving the shares. 
 A short sale is just handing over the shares and receiving the cash.
 If you always start with nothing, you'd have to borrow the shares. 
+
 This means that you promise to pay back the cash at some point in the future.
 The converse also applies. 
-If you sell short, you promise to repay the shares at some point in the future.
 
+If you sell short, you promise to repay the shares at some point in the future.  
 The economic effect is more easily and cheaply achieved by selling a CFD. 
-In the USA it is also possible to sell a single-stock future. 
 
+In the USA it is also possible to sell a single-stock future.  
 For indexes, futures and ETFs are also available, and, because stock futures 
-are cash settled you don't ever have to worry about having the stock available to borrow.
-Borrowing stock is more difficult than borrowing money because ... well there are many more
+are cash settled you don't ever have to worry about having the stock available to borrow.  
+
+Borrowing stock is more difficult than borrowing money because ... well there are many more 
 shares in issue than there are currencies.
 
-### Valuation
+## Valuation
 
-The key to investment is valuation. Making money is easy: find mispriced
-securities, buy them, and wait for the market to realize its mistake.
-Unfortunately there is an extremely well-tested academic theory[^EMH]
-that says that securities are never mispriced.
+The key to investment is valuation. Making money is easy: find mispriced securities, buy them, and wait for the market to realize its mistake.  
+Unfortunately there is an extremely well-tested academic theoryEMH that says that securities are never mispriced.
 
-The EMH relates to securities. An equity market index is a weighted mean
-of a set of stock prices, so it is reasonable to assume that the index
-will be correctly priced. Lots of analysts and traders are comparing the
+The EMH relates to securities. An equity market index is a weighted mean 
+of a set of stock prices, so it is reasonable to assume that the index 
+will be correctly priced. Lots of analysts and traders are comparing the 
 values of individual stocks and shifting savings between them, so the
-EMH at the stock level is likely to hold closely. I believe that it
-possible that it is possible to detect mispricing between the same asset
-classes between countries, and between different asset classes within a
+
+EMH at the stock level is likely to hold closely. I believe that it 
+possible that it is possible to detect mispricing between the same asset 
+classes between countries, and between different asset classes within a 
 country.
 
-#### Yield
+## Yield
 
-Most financial assets produce some kind of income. Not all produce a
-long-term steady stream, but many do. The ratio of the unit-time income
-to the price of the asset is known as the yield [^redemption-yield]
-[^redemption-yield]:when all future cash flows from an asset are known
-then a redemption yield can be calculated, which is the internal rate of
-return on the cashflows. This redemption yield can be calculated, only
+Most financial assets produce some kind of income. Not all produce a long-term steady stream, but many do. The ratio of the unit-time income
+to the price of the asset is known as the yield redemption-yield
+
+[redemption-yield]: when all future cash flows from an asset are known 
+then a redemption yield can be calculated, which is the internal rate of 
+return on the cashflows. This redemption yield can be calculated, only 
 under the assumption of the absence of credit risk.
 
-Shares produce dividends, and so a dividend yield can be calculated for
-a company, which is comparable to the yield on a bond. However, for most
-companies, for tax and other reasons, only part of the earnings are paid
-out, but that which is retained is "really" an addition to the
-shareholders’ funds, and so another, possibly better, measure of yield
-is `earnings yield', which is the ratio of earnings per share to share
-price. Going one step further one can define EBITDA, which converts the
+Shares produce dividends, and so a dividend yield can be calculated for 
+a company, which is comparable to the yield on a bond. However, for most 
+companies, for tax and other reasons, only part of the earnings are paid 
+out, but that which is retained is "really" an addition to the 
+shareholders’ funds, and so another, possibly better, measure of yield 
+is `earnings yield', which is the ratio of earnings per share to share 
+price. Going one step further one can define EBITDA, which converts the 
 `earnings', which is an accounting concept, to an actual cash flow.
 
-Short dated bills are sold at a discount, so the return is built into
-the `bullet' redemption when the bill matures. Some shares pay no
-dividends, especially younger companies that are still in a growth
-phase, and feel that their assets produce a bigger return on retained
-earnings than their cost of capital [check this! Check the WB argument
+Short dated bills are sold at a discount, so the return is built into 
+the `bullet' redemption when the bill matures. Some shares pay no 
+dividends, especially younger companies that are still in a growth 
+phase, and feel that their assets produce a bigger return on retained 
+earnings than their cost of capital [check this! Check the WB argument 
 about whether it’s right to buy back shares.]
 
-How do you know the price is low if you don’t have a view on what it
-should be? The sorts of securities we will be selling will be widely
-held. Presumably most holders are very happy to hold on to their stock
+How do you know the price is low if you don’t have a view on what it 
+should be? The sorts of securities we will be selling will be widely 
+held. Presumably most holders are very happy to hold on to their stock 
 of securities (their holdings or position)
 
 Each investor will have a value to him of
 
 $$
- \sum_{i} Exp(pv_i ) 
-$$
-where $$ pv_i = c_i d_i $$ and $$ d_i = d(t_i) $$
-and the expectation is formed over the probability distribution for
-receiving $$ c_i $$ at time latexmath:$$ t_i $$.
 
-The problem therefore boils down to finding the distribution,
-$$ p_i $$, and, to a lesser extend, the risk-free discount
-factor $$ d(t) $$. Because it is so difficult to estimate the
-distribution, an approximation is often made to just discount the
-cashflows at a larger discount factor that incorporates both a time
-element, and risk element, perhaps derived from the cashflows of
+ \sum_{i} Exp(pv_i ) 
+
+$$
+
+where $$  pv_i = c_i d_i  and  d_i = d(t_i) $$
+
+and the expectation is formed over the probability distribution for
+
+receiving  $ c_i $  at time latexmath: $ t_i $ .
+
+The problem therefore boils down to finding the distribution, 
+$ p_i $ , and, to a lesser extend, the risk-free discount 
+factor $ d(t) $. Because it is so difficult to estimate the 
+distribution, an approximation is often made to just discount the 
+cashflows at a larger discount factor that incorporates both a time 
+element, and risk element, perhaps derived from the cashflows of 
 similarly risky assets.
 
-You may be relieved to read that these mathematical formulations are
-largely useless. This is because you are substituting one problem:
-establishing a correct price, for another: constructing a probability
+You may be relieved to read that these mathematical formulations are 
+largely useless. This is because you are substituting one problem: 
+establishing a correct price, for another: constructing a probability 
 distribution.
 
-Note that the discount factor for risk free cashflows reflects the
-individual investor’s time value of money. [In practice we ignore this:
-is this reasonable? If someone had a different time preference, would
+Note that the discount factor for risk free cashflows reflects the 
+individual investor’s time value of money. [In practice we ignore this: 
+is this reasonable? If someone had a different time preference, would 
 this really affect valuations?]
-
 
 ## The importance of securities exchanges
 
-I cannot emphasise enough the importance of minimizing the cost of managing a portfolio.
-The spread between buying and selling is an important part of this cost.
-A stock exchange minimizes this spread by attracting to one place (or at least one platform)
+I cannot emphasise enough the importance of minimizing the cost of managing a portfolio.  
+The spread between buying and selling is an important part of this cost.  
+A stock exchange minimizes this spread by attracting to one place (or at least one platform) 
 all the parties who wish to buy or sell. 
 
 If you keep trading to a minimum the spread, even for illiquid shares, should not represent a 
 huge cost. However, futures, at least the most liquid stock index ones, have to be `rolled' every quarter.footnote:[Some futures, especially in the less developed markets need to be rolled every month.]
+
 //// Korea is one, also some of the smaller european markets - Norweigen? Check!
 
-Sometimes there is a tradeoff between getting the exposure you want and the spread you have to pay.
-You can get exposure to 600 stocks through the DJ600, compared to only 50 in the ESTX50. 
-However the latter has lower spreads. 
-It also has the advantage of being on an an underlying with an active options market.
-
+Sometimes there is a tradeoff between getting the exposure you want and the spread you have to pay.  
+You can get exposure to 600 stocks through the DJ600, compared to only 50 in the ESTX50.  
+However the latter has lower spreads.  
+It also has the advantage of being on an an underlying with an active options market.  
 The other example is the MXEA which would have to be made up of a mixture of European, Japanese, Australian and XXX futures. 
+
 //// rewrite this.
 
 ## Stock Exchanges
 
-
 // Deliver price visibility, and, sometimes, settlement services. 
+
 I don't discuss trading individual stocks, or bonds, so the main function 
 of the exchange is to generate reliable prices for the components of equity indexes. For various reasons a lot of trading is moving 
-away from exchanges, but for main market shares there should still
+away from exchanges, but for main market shares there should still 
 be sufficient depth to the market to establish reliable prices. 
 
-////
- Say something about Dark Pools
+//// Say something about Dark Pools
 
-A marketplace, where buyers and sellers come together to assist price
+A marketplace, where buyers and sellers come together to assist price 
 discovery. These days usually coming together in a strictly electronic
 sense.
 
-Will usually collect bids and offers from participants. Sometimes with
-specialists, who enjoy certain privileges in exchange for providing
+Will usually collect bids and offers from participants. Sometimes with 
+specialists, who enjoy certain privileges in exchange for providing 
 liquidity.
 
-Securities exchanges often work to reduce the delivery risk to buyers
-and sellers by providing some structured settlement system by ensuring
-transfer of title against payment. They will always attempt to
-standardize securities. Without standardizing contracts selling and
-buying become enormously more expensive. God gave us wheat, but the
-Chicago Board of Trade gave us _No. 2 Soft Red Winter Wheat_ .
+Securities exchanges often work to reduce the delivery risk to buyers 
+and sellers by providing some structured settlement system by ensuring 
+transfer of title against payment. They will always attempt to 
+standardize securities. Without standardizing contracts selling and 
+buying become enormously more expensive. God gave us wheat, but the 
+Chicago Board of Trade gave us No. 2 Soft Red Winter Wheat .
 
-////
-
+////  
 In practice your broker will make all the decisions about where your trades are executed.
-You may be offered some choice about routing, but 
+
 
 ## Futures
 
-The most basic derivative. Has existed for hundreds of years to meet the
-demand for farmers to remove risk of an adverse movement in grain
-prices. A farmer can sell his grain, to remove his risk of the price
-going down, and a baker can buy this grain, to remove the risk of the
-price going up. The contract specifies a standard of wheat, and a
-delivery date. The exchange removes the credit risk that would otherwise
-exist. Both parties have the exchange as their counter-party. By
-insisting on all parties providing collateral, the exchange can insulate
-itself from credit risk. By never entering into a one-sided deal, the
+The most basic derivative. Has existed for hundreds of years to meet the 
+demand for farmers to remove risk of an adverse movement in grain 
+prices. A farmer can sell his grain, to remove his risk of the price 
+going down, and a baker can buy this grain, to remove the risk of the 
+price going up. The contract specifies a standard of wheat, and a 
+delivery date. The exchange removes the credit risk that would otherwise 
+exist. Both parties have the exchange as their counter-party. By 
+insisting on all parties providing collateral, the exchange can insulate 
+itself from credit risk. By never entering into a one-sided deal, the 
 exchange isolates itself from market risk.
 
-Futures are generally used to take a strong directional view of an
-expected price movement. Given constant yield curve and dividend
-expectations, a future moves in tandem with the cash market, so if you
-have a view about the underlying market, you can cheaply express it by
-buying or selling the future. For most futures, the spread, and the
+Futures are generally used to take a strong directional view of an 
+expected price movement. Given constant yield curve and dividend 
+expectations, a future moves in tandem with the cash market, so if you 
+have a view about the underlying market, you can cheaply express it by 
+buying or selling the future. For most futures, the spread, and the 
 liquidity, are excellent, as long as you stick to the nearby contract.
 
 ## Options
 
-There are lots of variations on a theme when it comes to options. You
-not only have options on cash securities, but also options on futures.
-With futures, there is usually just one liquid contract, the `near
-month'. With options, there is a whole two-dimensional space of expiries
-and strikes, but there will be next to no liquidity in most of this
-space, so it is important to check the market depth before risking any
+There are lots of variations on a theme when it comes to options. You 
+not only have options on cash securities, but also options on futures.  
+With futures, there is usually just one liquid contract, the `near 
+month'. With options, there is a whole two-dimensional space of expiries 
+and strikes, but there will be next to no liquidity in most of this 
+space, so it is important to check the market depth before risking any 
 trading.
 
-Even with the most liquid options, the bid-ask spread is much bigger,
-certainly as a percentage of the price, so you really don’t want to be
+Even with the most liquid options, the bid-ask spread is much bigger, 
+certainly as a percentage of the price, so you really don’t want to be 
 opening and closing positions too rapidly.
 
-I tend to trade options to execute a mean-reversion trade. When the
-market has gone up very rapidly, volatility is likely to be very high,
-for short-dated options. Writing an option to take advantage of a
-reversion can work here because even if the market just stays still,
-you’ll still make money as the option time value decays. Not everyone
-wants to take the risk that writing `naked' options implies. It is also expensive, in terms of margin usage.
-
+I tend to trade options to execute a mean-reversion trade. When the 
+market has gone up very rapidly, volatility is likely to be very high, 
+for short-dated options. Writing an option to take advantage of a 
+reversion can work here because even if the market just stays still, 
+you’ll still make money as the option time value decays. Not everyone 
+wants to take the risk that writing `naked' options implies. It is also expensive, in terms of margin usage.  
 The great advantage of options is that you can protect yourself against so called Black Swan events.
 
 ## Futures Options
+
 In many cases the price of the underlying for a future is easily determined. In the case of bond futures, the underlying is one of a number of 'deliverable' bonds, one of which is the 'cheapest to deliver'. The underlying is then, in effect this bond, but which one it is can change from day to day, depending on the exact shape of the discount curve.
 
 To solve the problems with a slighly blurry underling, it's easier to trade options on futures. These are slightly simpler to analyze theoretically, as both the option and the underlying have no carrying cost. 
+
 The great advantage of these as tradeable instruments is that if you get cold feet on the direct of the underlying, but already have a futures position, you can write a covered call or put, depending on whether you are long or short the future, to earn a bit of premium income. 
+
 When you write options, time is on your side, as if the market is going sideways, you make money. footnote:[This makes assumptions about interest rates and volatility remaining steady. In practice a market that is going sideways will nearly always one where volatility is flat or declining.]
 
 ## Brokers
 
-Exchanges have systems that cannot be accessed directly by end
-investors. Diversification is important, and having good access to as
-many exchanges is necessary to get good diversification. Most brokers
-concentrate in one geographical area (e.g.UK or USA), or in one product
-area (like futures and options). Many struggle to develop systems which
-are truly multi-currency. Brokers are supposed to have protocols in
-place to minimize credit risk: you, as a trader, do not trade with them
+Exchanges have systems that cannot be accessed directly by end 
+investors. Diversification is important, and having good access to as 
+many exchanges is necessary to get good diversification. Most brokers 
+concentrate in one geographical area (e.g.UK or USA), or in one product 
+area (like futures and options). Many struggle to develop systems which 
+are truly multi-currency. Brokers are supposed to have protocols in 
+place to minimize credit risk: you, as a trader, do not trade with them 
 as a counterparty: they are your agent.
 
-In the area of futures traders, there have been some spectacular
-failures: MF Global, and Saxo Spreads. Brokers tend to fail at a time of
-maximum market volatility: the very last time you want to try to change
-brokers, and take the risk of liquidating and re-establishing a
+In the area of futures traders, there have been some spectacular 
+failures: MF Global, and Saxo Spreads. Brokers tend to fail at a time of 
+maximum market volatility: the very last time you want to try to change 
+brokers, and take the risk of liquidating and re-establishing a 
 position.
 
-I have found that a good place to start is
-http://online.barrons.com/articles/SB51367578116875004693704580500193983582362[Barron’s
-Survey of Online Brokerages]. I personally use Interactive Brokers. They
-are fairly sophisticated, and are the best that I’ve come across.
-Previously I was with Options Xpress, a very good brokerage, owned by
-Charles Schwab, but one that now focuses almost exclusively on clients
-based in the USA. My experience is that US-based brokerages are many
-years ahead of UK or European providers in terms of technology and
+I have found that a good place to start is 
+http://online.barrons.com/articles/SB51367578116875004693704580500193983582362[Barron’s 
+Survey of Online Brokerages]. I personally use Interactive Brokers. They 
+are fairly sophisticated, and are the best that I’ve come across.  
+Previously I was with Options Xpress, a very good brokerage, owned by 
+Charles Schwab, but one that now focuses almost exclusively on clients 
+based in the USA. My experience is that US-based brokerages are many 
+years ahead of UK or European providers in terms of technology and 
 breadth of product coverage.
 
 ## Styles of Investing
 
 ### Time Horizons
 
-Some people make a keen distinction between speculating and investing.
-The general idea is that investing is finding the highest-quality assets
-and allocating capital to them for a long time. Warren Buffet’s holding
-period is, famously, `for ever'. Speculating is associated with
-short-term trading. `Day traders' (and most spot FX traders) will open
-positions after they arrive at work, and close them all out before they
-go home for the night. An individual will have a time horizon which is
-determined by the timescale over which he transitions from being a net
-saver to a net dissaver footnote:[It is not entirely clear to me that,
-if a fund is managed for a large pool of savers, the time horizon he
-should focus on should be some average of the economic situation of his
+Some people make a keen distinction between speculating and investing.  
+The general idea is that investing is finding the highest-quality assets 
+and allocating capital to them for a long time. Warren Buffet’s holding 
+period is, famously, `for ever'. Speculating is associated with 
+short-term trading. `Day traders' (and most spot FX traders) will open 
+positions after they arrive at work, and close them all out before they 
+go home for the night. An individual will have a time horizon which is 
+determined by the timescale over which he transitions from being a net 
+saver to a net dissaver footnote:[It is not entirely clear to me that, 
+if a fund is managed for a large pool of savers, the time horizon he 
+should focus on should be some average of the economic situation of his 
 investors.].
 
 ### Momentum
 
-Momentum trading is exactly what it sounds. You wait until you see
-something go into a `bull market' and climb on the bandwagon, making
+Momentum trading is exactly what it sounds. You wait until you see 
+something go into a `bull market' and climb on the bandwagon, making 
 sure that you jump off before it reverses and enters a `bear market'.
-The financial press routinely refers to bull and bear markets as if they
-self-evidently exist. But the EMH, for which the proposers were awarded
-a Nobel Prize, postulates that the sort of price behaviour which would
+The financial press routinely refers to bull and bear markets as if they 
+self-evidently exist. But the EMH, for which the proposers were awarded 
+a Nobel Prize, postulates that the sort of price behaviour which would 
 give rise to a bull or a bear market simply does not exist.
 
-If one looks at a price history of the S&P 500 index since 2009 to
-today, it certainly doesn’t look as though it has followed a random
-walk. In his extensive analysis of investment strategies, XXX has
-concluded that momentum investing is the only one that produces
-sustained extraordinary risk-adjusted returns [Reference book on asset
+If one looks at a price history of the S&P 500 index since 2009 to 
+today, it certainly doesn’t look as though it has followed a random 
+walk. In his extensive analysis of investment strategies, XXX has 
+concluded that momentum investing is the only one that produces 
+sustained extraordinary risk-adjusted returns [Reference book on asset 
 returns] .
 
-My view on momentum investing is that by the time a bull market is
-established the valuation of the asset is too rich for me to want to
-invest. The S&P500 is now at a very steep valuation, and to buy now is
-to risk being long when the market crashes. It is certainly the case
+My view on momentum investing is that by the time a bull market is 
+established the valuation of the asset is too rich for me to want to 
+invest. The S&P500 is now at a very steep valuation, and to buy now is 
+to risk being long when the market crashes. It is certainly the case 
 that markets go up steadily and then crash precipitously.
 
-### Growth
+## Growth
 
 Some industries, and companies, are likely to grow faster than others.
 Internet stocks are likely to grow quicker than steel manufacturers.
@@ -308,7 +314,7 @@ The growth style of investing tries to identify stocks with genuine
 growth prospects. This tends to be a popular investment style in a macro
 environment with strong economic growth.
 
-### Value
+## Value
 
 Value investing is associated with Ben Graham, ??? Dodd and Warren
 Buffett. This attempts to examine companies’ accounts closely to
@@ -318,7 +324,7 @@ attempts to identify sustainable competitive advantage footnote:[Buffett
 has written extensively on his philosophy of investing and on many other
 varied topics in finance.]
 
-### Sector rotation
+## Sector rotation
 
 Sectors go in and out of fashion. 
 Multiples theoretically reflect growth prospects, but growth is something that must come to an end.
@@ -330,7 +336,7 @@ There is always something being written in Seeking Alpha about which sector is a
 
 It is generally the case that earnings are much less volatile than a stock price, and that yields are mean-reverting.
 
-### Technical Trading and Mean Reversion
+## Technical Trading and Mean Reversion
 
 Equity markets typically have an annual standard deviation of 20%. This
 is an annual variance of 4%. A typical daily variance, given there are
@@ -354,7 +360,7 @@ sudden large moves. A brokerage will close out a position when
 inadequate margin has been posted. Brokerages vary, but none are patient
 when it comes to waiting for margin calls to be met.
 
-### Macro Trading
+## Macro Trading
 
 Most investors depend on fund managers to make investment decisions for
 them. Most fund managers are concerned with a small sector of the
@@ -380,7 +386,7 @@ understanding of how different asset classes will react to unexpected
 changes in the wider economy, and an edge on other investors on
 predicting the evolution of how the global economy will evolve.
 
-### Turning Japanese
+## Turning Japanese
 
 We live in oriental times. In 1992, because of bad lending to finance
 property purchases, Japanese banks were pushed to the brink. To avert a
@@ -420,14 +426,14 @@ Fracking Fraternity.
 An investment strategy requires a view of the future. We can envisage
 (at least) three scenarios:
 
-1.  Growth in the world economy picks up smartly, productivity and
-labour force participation increase, demand for commodities picks up and
-we catch up with the trend growth that applied before 2008. `Growth'
-2.  We hit stagflation: growth remains `lacklustre' but the huge
-quantities of (central bank) money that have been injected leads to
-persistent, and possibly accelerating inflation. `Stagflation'
-3.  We continue in a low-growth, near-deflationary path indefinitely.
-`Japan'
+1. Growth in the world economy picks up smartly, productivity and
+   labour force participation increase, demand for commodities picks up and
+   we catch up with the trend growth that applied before 2008. `Growth'
+2. We hit stagflation: growth remains `lacklustre' but the huge
+   quantities of (central bank) money that have been injected leads to
+   persistent, and possibly accelerating inflation. `Stagflation'
+3. We continue in a low-growth, near-deflationary path indefinitely.
+   `Japan'
 
 It seems to me that one big issue to resolve is similarity of what we
 are going through now, to the situation in Japan around the late
@@ -435,7 +441,7 @@ nineties. It has been suggested [reference?] that monetary policy in
 Japan was, and possibly still is, too tight, because the commercial
 banks inability, or unwillingness to lend.
 
-#### Japan Scenario
+## Japan Scenario
 
 As a general rule, we tend to overestimate the probability that things
 will not change, so the Japan scenario is one we should examine closely.
@@ -445,39 +451,54 @@ bull market in equities in Japan up to this point. My tentative view is
 that, because inflation will remain subdued in this scenario, that fixed
 income will remain decent investment choice, especially coporate bonds,
 including sub-investment grade, but only from the strongest names.
-Because government bonds have such low yields, for mean reversion
-reaons, it’s hard to justify putting them into a portfolio at all.
 
-#### Stagflation Scenario
+Because government bonds have such low yields, for mean reversion
+reasons, it’s hard to justify putting them into a portfolio at all.
+Stagflation Scenario
 
 Here we need to get out of bonds. Gold and real estate might do well.
 
-#### Real Recovery Scenario
-
+## Real Recovery Scenario
 
 Cyclical stocks. Miners, commodities. It might be good to short the
 currencies of the most rapidly growing economies. Emerging markets, with
 their exposure to commodities might be good too.
-
 [cols#",,,",options#"header",]
+
 |#######################################
+
 |Asset |Japan |Stagflation |Growth
+
 |EEM |buy |sell |hold
+
 |Gold |sell |buy |hold
+
 |Developed World Equity |sell |sell |buy
+
 |T Bonds |buy |sell |hold
+
 |US Dollar |buy |sell |hold
+
 |#######################################
 
 <!---
+
 [Find article by Robert Buckland, equity strategist from Citigroup, who
+
 has written about the difference between Japan and the USA, and has
+
 pointed out the difference in equity market returns following their
+
 crashes can be attributed to differences in profit margins: Jap
+
 companies had minimal margins and could barely afford to service their
+
 debt and coupon payments, whereas US companies have very strong margins,
+
 and, as debt costs plummetted with QE, were able to increase returns to
+
 equity holders.]
+
 -->
 
 What sectors have benefited from QE: very high quality names and true
@@ -496,9 +517,10 @@ There is no way out of this difficult position, which means that you must take e
 
 Great investors like Warren Buffett and Ben Graham will make a big distinction between investing and speculating, alternatively between investing and trading. I am not sure that these investors explicitly defined the difference, but the essential difference concerns time horizons. Investors want to get rich slowly but surely.
 
-
 I take the view that the exchanges and techniques used by traders can be used to improve investment returns. Sure, spreads only hurt you when you buy and when you sell, so if you have a 'buy and hold forever' strategy, they don't hurt you much.
+
 However for most people it makes sense to get cheap funding to establish a long-term position early in their trading career when their financial capital is at a  minimum, because that way the returns on  their investment have the longest time to compound.
+
 
 
 

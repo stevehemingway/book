@@ -4,7 +4,7 @@ This is my attempt to write a book on investing.
 
 ## 8 March 2017
 
-Ugh, too long has elapsed. I am still using gitbook, and have started to re-organize this.
+I have decided to move back towards Markdown and also to re-focus the message of the book so it is more of a toolkit for investing action.
 
 ## 6 March  2016
 
@@ -12,8 +12,7 @@ I have decided to move back towards Markdown and also to re-focus the message of
 
 # The General Idea
 
-This book is to tell you about how to take control of your savings. It is my attempt to record my successes, and failures as a private investor. It is a work in progress. If I have successes, may they inspire you. If I have failures, may some good come of them, as a guide how to avoid mistakes.  
-
+This book is to tell you about how to take control of your savings. It is my attempt to record my successes, and failures as a private investor. It is a work in progress. If I have successes, may they inspire you. If I have failures, may some good come of them, as a guide how to avoid mistakes.
 
 I do not claim to be a great expert on investing. However:
 
