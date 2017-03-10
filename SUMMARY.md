@@ -1,16 +1,11 @@
 # Summary
 
-* [Appendices/bibliography.md](Appendices/bibliography.md)
+* [Trading Diary](/diary/readme.md)
+  * [Latest Report](diary/2017/Q1.md)
+  * [Current Issues](diary/current_issues.md)
+  * [2015](diary/2015/all_year.md)
 * [Appendices/stock\_tickers.md](Appendices/stock_tickers.md)
 * [copyright.md](copyright.md)
-* [Trading Diary](/diary/readme.md)
-  * [diary/2016\_may.md](diary/2016_may.md)
-  * [diary/current\_issues.md](diary/current_issues.md)
-  * [diary/december.md](diary/december.md)
-  * [diary/february\_2016.md](diary/february_2016.md)
-  * [diary/january\_2016.md](diary/january_2016.md)
-  * [diary/november.md](diary/november.md)
-  * [2015](diary/2015/all_year.md)
 * [GLOSSARY.md](GLOSSARY.md)
 * [Later/intro.md](Later/intro.md)
 * [Later/README.md](Later/README.md)
@@ -23,6 +18,5 @@
 * [Theory/passive\_investing.md](Theory/passive_investing.md)
 * [Theory/trading.md](Theory/trading.md)
 * [Theory/valuation.md](Theory/valuation.md)
-
-
+* [Appendices/bibliography.md](Appendices/bibliography.md)
 
