@@ -1,13 +1,13 @@
 # Current Issues
 
-[[trading-strategies]]
+
 ## Trading Strategies
 An old boss of mine used to say ``There are no such thing as problems,
 only opportunities''. I was not convinced about this, but in investing
 this may well be true: for most assets it’s easy to be on either side of
 the trade, so one man’s loss really is another man’s gain.
 
-[[death-of-inflation]]
+
 ## Death of Inflation
 Roger Bootle spotted that, early in the 80’s, inflation would subside.
 This is a familiar, and unremarkable observation now, but at the time it
@@ -22,9 +22,9 @@ The question is, are we nearly there (at the end of the cycle) yet? <<{{book.bib
 This is based on the rate of growth of nominal GDP, which has been very slow since the Global Financial Crisis. 
 There is a long, honourable tradition of supporting nominal GDP targeting as the correct policy objective of a central bank.
 
-[[commodities-supercycle]]
-Commodities Supercycle
-~~~~~~~~~~~~~~~~~~~~~~
+
+##Commodities Supercycle
+
 The emergence of China as a sink for commodities of all kinds has resulted
 in exceptional returns on all commodities up until the last few years. Because
 production of minerals has such long lags, generally, it seems likely that this
@@ -33,13 +33,13 @@ will continue.
 To a certain extent current weakening (July 2015) is in part down to the US Dollar strengthening <<dollar-strength>> 
 relative to emerging markets currencies.
 
-[[dollar-strength]]
-US Dollar Strength
-~~~~~~~~~~~~~~~~~~
+
+## US Dollar Strength
+
 The USA has had the least slow recovery from the Global Financial Crisis of all the very large economies.
 It is a relatively closed economy, and the Fed is not terribly bothered about the exchange rate.
 This is not the case with the ECB, which is very concerned about Euro strength, which has been a big drag on the performance of Eurozone countries for a considerable time. They generally are much more open than the USA.
-The argument is, then, that the dollar will soar.  For a pro-dollar article see http://on.ft.com/1LV5XXo[The world gears up for a surge in the US dollar]
+The argument is, then, that the dollar will soar.  For a pro-dollar article see [The world gears up for a surge in the US dollar](http://on.ft.com/1LV5XXo).
 
 ## 2016 Strategies from Sight Beyond Sight
 
@@ -47,7 +47,7 @@ The argument is, then, that the dollar will soar.  For a pro-dollar article see 
 ### Equities  
 
 I was very impressed by 
-https://www.interactivebrokers.com/en/index.php?f#5599&vid#8264[this article]. 
+[this article](https://www.interactivebrokers.com/en/index.php?f#5599&vid#8264). 
 
 This was posted on 4 Jan. As of 10 Jan several of the trades would have paid off. Especially short crude.
 
