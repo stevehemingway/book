@@ -1,21 +1,17 @@
-in## Bibliography
+## Bibliography
 
 ### Books
 
--	[[brealey-and-myers]] http://www.amazon.co.uk/Principles-Corporate-Finance-Richard-Brealey/dp/1259009513[Brearley and Myers, Principles of Corporate Finance] 
+-	[brealey-and-myers](http://www.amazon.co.uk/Principles-Corporate-Finance-Richard-Brealey/dp/1259009513), _Principles of Corporate Finance_. 
 
 
--	[[brett]] https://books.google.com/books?vid=ISBN0712662596[How to Read the Financial Pages, Brett]. I haven't read this for years, but it was a useful guide to how to get more out of the FT in the days before Google Finance came into existence.
+-	Elton, _Modern Portfolio Theory and Investment Analysis_.
 
--	[[dixon]] http://books.google.com/books?vid=ISBN9780140289329[Penguin Guide to Finance,  Dixon]
+-	[Faber](http://books.google.com/books?vid=ISBN9780988679924) [Global Asset Allocation, Mel Faber]. Very interesting book about how to construct an 'all weather' portfolio - i.e. one that will continue to deliver positive returns in all market conditions. Backtesting of a number of recommended strategies.
 
--	[[elton]] Modern Portfolio Theory and Investment Analysis, Elton.
+-	Ilmanen,  _Expected Returns: An Investor's Guide to Harvesting Market Rewards_.
 
--	[[faber]] http://books.google.com/books?vid=ISBN9780988679924[Global Asset Allocation, Mel Faber]. Very interesting book about how to construct an 'all weather' portfolio - i.e. one that will continue to deliver positive returns in all market conditions. Backtesting of a number of recommended strategies.
-
--	[[ilmanen]]  Expected Returns: An Investor's Guide to Harvesting Market Rewards, Ilmanen.
-
--	[[kroijer]] http://books.google.com/books?vid=ISBN9780273781349[Investing Demystified: How to Invest Without Speculation and Sleepless Nights], Hans Kroijer.
+-	[Kroijer](http://books.google.com/books?vid=ISBN9780273781349)._Investing Demystified: How to Invest Without Speculation and Sleepless Nights_, Hans Kroijer.
 
 -	[[lack]] http://www.sl-advisors.com/the-hedge-fund-mirage/[The Hedge Fund Mirage] Essential reading if you are ever seized with the desire to hand over your hard-earned savings to a hedge fund manager. Unfortunately, for many savers, including badly-paid public sector employees, they have no choice, because their pension savings are entrusted, in part, to these modern-day racketeers.
 
