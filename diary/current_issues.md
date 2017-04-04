@@ -2,23 +2,23 @@
 
 
 ## Trading Strategies
-An old boss of mine used to say ``There are no such thing as problems,
+An old boss of mine used to say ''There are no such thing as problems,
 only opportunities''. I was not convinced about this, but in investing
-this may well be true: for most assets it’s easy to be on either side of
-the trade, so one man’s loss really is another man’s gain.
+this may well be true: for most assets it's easy to be on either side of
+the trade, so one man's loss really is another man's gain.
 
 
 ## Death of Inflation
-Roger Bootle spotted that, early in the 80’s, inflation would subside.
+Roger Bootle spotted that, early in the 80's, inflation would subside.
 This is a familiar, and unremarkable observation now, but at the time it
 was fairly contentious. The upshot of this was a multi-decade long
-`secular' bull market in bonds. Government bonds have given very strong
+'secular' bull market in bonds. Government bonds have given very strong
 returns in recent decades, to the extent that the Cult of Equity has
 died, or at is at least in the Intensive Care Unit.
 
 This is all old news, and many people have got rich going long treasury bonds. 
-The question is, are we nearly there (at the end of the cycle) yet? <<{{book.bibliography}}#the-money-illusion,Scott Sumner>> thinks
-`probably not', on the grounds that US monetary policy is very tight still. He thinks that Eurozone policy may be even tighter. 
+The question is, are we nearly there (at the end of the cycle) yet? Scott Sumner thinks
+'probably not', on the grounds that US monetary policy is very tight still. He thinks that Eurozone policy may be even tighter. 
 This is based on the rate of growth of nominal GDP, which has been very slow since the Global Financial Crisis. 
 There is a long, honourable tradition of supporting nominal GDP targeting as the correct policy objective of a central bank.
 
@@ -30,7 +30,7 @@ in exceptional returns on all commodities up until the last few years. Because
 production of minerals has such long lags, generally, it seems likely that this
 will continue. 
 
-To a certain extent current weakening (July 2015) is in part down to the US Dollar strengthening <<dollar-strength>> 
+To a certain extent current weakening (July 2015) is in part down to the US Dollar strengthening dollar-strength 
 relative to emerging markets currencies.
 
 
