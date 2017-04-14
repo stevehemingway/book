@@ -1,8 +1,8 @@
 # About this book
 
-Many studies have shown that a chimp with a dartboard can construct a portfolio which outperforms the average  the average fund manager. If you pay the chimp in bananas he'll virtually always outperform, after fees.
-Nevertheless, most ordinary savers choose to hand over their savings to a professional.
-This book is an attempt to allow you to make an informed decision about whether to accept the advice of your financial advisor at face value.
+I believe that asset managers are like milkmen. A few rich people pay them a lot to deliver a product that is expensive and which can be obtained much more easily by dealing with a 
+
+Many studies have shown that a chimp with a dartboard can construct a portfolio which outperforms the average  the average fund manager. If you pay the chimp in bananas he'll virtually always outperform, after fees. Nevertheless, most ordinary savers choose to hand over their savings to a professional. This book is an attempt to allow you to make an informed decision about whether to accept the advice of your financial advisor at face value.
 
 The key to a DIY approach to investing is an understanding of risk. There are two aspects of this. Minimising risk for a given return, and deciding on the correct tradeoff between risk and return for your own preferences. Saving is about trading current consumption for future consumption. Each of us has values our current consumption relative to our future consumption differently. Conventional economic theory argues that utility is derived only from consumption, but I actually think that we get utility from knowing that we have assets 'for a rainy day', i.e. current utility, as well as the utility we receive when we actually consume those assets, but I am straying into a territory where I have no expertise.
 
