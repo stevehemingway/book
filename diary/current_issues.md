@@ -2,29 +2,26 @@
 
 ## Trading Strategies
 
-An old boss of mine used to say ''There are no such thing as problems,  
-only opportunities''. I was not convinced about this, but in investing  
-this may well be true: for most assets it's easy to be on either side of  
-the trade, so one man's loss really is another man's gain.
+An old boss of mine used to say ''There are no such thing as problems, only opportunities''. I was not convinced about this, but in investing this may well be true: for most assets it's easy to be on either side of the trade, so one man's loss really is another man's gain.
 
 ## Inflation
 
-Roger Bootle spotted that, early in the 80's, inflation would subside.  
-This is a familiar, and unremarkable observation now, but at the time it  was fairly contentious. The upshot of this was a multi-decade long  'secular' bull market in bonds. Government bonds have given very strong  returns in recent decades, to the extent that the Cult of Equity has  died, or at is at least in the Intensive Care Unit.
+Roger Bootle spotted that, early in the 80's, inflation would subside. This is a familiar, and unremarkable observation now, but at the time it  was fairly contentious. The upshot of this was a multi-decade long  'secular' bull market in bonds. Government bonds have given very strong  returns in recent decades, to the extent that the Cult of Equity has  died, or at is at least in the Intensive Care Unit.
 
 This is all old news, and many people have got rich going long treasury bonds.   The question is, are we nearly there \(at the end of the cycle\) yet? Scott Sumner thinks  'probably not', on the grounds that US monetary policy is very tight still. He thinks that Eurozone policy may be even tighter.   This is based on the rate of growth of nominal GDP, which has been very slow since the Global Financial Crisis.  There is a long, honourable tradition of supporting nominal GDP targeting as the correct policy objective of a central bank.
 
+I wrote the above a couple of years ago. Inflation remains weak. Even now, with a currency weakened by Brexit, inflation in the UK is still low, and gilts are recovering the levels they had at the end of the first quarter of 2016. Monetary easing continues to flow into asset prices, not prices of consumables. I suppose this is globalization. Who knew?
+
 ## Commodities Supercycle
 
-The emergence of China as a sink for commodities of all kinds has resulted  in exceptional returns on all commodities up until the last few years. Because  
-production of minerals has such long lags, generally, it seems likely that this  will continue.
+The emergence of China as a sink for commodities of all kinds has resulted  in exceptional returns on all commodities up until the last few years. Because production of minerals has such long lags, generally, it seems likely that this  will continue.
 
-To a certain extent current weakening \(July 2015\) is in part down to the US Dollar strengthening dollar-strength   
+To a certain extent current weakening \(July 2015\) is in part down to the US Dollar strengthening dollar-strength  
 relative to emerging markets currencies.
 
 ## US Dollar Strength
 
-The USA has had the least slow recovery from the Global Financial Crisis of all the very large economies. It is a relatively closed economy, and the Fed is not terribly bothered about the exchange rate. This is not the case with the ECB, which is very concerned about Euro strength, which has been a big drag on the performance of Eurozone countries for a considerable time. They generally are much more open than the USA.  
+The USA has had the least slow recovery from the Global Financial Crisis of all the very large economies. It is a relatively closed economy, and the Fed is not terribly bothered about the exchange rate. This is not the case with the ECB, which is very concerned about Euro strength, which has been a big drag on the performance of Eurozone countries for a considerable time. They generally are much more open than the USA.
 
 The argument is, then, that the dollar will soar.  For a pro-dollar article see [The world gears up for a surge in the US dollar](http://on.ft.com/1LV5XXo). My comments, and the article, were written nearly two years ago. The surge has not panned out, although the dollar has remained fairly strong.
 
