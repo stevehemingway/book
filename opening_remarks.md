@@ -61,12 +61,15 @@ I've worked with lots of quants and programmers and traders over the years. I'm 
 
 Many authors have helped me to the limited level of understanding that I've reached. Some are listed in the bibliography. 
 
+<!---
 ////
 where I was working as a humble programmer. He had come to the company with the idea of developing a trading simulator. The idea was that pilots were starting to learn how to fly aeroplanes by using a flying simulator, 
 because the cost of crashing a plane was so high, compared to the benefit of learning the controls.
 The idea was that using a simulator was cheap, compared to crashing the bank. 
 We never really did get the sales we were hoping for, but the simulator worked, after a fashion, and the experience of getting it to work hooked me on trying understand the magic of markets for the rest of my career.
 ////
+--->
 
-
+<!---
 // doesn't work! include::copyright.adoc[]
+--->
