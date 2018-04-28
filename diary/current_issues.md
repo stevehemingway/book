@@ -8,7 +8,7 @@ An old boss of mine used to say ''There are no such thing as problems, only oppo
 
 Roger Bootle spotted that, early in the 80's, inflation would subside. This is a familiar, and unremarkable observation now, but at the time it  was fairly contentious. The upshot of this was a multi-decade long  'secular' bull market in bonds. Government bonds have given very strong  returns in recent decades, to the extent that the Cult of Equity has  died, or at is at least in the Intensive Care Unit.
 
-This is all old news, and many people have got rich going long treasury bonds.   The question is, are we nearly there \(at the end of the cycle\) yet? Scott Sumner thinks  'probably not', on the grounds that US monetary policy is very tight still. He thinks that Eurozone policy may be even tighter.   This is based on the rate of growth of nominal GDP, which has been very slow since the Global Financial Crisis.  There is a long, honourable tradition of supporting nominal GDP targeting as the correct policy objective of a central bank.
+This is all old news, and many people have got rich going long treasury bonds.   The question is, are we nearly there (at the end of the cycle) yet? Scott Sumner thinks  'probably not', on the grounds that US monetary policy is very tight still. He thinks that Eurozone policy may be even tighter.   This is based on the rate of growth of nominal GDP, which has been very slow since the Global Financial Crisis.  There is a long, honourable tradition of supporting nominal GDP targeting as the correct policy objective of a central bank.
 
 I wrote the above a couple of years ago. Inflation remains weak. Even now, with a currency weakened by Brexit, inflation in the UK is still low, and gilts are recovering the levels they had at the end of the first quarter of 2016. Monetary easing continues to flow into asset prices, not prices of consumables. I suppose this is globalization. Who knew?
 
@@ -16,7 +16,7 @@ I wrote the above a couple of years ago. Inflation remains weak. Even now, with 
 
 The emergence of China as a sink for commodities of all kinds has resulted  in exceptional returns on all commodities up until the last few years. Because production of minerals has such long lags, generally, it seems likely that this  will continue.
 
-To a certain extent current weakening \(July 2015\) is in part down to the US Dollar strengthening dollar-strength  
+To a certain extent current weakening (July 2015) is in part down to the US Dollar strengthening dollar-strength  
 relative to emerging markets currencies.
 
 ## US Dollar Strength
@@ -37,22 +37,22 @@ Quantitative: Long US and EU 12-month momentum
 Style:  Long Growth vs. Short/Underweight Value  
 Market Cap: Long US large vs. short small caps  
 Sector: Long Banks  
-Directional: Long stock baskets \(FANG, NOSH, Top 20\)
+Directional: Long stock baskets (FANG, NOSH, Top 20)
 
 ### Currencies
 
-Long USD vs. short c/a deficit \(ZAR, TRY, BRL\)  
-Long USD vs. short crude oil \(NOK, CAD, RUB\)  
-Long USD vs. short Chinese yuan \(USD/CNH\)
+Long USD vs. short c/a deficit (ZAR, TRY, BRL)  
+Long USD vs. short crude oil (NOK, CAD, RUB)  
+Long USD vs. short Chinese yuan (USD/CNH)
 
 ### Cross-Asset
 
-Short Gamma \(don't really know what this is: implies long vol, I think\).
+Short Gamma (don't really know what this is: implies long vol, I think).
 
 ### Fixed Income
 
 Short US front-end  
-Long US flattener \(2yr/10yr and 5yr/30yr\)  
+Long US flattener (2yr/10yr and 5yr/30yr)  
 Long 5-10yr Italy vs short Germany Bunds
 
 ### Commodities
@@ -64,4 +64,3 @@ Long EM oil importers vs. Short exporters
 ### Credit
 
 Long US vs. short EU High Yield
-

@@ -2,8 +2,7 @@
 
 ### Books
 
--	[brealey-and-myers](http://www.amazon.co.uk/Principles-Corporate-Finance-Richard-Brealey/dp/1259009513), _Principles of Corporate Finance_. 
-
+-	[brealey-and-myers](http://www.amazon.co.uk/Principles-Corporate-Finance-Richard-Brealey/dp/1259009513), _Principles of Corporate Finance_.
 
 -	Elton, _Modern Portfolio Theory and Investment Analysis_.
 
@@ -15,7 +14,7 @@
 
 -	 http://www.sl-advisors.com/the-hedge-fund-mirage/[The Hedge Fund Mirage] Essential reading if you are ever seized with the desire to hand over your hard-earned savings to a hedge fund manager. Unfortunately, for many savers, including badly-paid public sector employees, they have no choice, because their pension savings are entrusted, in part, to these modern-day racketeers.
 
--	 "`Options, Futures and Other Derivatives`", John Hull.
+-	 "'Options, Futures and Other Derivatives'", John Hull.
 
 -    http://www.amazon.co.uk/Random-Walk-Down-Wall-Street/dp/0393330338[A Random Walk Down Wall Street]. Originally published in 1973, the popular book that revealed that a chimp with a dartboard had a very good chance of outperforming the best fund managers.
 
@@ -25,7 +24,7 @@
 
 -    http://www.amazon.com/The-Dao-Capital-Investing-Distorted/dp/111834703X [The Dao of Capital: Austrian Investing in a Distorted World, Spitznagel].
 
--    http://www.amazon.com/Debt-Delusion-Threaten-Economic-Disaster/dp/0977079333[Debt and Delusion] (or ``Central Bank Follies that Threaten Economic Disaster'' ). This is an extraordinary book that got dismissive reviews when it was published, hardly sold at all, but then was hailed as uncannily prescient then the economic disaster that did strike in 2008 finally hit.  
+-    http://www.amazon.com/Debt-Delusion-Threaten-Economic-Disaster/dp/0977079333[Debt and Delusion] (or ''Central Bank Follies that Threaten Economic Disaster'' ). This is an extraordinary book that got dismissive reviews when it was published, hardly sold at all, but then was hailed as uncannily prescient then the economic disaster that did strike in 2008 finally hit.  
 
 ### Internet Resources
 -	 http://www.themoneyillusion.com/[The Money Illusion].
@@ -47,4 +46,3 @@
 -    http://www.starcapital.de/[Star Capital Advisors]. This firms website has an interactive search facility which shows global markets and sectors ranked by various valuation metrics: price-to-book, price-to-sales etc. The page is fully interactive. The focus is on CAPE, but markets can be ranked by any of the measures. I cannot vouch for the accuracy of this data, but if it is accurate, it is all collected together in a very convenient format.
 
 -    https://en.wikipedia.org/wiki/Security_Analysis_(book)[Security Analysis], Graham and Dodd. The book from which Warren Buffett learned his trade.
-
