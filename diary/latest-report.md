@@ -39,3 +39,15 @@ Things stabilized.  Low inflation reading pushed bonds and equities higher. The 
 
 
 
+# Tue 15 May 2018 02:43:31 PM DST
+
+Amazing couple of days. ZB dropping fast, dragging UB, R, GBL with it. Special factors affecting BTP, but this is still moving in the right direction.
+
+Over the last couple of days I have made approx &pound;0.75M. I have been realizing some gains, particularly on ZB and ended up putting a close limit order for the whole position. I feel that with such a violent move today (ZB down 0.88%) there will be a spring back tomorrow. Over the last few weeks my policy of not taking profits has paid off, but the fear gauge has been building and the greed one is winding down, so, hopefully now is the time.
+
+I closed the majority of the R position. Weak GBP will push gilts down, but US bonds are a safer bet, and use up less margin. GBL is probably worth extending, as I believe that the Eurozone has more potential for growth than the UK. Also, easing off of QE by the ECB will help.
+
+
+USD.ZAR has been quite profitable. EM currencies are generally weak, but SA is especially vulnerable as it has gone up so much. Also, it's possible to trade it, unlike the others.
+
+
