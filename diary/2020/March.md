@@ -26,3 +26,11 @@ No point in trying to list sales. Basically, you unwound some of your exposure t
 At one point you were up 20%, $197K. You could not realise this, no bids or offers in many long dated options positions. 
 
 This morning's (US time) action will condition the algos not to but the dip so enthusiastically in future. Whether I can replicate this performance again this month is debatable. Hopefully, the bull will be slain and we'll grind down for the rest of the year. Margin back to ~$250K in >$1M. You still have a lot to make back.
+
+## 3:30pm
+
+Market recovering a bit. Bought a couple of ES, to blunt the impact. 
+
+Got short (via puts, looking for liquid ones) for MM, VZ, SBUX and BA. VZ because it seemed to have held up so well. 
+
+Lesson: good and bad stocks will be pulled down together because so much trading is via ETFs.
