@@ -16,4 +16,4 @@ Overall, had instinctive feeling that today was going down. Racheted up my expos
 
 Mondays are odd, because the US markets don't get going until the US morning, so there are no live prices for ES in the morning. Your exposure to the far east via US derivatives (FXI puts) is considerable. This is likely to be a huge day for you. The question now is how to avoid getting crushed by the bounce. You have to unwind, but what do you trade??
 
-
+The most amazing thing about the markets is that no new information has appeared in the last week or two. Coronavirus was known about in January. The overvaluation of US markets was known then. The likelihood that US interest rates would go to zero (like in Europe and Japan) was predicted months and months ago. The weak growth of the world economy (especially the US economy, whose notional real GDP growth was boosted by dubious hedonic adjustments to the GDP deflator). None of this really mattered until a dislocation in the market forced participants (now, probably, algorithms channeling human actors) to see the world from a different perspective.
