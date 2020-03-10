@@ -70,4 +70,11 @@ As of 09:15:
 
 - 10:22: losses shrink to 0.3% so I'm leaving off any trades for now
 
+- 10:29: P&L goes green. You sell another UB and R future. Market is expecting stimulus. You are now using $30K of margin on your UB position. 
+
+- 11:00: decided to sell BTP. It has jumped a lot. Italy is still a mess. I am now up 1%.
+
+
+
+
 
