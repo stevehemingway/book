@@ -66,5 +66,8 @@ As of 09:15:
 
 - GE future (Eurodollar, not equity)) bought. Price is scarily high, but this is a direct bet on US rates going to zero.
 
-Timestamp: 09:21.
+- 10:21: (I wrote and installed a python macro to insert a timestamp in Notepad++. Yay!)
+
+- 10:22: losses shrink to 0.3% so I'm leaving off any trades for now
+
 
