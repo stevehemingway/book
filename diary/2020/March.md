@@ -1,3 +1,5 @@
+# March 2020 Trading Diary
+
 ## Monday 9th
 
 Chaos overnight: Saudi declared war on Russia and pushed crude prices down to $32
@@ -19,7 +21,7 @@ Mondays are odd, because the US markets don't get going until the US morning, so
 
 The most amazing thing about the markets is that no new information has appeared in the last week or two. Coronavirus was known about in January. The overvaluation of US markets was known then. The likelihood that US interest rates would go to zero (like in Europe and Japan) was predicted months and months ago. The weak growth of the world economy (especially the US economy, whose notional real GDP growth was boosted by dubious hedonic adjustments to the GDP deflator). None of this really mattered until a dislocation in the market forced participants (now, probably, algorithms channeling human actors) to see the world from a different perspective.
 
-# After lunch
+### After lunch
 
 No point in trying to list sales. Basically, you unwound some of your exposure through straight short futures positions in Australia, Japan, Europe. After an initial phase in which circuit breakers halted trading, the ES market started to rise. You actually bought one ES future. 
 
@@ -27,10 +29,42 @@ At one point you were up 20%, $197K. You could not realise this, no bids or offe
 
 This morning's (US time) action will condition the algos not to but the dip so enthusiastically in future. Whether I can replicate this performance again this month is debatable. Hopefully, the bull will be slain and we'll grind down for the rest of the year. Margin back to ~$250K in >$1M. You still have a lot to make back.
 
-## 3:30pm
+### 3:30pm
 
 Market recovering a bit. Bought a couple of ES, to blunt the impact. 
 
 Got short (via puts, looking for liquid ones) for MM, VZ, SBUX and BA. VZ because it seemed to have held up so well. 
 
 Lesson: good and bad stocks will be pulled down together because so much trading is via ETFs.
+
+### Wrap
+
+One of the most extreme days in the market in recent history. Saudi, coronavirus, waking up. You were up 20%, which is good, but with many equities markets moving 7% this was not as good as it might have been. You kept your risk under control, and maintained your stops, so you were definitely more disciplined than you have been in the past.
+
+
+## Tuesday 10th
+
+### First Thing
+
+Down 1.3% at the open, despite having taken a bracing position. Didn't want to go completely market neutral as I believe that this market has further to fall.
+
+As of 09:15:
+
+- Bought 1 DX by accident. Was trying put on a stop, but didn't change it from the default order type of limit, so it executed immediately. At least at market price. Worried that the USD will be 'unexpectedly' resilient because the Fed still keeps monetary policy too tight, relative to ECB,
+
+- BTP bought, stop triggered
+
+- SPI sold, price action, China exposure
+
+- SX7P, extended position. Thesis is that as US rates go down, ECB be forced to go more negative, which has bad impact on EU banks, which are already pretty weak,
+
+- UB fut. sold. UB spiked really, really high yesterday (>240!) so this is a punt on the Fed triggering proper inflation. Don't know what this price is as a yield, but has to be way less than 2%!
+
+- DAX sold, stop triggered
+
+- DX stopped out (earlier)
+
+- GE future (Eurodollar, not equity)) bought. Price is scarily high, but this is a direct bet on US rates going to zero.
+
+Timestamp: 09:21.
+
