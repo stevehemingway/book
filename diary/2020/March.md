@@ -74,7 +74,7 @@ As of 09:15:
 
 - 11:00: decided to sell BTP. It has jumped a lot. Italy is still a mess. I am now up 1%.
 
-
+- 17:31: wild ride in afternoon. Initially showed losses of $91K: about 10%. This went right down to $20K. It then shot up again. Stocks bounced a long way back from their lows yesterday. Probably I should have closed all positions, but I am sure we have not finished with the drop. Anyhow, nothing much I can do now apart from hold on until tomorrow. I am still up a lot over 2 days but it shows how much really violent moves can bounce the next day.
 
 
 
