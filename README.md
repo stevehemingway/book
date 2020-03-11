@@ -24,5 +24,7 @@ I do not claim to be a great expert on investing. However:
 
 This book will  turn you into the next George Soros or John Paulson. It will not equip you to be convince anyone to fund your new hedge fund startup.  However, it should allow you to manage your own investments with confidence. Your performance should be good enough to outperform the  majority of fund managers. You will need to factor the extra time you spend researching, but you can offset this against your brokerage fees.
 
+Remote repos now on GitHub and Bitbucket. I even set up a webhook for my Discord server. W00t.
+
 _Steve Hemingway_
 
