@@ -2,6 +2,9 @@
 
 ## Books on Investing
 
+- [Mr Market Miscalculates](https://www.amazon.co.uk/Mr-Market-Miscalculates-James-Grant/dp/1604190086/). I have this book but I haven't read it yet. I am generally a fan of Jim Grant but I've never been prepared to pay for a subscription to his newsletter.
+
+
 -	[brealey-and-myers](http://www.amazon.co.uk/Principles-Corporate-Finance-Richard-Brealey/dp/1259009513), _Principles of Corporate Finance_. If you want to understand what a company is, and how it raises finance, this is the book to read. 
 
 -	Elton, _Modern Portfolio Theory and Investment Analysis_. Goes through the theory at length. Written before ETFs took over everything.
