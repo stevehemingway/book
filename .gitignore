@@ -11,7 +11,8 @@ node_modules
 /_book/
 /node_modules/
 
-# eBook build output
+# eBook build output. You used to have pdf here but you decided 
+# to have some pdf material in the directory.
 *.epub
 *.mobi
 
