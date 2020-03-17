@@ -2,6 +2,13 @@
 
 This is my attempt to write a book on investing. It is very far from being finished. I am doing this at least in part to understand gitbook and markdown and git. Currently, I've decided mainly to make a few notes about my trading activity in the hope that in the fullness of time something resembling a coherent strategy will emerge from it retrospectively.
 
+I have had this project on the go for a number of years. I have dialled back my ambition for it and am currently only updating the trading diary section. If you are looking at this book on GitHub you'll see where the recent changes have happened.
+
+If anyone wishes to contribute, especially by doing a bit of editing, I'd love to hear from him.
+This started out as being compatible with Gitbook, but that project seems to have gone into abeyance. There seems to be someone willing to pick it up, but I don't have enough material yet so I'm not focussing on the production side at all.
+
+I was thinking that it might work as a Jekyll website, but I don't want to think about this yet.
+
 ## Visitors
 
 I see that I'm getting a few visitors to sites hosting my 'book'. I have no idea why this should be. Maybe like so much traffic on the internet these days, these aren't flesh and blood visitors, but just bots. Maybe some day these bots will have enough intelligence to enjoy my musings. Maybe some day after that they'll consider it unbearably simplistic.
