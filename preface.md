@@ -2,7 +2,7 @@
 
 I started writing this in 2016. I spent a lot of time looking for the perfect software to write it in. I tend to indulge in displacement activities. At least I have now settled on [gitbook](https://gitbook.com) and so I can work on the content.
 
-My main activity at the moment is giving a semi-running commentary on my investing. I am not sure that this will make  very interesting reading, but it at least gives me some kind of narrative which I can use for investing. 
+My main activity at the moment is giving a semi-running commentary on my investing. I am not sure that this will make very interesting reading, but it at least gives me some kind of narrative which I can use for investing.
 
 I want to avoid this being just a book listing every possible type of security. Hopefully, I the various options will arise naturally as I explain my various trading ideas.
 

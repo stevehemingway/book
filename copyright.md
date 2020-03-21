@@ -1,9 +1,12 @@
-[IMPORTANT]
-#Copyright Notice
-This is an early draft of a book on trading. If you are interested in
-contributing, commenting, buying or just getting in touch, just send an
-email to {{book.author_email}}.
+# Copyright Notice
 
-Author: {{book.author_name}} Filename: {{file.path }} Last updated: {{ file.mtime }}
+\[IMPORTANT\]
 
-Book built with GitBook {{ gitbook.version }}
+## Copyright Notice
+
+This is an early draft of a book on trading. If you are interested in contributing, commenting, buying or just getting in touch, just send an email to .
+
+Author:  Filename:  Last updated: 
+
+Book built with GitBook 
+

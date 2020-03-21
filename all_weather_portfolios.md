@@ -10,17 +10,11 @@ My own view is that at some point the long bull market in bonds is going to unra
 60% stocks, 40% bonds. Stocks give growth, bonds reduce overall variance and produce income.
 
 * 5 percent U.S. REITs
-
 * 5 percent U.S. small cap value
-
 * 15 percent Pacific equities
-
 * 15 percent European equities
-
 * 10 percent U.S. TIPs
-
 * 10 percent U.S. high yield corp bonds
-
 * 20 percent U.S. total bond
 
 The advantage of this sort of portfolio is that does not require any rebalancing.
@@ -28,6 +22,4 @@ The advantage of this sort of portfolio is that does not require any rebalancing
 ## Commodity Futures ETFs
 
 These are ETFs that give investors an exposure to commodities without having to trade directly in the futures. Brokerages are reluctant, quite properly, to allow inexperienced investors to trade in futures because of the very high gearing that is possible using them. The ETFs have few assets under management by the standards of SPY and the big index-tracking funds. The strategies vary widely between funds, and are not at all transparent. The fees are high. The historical performance is poor. The sector is not popular, for these reasons.
-
-
 

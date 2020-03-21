@@ -1,3 +1,5 @@
+# GLOSSARY.md
+
 ## Miller Mogdiliani Theorem
 
 The '`no magic in gearing`' theorem. States that, in a slightly idealized  
@@ -7,7 +9,7 @@ but I rather admire it.
 
 ## Routing of Trades
 
-Your trade may not be executed where you think it was going to be.   
+Your trade may not be executed where you think it was going to be.  
 The SEC puts an obligation on brokers to '`be reasonable`' about this.
 
 ## efficient market hypothesis
@@ -71,7 +73,7 @@ a share portfolio for a year and show a total return of 10%, but if
 short term interest rates are running at 12% it suddenly doesn’t sound  
 so smart any more.  
 Because the Yen was, for so long, the currency with the cheapest carry  
-cost, it became very common, and profitable, to put on a '`Yen carry  
+cost, it became very common, and profitable, to put on a '`Yen carry    
 trade`', which involves selling the Yen against \(for example\) the dollar.  
 Because the long asset has the higher yield, this was a profitable  
 trade. Clearly the danger is that the Yen goes up before the redemption  
@@ -94,7 +96,7 @@ EAFE index \(Europe Australia and Far East\) future. Basically the developed wor
 
 ## Global Financial Crisis
 
-The events of 2007 which caused such a dislocation to growth in most countries on the globe.   
+The events of 2007 which caused such a dislocation to growth in most countries on the globe.  
 Probably still the dominant policy headache for governments even today, eight years later.
 
 ## Mean Variance
@@ -112,6 +114,6 @@ This is an event that you would expect 'never' to occur given the probability di
 
 ## Contract for Difference
 
-Better known as a CFD, this is a straighforward derivative that gives a direct, geared exposure to a stock.   
+Better known as a CFD, this is a straighforward derivative that gives a direct, geared exposure to a stock.  
 See also: spread betting and single stock futures.
 
