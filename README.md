@@ -1,4 +1,4 @@
-# Introduction
+# README.md
 
 This is my attempt to write a book on investing. It is very far from being finished. I am doing this at least in part to understand gitbook and markdown and git. Currently, I've decided mainly to make a few notes about my trading activity in the hope that in the fullness of time something resembling a coherent strategy will emerge from it retrospectively.
 
