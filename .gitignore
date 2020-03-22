@@ -16,3 +16,13 @@ node_modules
 *.epub
 *.mobi
 
+# from Fleck, not yours:
+/Daily_Rap
+
+# incorporate eventually?
+/For-later
+
+# mdbook output
+/my-example-book
+
+

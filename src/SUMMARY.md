@@ -1,12 +1,17 @@
 # SUMMARY.md
 
+# Prefix Chapters
 [Preface](preface.md)
 [opening\_remarks.md](opening_remarks.md)
+
+# Numbered Chapters
 * [Styles of Investing](styles-of-investing/README.md)
   * [Passive Investing](styles-of-investing/passive_investing.md)
   * [Passive Investing](styles-of-investing/passive_investing-1.md)
+* [Practical Matters](Practice/Types_of_orders.md)  
 * [All Weather Portfolios](all_weather_portfolios.md)
 * [Trading Diary](Diary/README.md)
+  * [Current Issues](Diary/current_issues.md)
   * [2020](Diary/2020/About.md)
     * [March](Diary/2020/March/Overview.md)
 	  * [9th](Diary/2020/March/9th.md)
@@ -20,8 +25,12 @@
 	  * [18th](Diary/2020/March/18th.md)
 	  * [19th](Diary/2020/March/19th.md)
 	  * [20th](Diary/2020/March/20th.md)
-  * [Latest Report](Diary/2017/Q2.md)
-  * [Current Issues](Diary/current_issues.md)
+	  * [W/e of 21-22 Mar](Diary/2020/March/21-22nd.md)
+  * [2019](Diary/2019/the_year.md)
+  * [2018](Diary/2018/All_year.md)
+  * [2018](Diary/2018/Lessons.md)
+  * [2017 Q2](Diary/2017/Q2.md)
+  * [2017 Q1](Diary/2017/Q1.md)
   * [Previous Quarter](Diary/2017/Q1.md)
   * [2016](Diary/2016/README.md)
     * [February](Diary/2016/february_2016.md)
@@ -29,10 +38,10 @@
   * [2015](Diary/2015/all_year.md)
 * [Trading](trading.md)
 * [Valuation](valuation.md)
-* [SUMMARY.md](summary.md)
-* [README.md](readme.md)
-* [GLOSSARY.md](glossary.md)
-* [Appendices](Appendices/README.md)
-  * [Bibliography](Appendices/bibliography.md)
-  * [Stock Tickers](Appendices/stock_tickers.md)
-* [Copyright Notice](copyright.md)
+
+# Suffix Chapters
+[README.md](readme.md)
+[GLOSSARY.md](glossary.md)
+[Bibliography](Appendices/bibliography.md)
+[Stock Tickers](Appendices/stock_tickers.md)
+[Copyright Notice](copyright.md)
