@@ -4,6 +4,7 @@
 
 ## temp files left behind by Vim.
 *~
+*.swp
 
 ## Dependency directory
 ## Commenting this out is preferred by some people, see
