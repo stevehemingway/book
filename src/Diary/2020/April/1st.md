@@ -10,5 +10,7 @@ SX7P option sold via limit (up $10K).
 - later sold 2K EURN
 - put a trailing stop sale on DJ600 to open a new position if it goes down.
 
+## Thoughts
+
 
 
