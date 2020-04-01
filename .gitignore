@@ -14,6 +14,8 @@ node_modules
 # Book build output
 /_book/
 /node_modules/
+/my-example-book
+/risk-and-return-built/
 
 # eBook build output. You used to have pdf here but you decided 
 # to have some pdf material in the directory.
@@ -25,8 +27,5 @@ node_modules
 
 # incorporate eventually?
 /For-later
-
-# mdbook output
-/my-example-book
 
 

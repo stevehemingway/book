@@ -31,4 +31,11 @@
 * [Star Capital Advisors](http://www.starcapital.de/). This firms website has an interactive search facility which shows global markets and sectors ranked by various valuation metrics: price-to-book, price-to-sales etc. The page is fully interactive. The focus is on CAPE, but markets can be ranked by any of the measures. I cannot vouch for the accuracy of this data, but if it is accurate, it is all collected together in a very convenient format.
 * [Sentiment Trader](https://www.sentimentrader.com/): paid for service with free taster email. Not just mindless "head and shoulders pattern" chartist analysis, but an aggregation of lots of sentiment-related data.
 * [The Daily Shot](https://dailyshotbrief.com/): daily update of market-related stats. If you are a subscriber to the WSJ you can get the full version; the 'brief' version, linked to here, is free but limited. Lots of this data is available for free from other places, but it's handy to have it delivered.
+* [Volatility Quant](https://twitter.com/VolatilityQ): widely followed Twitter account.
+* [Adventures in Capitalism](https://adventuresincapitalism.com/): Harris Kupperman (Kuppy). Hedge fund blog.
+* [Sentiment Trader](https://www.sentimentrader.com): lots of data about what traders are thinking about where the market is going.
 
+### Print and Internet
+
+* [The Economist](https://www.economist.com/): the best single weekly news source, IMHO. Good on economics, as you'd guess.
+* [The FT](https://www.ft.com/): no comment. 
