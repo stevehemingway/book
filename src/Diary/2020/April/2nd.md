@@ -50,3 +50,5 @@ He can't do much about the real economy, and goosing the stockmarket is just goi
 
 
 
+Decided to check out what Citron is short of and shorted INO and FLT.
+The recent price behaviour looks favourable.
