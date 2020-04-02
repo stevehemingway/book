@@ -52,3 +52,16 @@ He can't do much about the real economy, and goosing the stockmarket is just goi
 
 Decided to check out what Citron is short of and shorted INO and FLT.
 The recent price behaviour looks favourable.
+
+I fancy shorting Fly Leasing.
+Based on a skim read of [this article](https://seekingalpha.com/article/4335617-fly-leasing-is-vulnerable-to-effects-from-coronavirus?utm_medium=email&utm_source=seeking_alpha&mail_subject=gold-panda-fly-leasing-is-vulnerable-to-the-effects-from-the-coronavirus&utm_campaign=rta-author-article&utm_content=link-0). 
+Not sure yet whether to plunge. 
+It *sounds* a good idea.
+
+[SA article](https://seekingalpha.com/article/4335607-global-shipping-tankers-winning-uncertainty-abounds) support's Kuppy's case for going long tankers. CPLP, DSSI, INSW, LPG, SBLK reccommended. 
+
+SMAR seems to offer some collaborative spreadsheet solution. Doesn't sound like a long-term plan.
+Although MS could always buy it for silly money and destroy the thesis.
+
+[Stephan Ong](https://seekingalpha.com/author/stefan-ong#regular_articles) is bullish, for accounting reasons.
+
