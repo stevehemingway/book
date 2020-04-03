@@ -41,6 +41,8 @@
       * [30th](Diary/2020/march/30th.md)
     * [April](Diary/2020/April/overview.md)
 	  * [1st](Diary/2020/April/1st.md)
+	  * [1st](Diary/2020/April/1st.md)
+	  * [1st](Diary/2020/April/1st.md)
   * [Latest Report](Diary/2017/q2.md)
   * [Previous Quarter](Diary/2017/q1.md)
 * [Trading](trading.md)
