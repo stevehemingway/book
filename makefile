@@ -1,5 +1,7 @@
 
 
+docs/: src/
+	mdbook build
 
 
 all:  remote

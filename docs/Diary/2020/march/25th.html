@@ -193,21 +193,6 @@ not least updating MediaWiki to 1.34 on the Knebworth Village site.</p>
         </div>
 
         
-        <!-- Livereload script (if served using the cli tool) -->
-        <script type="text/javascript">
-            var socket = new WebSocket("ws://localhost:3001");
-            socket.onmessage = function (event) {
-                if (event.data === "reload") {
-                    socket.close();
-                    location.reload();
-                }
-            };
-
-            window.onbeforeunload = function() {
-                socket.close();
-            }
-        </script>
-        
 
         
 

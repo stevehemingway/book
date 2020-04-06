@@ -148,7 +148,9 @@
                 <div id="content" class="content">
                     <main>
                         <h1><a class="header" href="#preface" id="preface">Preface</a></h1>
-<p>I started writing this in 2016. I spent a lot of time looking for the perfect software to write it in. I tend to indulge in displacement activities. At least I have now settled on <a href="https://gitbook.com">gitbook</a> and so I can work on the content.</p>
+<p>I started writing this in 2016. I spent a lot of time looking for the perfect software to write it in. I tend to indulge in displacement activities. 
+I chose <a href="https://gitbook.com">gitbook</a> initially, as it allows me to create in markdown and create content offline but sync to git so I can work on the source from any of my many machines (in an OS-independent way). I finally worked out how to make this show up in github pages (<a href="https://stevehemingway.github.io/book/">here</a>). The key files are <a href="/book.toml">/book.toml</a> and running 'mdbook build' on the command line. 
+I don't know why, but I find the Github pages documentation fantastically confusing.</p>
 <p>My main activity at the moment is giving a semi-running commentary on my investing. I am not sure that this will make very interesting reading, but it at least gives me some kind of narrative which I can use for investing.</p>
 <p>I want to avoid this being just a book listing every possible type of security. Hopefully, I the various options will arise naturally as I explain my various trading ideas.</p>
 <h2><a class="header" href="#for-the-technically-minded" id="for-the-technically-minded">For the technically minded</a></h2>
@@ -185,21 +187,6 @@
 
         </div>
 
-        
-        <!-- Livereload script (if served using the cli tool) -->
-        <script type="text/javascript">
-            var socket = new WebSocket("ws://localhost:3001");
-            socket.onmessage = function (event) {
-                if (event.data === "reload") {
-                    socket.close();
-                    location.reload();
-                }
-            };
-
-            window.onbeforeunload = function() {
-                socket.close();
-            }
-        </script>
         
 
         
