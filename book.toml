@@ -4,7 +4,7 @@ author = "Steve H"
 description = "How to lose money more slowly on the stockmarket."
 
 [build]
-build-dir = "risk-and-return-built"
+build-dir = "docs"
 create-missing = false
 
 [preprocessor.index]
