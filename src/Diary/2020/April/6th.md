@@ -12,3 +12,4 @@ This edition thinks that EM, China, are all in big trouble.
 My thoughts are that the best way to monetize this is to short the currency.
 There is not enough liquidity in the stock market now and small changes in sentiment produce outsize swings in prices.
 
+[More fraud coming down the tracks (Matt Tabbi)](https://taibbi.substack.com/p/resetting-the-bomb)
