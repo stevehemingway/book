@@ -1,19 +1,14 @@
 
 
-%.adoc: %.md
-	pandoc --from=markdown --to=asciidoc -S $< -o $@
-
-adocs =  README.adoc   asset_classes.adoc bibliography.adoc copyright.adoc current_issues.adoc derivatives.adoc introduction.adoc risk_measures.adoc the_mechanics_of_trading.adoc trading_diary.adoc where_to_trade.adoc copyright.adoc
 
 
 all:  remote
 
-_book/index.html: $(adocs) 	
-	gitbook build
-	echo "now run gitbook serve from command line"
+docs/index.html: $(adocs) 	
+	mdbook build
 	
 serve:
-		gitbook serve
+		mdbook serve
 		
 commit: 
 			git add .
@@ -23,12 +18,8 @@ remote:
 	git push origin
 	git push bitbucket
 
-local:
-	_book/index.html
 
 
-build:	_book/index.html
+build:	docs/index.html
 
-caxtonvilla:
-	gitbook build
 

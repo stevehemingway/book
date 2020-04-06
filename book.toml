@@ -5,7 +5,7 @@ description = "How to lose money more slowly on the stockmarket."
 
 [build]
 build-dir = "docs"
-create-missing = false
+create-missing = true # will create empty md files for missing entries in SUMMARY
 
 [preprocessor.index]
 
