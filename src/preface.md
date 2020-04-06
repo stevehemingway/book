@@ -1,6 +1,9 @@
 # Preface
 
-I started writing this in 2016. I spent a lot of time looking for the perfect software to write it in. I tend to indulge in displacement activities. At least I have now settled on [gitbook](https://gitbook.com) and so I can work on the content.
+I started writing this in 2016. I spent a lot of time looking for the perfect software to write it in. I tend to indulge in displacement activities. 
+I chose [gitbook](https://gitbook.com) initially, as it allows me to create in markdown and create content offline but sync to git so I can work on the source from any of my many machines (in an OS-independent way). I finally worked out how to make this show up in github pages ([here](https://stevehemingway.github.io/book/)). The key files are [/book.toml](/book.toml) and running 'mdbook build' on the command line. 
+I don't know why, but I find the Github pages documentation fantastically confusing.
+
 
 My main activity at the moment is giving a semi-running commentary on my investing. I am not sure that this will make very interesting reading, but it at least gives me some kind of narrative which I can use for investing.
 
