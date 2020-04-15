@@ -49,3 +49,16 @@ He says that:
 There are some good links to videos from Peter Lynch and Milton Friedman. 
 There is quite a good link to an old Onion piece making fun of the money illusion.
 
+## The worst stocks will likely have the biggest recoveries
+
+This is a very important principle. Often, a big turnover company with poor margins will be pushed into loss by a bad economy. 
+When the economy bounces back, even a bit, the eps can roar back (even though earnings yield is still pretty crap).
+You also have a momentum thing, and a liquidity thing.
+Basically, something illiquid and high beta should not be shorted, no matter how much a basket case it seems. Except in tiny size.
+
+
+## Gold nervousness
+
+Sold a few MU. Noticed that GC was damaging my bottom line and decided to reduce my exposure by writing some calls. 
+It's complicated because I have a stop at the strike price. Prob. better cancel the stop.
+
