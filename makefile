@@ -16,9 +16,9 @@ commit:
 			git add .
 			git commit
 remote:
+	mdbook build
 	git commit -a
-	git push origin
-	git push bitbucket
+	git push
 
 
 
