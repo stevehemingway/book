@@ -5,6 +5,7 @@
   * [Diary](src/diary/README.md)
     * [2020](src/diary/2020/README.md)
       * [April](src/diary/2020/april/README.md)
+        * [21 April 2020](src/diary/2020/april/21-april-2020.md)
         * [6th Apr 2020](src/diary/2020/april/6th.md)
         * [4th/5th April 2020](src/diary/2020/april/4th.md)
         * [2nd April 2020 \(Jerry's birthday\)](src/diary/2020/april/2nd.md)
