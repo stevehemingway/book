@@ -1,0 +1,62 @@
+# SUMMARY
+
+## SUMMARY.md
+
+## Preamble Chapters
+
+[Preface](preface.md)
+
+* [2020](diary/2020/about.md)
+  * [March](diary/2020/march/overview.md)
+    * [9th](diary/2020/march/9th.md)
+    * [10th](diary/2020/march/10th.md)
+    * [11th](diary/2020/march/11th.md)
+    * [12th](diary/2020/march/12th.md)
+    * [13th](diary/2020/march/13th.md)
+    * [Weekend of the 14/15th](diary/2020/march/14-15th.md)
+    * [16th](diary/2020/march/16th.md)
+    * [17th](diary/2020/march/17th.md)
+    * [18th](diary/2020/march/18th.md)
+    * [19th](diary/2020/march/19th.md)
+    * [20th](diary/2020/march/20th.md)
+    * [Weekend of the 21/22nd](diary/2020/march/21-22nd.md)
+    * [23rd](diary/2020/march/23rd.md)
+    * [24th](diary/2020/march/24th.md)
+    * [25th](diary/2020/march/25th.md)
+    * [26th](diary/2020/march/26th.md)
+    * [30th](diary/2020/march/30th.md)
+  * [April](diary/2020/april/overview.md)
+    * [1st](diary/2020/april/1st.md)
+    * [2nd](diary/2020/april/2nd.md)
+    * [3rd](diary/2020/april/3rd.md)
+    * [4th](diary/2020/april/4th.md)
+    * [6th](diary/2020/april/6th.md)
+    * [15th](diary/2020/april/15th.md)
+    * [17th](diary/2020/april/17th.md)
+    * [20th](https://github.com/stevehemingway/book/tree/13cc456be73d7a8ba161f212c25416710f5ac8e3/src/Diary/2020/April/20th.md)
+* [2019](diary/2019/the_year.md)
+  * [Latest Report](diary/2017/q2.md)
+  * [Previous Quarter](diary/2017/q1.md)
+* [2018](diary/2018/)
+  * [All\_year](diary/2018/all_year.md)
+  * [2018 and lessons I learned](diary/2018/lessons.md)
+  * [Twenty nineteen: a year to forget](diary/2019/the_year.md)
+* [2017 Q1](diary/2017/q1.md)
+* [2017 Q2](diary/2017/q2.md)
+* [2016](diary/2016/index.md)  
+  * [February](diary/2016/february.md)
+  * [January](diary/2016/january.md)
+* [2015](diary/2015/all_year.md)
+  * [2015](diary/2015/all_year.md)
+    * [January](diary/2016/january.md)
+* [Trading](trading.md)
+* [Valuation](valuation.md)
+* [Passive Investing](passive_investing.md)
+* [Valuation](valuation.md)
+* [All Weather Portfolios](all_weather_portfolios.md)
+* [Trading](trading.md)
+
+## Suffix Chapters
+
+[GLOSSARY.md](glossary.md) [Bibliography](appendices/bibliography.md) [Stock Tickers](appendices/stock_tickers.md) [Copyright Notice](copyright.md)
+

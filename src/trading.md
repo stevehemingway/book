@@ -140,7 +140,7 @@ Exchanges have systems that cannot be accessed directly by end investors. Divers
 
 In the area of futures traders, there have been some spectacular failures: MF Global, and Saxo Spreads. Brokers tend to fail at a time of maximum market volatility: the very last time you want to try to change brokers, and take the risk of liquidating and re-establishing a position.
 
-I have found that a good place to start is [http://online.barrons.com/articles/SB51367578116875004693704580500193983582362\[Barron’s](http://online.barrons.com/articles/SB51367578116875004693704580500193983582362[Barron’s) Survey of Online Brokerages\]. I personally use Interactive Brokers. They are fairly sophisticated, and are the best that I’ve come across.  
+I have found that a good place to start is \[[http://online.barrons.com/articles/SB51367578116875004693704580500193983582362\[Barron’s\]\(http://online.barrons.com/articles/SB51367578116875004693704580500193983582362\[Barron’s](http://online.barrons.com/articles/SB51367578116875004693704580500193983582362[Barron’s]%28http://online.barrons.com/articles/SB51367578116875004693704580500193983582362[Barron’s)\) Survey of Online Brokerages\]. I personally use Interactive Brokers. They are fairly sophisticated, and are the best that I’ve come across.  
 Previously I was with Options Xpress, a very good brokerage, owned by Charles Schwab, but one that now focuses almost exclusively on clients based in the USA. My experience is that US-based brokerages are many years ahead of UK or European providers in terms of technology and breadth of product coverage.
 
 ## Styles of Investing

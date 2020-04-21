@@ -32,10 +32,11 @@
 * [Sentiment Trader](https://www.sentimentrader.com/): paid for service with free taster email. Not just mindless "head and shoulders pattern" chartist analysis, but an aggregation of lots of sentiment-related data.
 * [The Daily Shot](https://dailyshotbrief.com/): daily update of market-related stats. If you are a subscriber to the WSJ you can get the full version; the 'brief' version, linked to here, is free but limited. Lots of this data is available for free from other places, but it's handy to have it delivered.
 * [Volatility Quant](https://twitter.com/VolatilityQ): widely followed Twitter account.
-* [Adventures in Capitalism](https://adventuresincapitalism.com/): Harris Kupperman (Kuppy). Hedge fund blog.
+* [Adventures in Capitalism](https://adventuresincapitalism.com/): Harris Kupperman \(Kuppy\). Hedge fund blog.
 * [Sentiment Trader](https://www.sentimentrader.com): lots of data about what traders are thinking about where the market is going.
 
 ### Print and Internet
 
 * [The Economist](https://www.economist.com/): the best single weekly news source, IMHO. Good on economics, as you'd guess.
 * [The FT](https://www.ft.com/): no comment. 
+
