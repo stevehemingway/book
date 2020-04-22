@@ -31,6 +31,9 @@
       * [17th](Diary/2020/April/17th.md)
       * [20th](Diary/2020/April/20th.md)
       * [21st](Diary/2020/April/21st.md)
+      * [22nd](Diary/2020/April/22nd.md)
+      * [23rd](Diary/2020/April/23rd.md)
+      * [24th](Diary/2020/April/24th.md)
 	  
 * [2019](Diary/2019/the_year.md)
   * [Latest Report](Diary/2017/q2.md)
