@@ -24,9 +24,9 @@ From a practical point of view, if the market has underestimated the extent to w
 
 For more information check out
 
-* \[[https://en.wikipedia.org/wiki/Fundamental\_theorem\_of\_asset\_pricing\[The\]\(https://en.wikipedia.org/wiki/Fundamental\_theorem\_of\_asset\_pricing\[The](https://en.wikipedia.org/wiki/Fundamental_theorem_of_asset_pricing[The]%28https://en.wikipedia.org/wiki/Fundamental_theorem_of_asset_pricing[The)\) Fundamental Theorem of Asset Pricing\],
-* \[[https://en.wikipedia.org/wiki/Arrow%E2%80%93Debreu\_model\[the\]\(https://en.wikipedia.org/wiki/Arrow%E2%80%93Debreu\_model\[the](https://en.wikipedia.org/wiki/Arrow%E2%80%93Debreu_model[the]%28https://en.wikipedia.org/wiki/Arrow%E2%80%93Debreu_model[the)\) Arrow Debreu Model\] and
-* \[[https://en.wikipedia.org/wiki/Net\_present\_value\[Present\]\(https://en.wikipedia.org/wiki/Net\_present\_value\[Present](https://en.wikipedia.org/wiki/Net_present_value[Present]%28https://en.wikipedia.org/wiki/Net_present_value[Present)\) Value\].
+* [https://en.wikipedia.org/wiki/Fundamental\_theorem\_of\_asset\_pricing\[The](https://en.wikipedia.org/wiki/Fundamental_theorem_of_asset_pricing[The) Fundamental Theorem of Asset Pricing\],
+* [https://en.wikipedia.org/wiki/Arrow%E2%80%93Debreu\_model\[the](https://en.wikipedia.org/wiki/Arrow%E2%80%93Debreu_model[the) Arrow Debreu Model\] and
+* [https://en.wikipedia.org/wiki/Net\_present\_value\[Present](https://en.wikipedia.org/wiki/Net_present_value[Present) Value\].
 
 ## Asset Classes
 
@@ -49,11 +49,11 @@ The key thing about equities is that they are the most risky of securities issue
 
 The natural question to ask about whether a market is overpriced is 'compared to what?'. A lot of valuation metrics arise from various plausible answers to this question. One answer is ''compared to the economy as a whole''. This is, supposedly, a favourite metric of Warren Buffett. It certainly has the advantage of simplicity. The downside is that it does not look at the shift in companies’ preferred financing strategies. Over time, and between countries, companies finance their capital spending in different ways. Investors’ enthusiasm for equities has resulted in substitution of equity for debt. This certainly happened in the 60’s, and is, arguably, happening now. In continental Europe, even large companies choose bank debt over securities and especially over equity, which is regarded as ''Anglo Saxon capitalism''.
 
-\[[http://www.advisorperspectives.com/dshort/updates/Market-Cap-to-GDP.php\[This\]\(http://www.advisorperspectives.com/dshort/updates/Market-Cap-to-GDP.php\[This](http://www.advisorperspectives.com/dshort/updates/Market-Cap-to-GDP.php[This]%28http://www.advisorperspectives.com/dshort/updates/Market-Cap-to-GDP.php[This)\) article\] gives some recent figures. Currently this indicator is ''flashing red'' for long positions in equities.
+[http://www.advisorperspectives.com/dshort/updates/Market-Cap-to-GDP.php\[This](http://www.advisorperspectives.com/dshort/updates/Market-Cap-to-GDP.php[This) article\] gives some recent figures. Currently this indicator is ''flashing red'' for long positions in equities.
 
 The problem with a lot of equities valuation is the noise caused by the business cycle. The well-known Shiller CAPE attempts to do this by looking back over ten years of earnings, to average out some of the noise.
 
-A more sophisticated attempt is \[[http://www.advisorperspectives.com/dshort/guest/Easterling-So-Many-Choices-Part-1.php\[the\]\(http://www.advisorperspectives.com/dshort/guest/Easterling-So-Many-Choices-Part-1.php\[the](http://www.advisorperspectives.com/dshort/guest/Easterling-So-Many-Choices-Part-1.php[the]%28http://www.advisorperspectives.com/dshort/guest/Easterling-So-Many-Choices-Part-1.php[the)\) Crestmont P/E\]. This produces a less noisy signal, but this is at the cost of bringing in more difficult-to-measure parameters.
+A more sophisticated attempt is [http://www.advisorperspectives.com/dshort/guest/Easterling-So-Many-Choices-Part-1.php\[the](http://www.advisorperspectives.com/dshort/guest/Easterling-So-Many-Choices-Part-1.php[the) Crestmont P/E\]. This produces a less noisy signal, but this is at the cost of bringing in more difficult-to-measure parameters.
 
 In a situation where its impossible to be completely sure that the noise is at an acceptable level, it is best to use as wide a range of indicators, ideally ones which use totally independent statistics.
 
