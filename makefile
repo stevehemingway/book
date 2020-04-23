@@ -2,7 +2,7 @@
 # makefile for book build
 
 
-docs/index.html: $(adocs) 	
+docs/index.html: src/Diary/2020/April/*.md
 	mdbook build
 	
 serve:
