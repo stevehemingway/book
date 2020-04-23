@@ -22,6 +22,6 @@ remote:
 
 
 
-build:	docs/index.html
-
+build:	
+	mdbook build
 

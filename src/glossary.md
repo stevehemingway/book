@@ -117,3 +117,5 @@ This is an event that you would expect 'never' to occur given the probability di
 Better known as a CFD, this is a straighforward derivative that gives a direct, geared exposure to a stock.  
 See also: spread betting and single stock futures.
 
+
+
