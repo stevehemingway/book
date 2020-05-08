@@ -1,27 +1,27 @@
 
-
-docs/: src/
-	mdbook build
+# makefile for book build
 
 
-all:  remote
-
-docs/index.html: $(adocs) 	
+docs/index.html: src/Diary/2020/April/*.md
 	mdbook build
 	
 serve:
-		mdbook serve
+	mdbook serve
 		
 commit: 
-			git add .
-			git commit
+	git add .
+	git commit
+
 remote:
 	mdbook build
 	git commit -a
 	git push
 
 
-
 build:	docs/index.html
 
+book:	
+	mdbook build
 
+docs/: src/
+	mdbook build
